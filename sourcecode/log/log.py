@@ -9,12 +9,16 @@ def wLog(tag, context):
     f.close()
 
 
+def startProj():
+    wLog('INFO', '-----------------------------------------------------------------------------')
+
+
 def callHere(context):
-    wLog('INFO', context)
+    wLog('INFO ', context)
 
 
 def exitHere(context):
-    wLog('EXIT', context)
+    wLog('EXIT ', context)
 
 
 def startHere(context):
@@ -22,4 +26,4 @@ def startHere(context):
 
 
 def doneHere(context):
-    wLog('DONE', context)
+    wLog('DONE ', context)

@@ -18,3 +18,7 @@ def isFileExist(filename):
 
 def today():
     return datetime.datetime.now()
+
+
+def getLevelFileName(level, id):
+    return './dataset/cambridge/'+level+'/'+str(id)+'.txt'

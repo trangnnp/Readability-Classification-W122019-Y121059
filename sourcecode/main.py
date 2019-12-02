@@ -16,6 +16,7 @@ from process import process as p
 
 
 def main():
+    l.startProj()
     l.callHere('Hello world!')
     print("Hello world!")
 
