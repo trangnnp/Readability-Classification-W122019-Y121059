@@ -1,2 +1,81 @@
 2019-12-02 22:10:56.389915:   [INFO]   Hello world!
 2019-12-02 22:10:56.390116:   [EXIT]   Exit All!
+2019-12-02 22:40:49.567466:   [INFO]   Hello world!
+2019-12-02 22:41:13.655260:   [INFO]   Hello world!
+2019-12-02 22:41:13.655420:   [EXIT]   Exit All!
+2019-12-02 22:43:02.189197:   [INFO]   Hello world!
+2019-12-02 22:43:02.189354:   [INFO]   Start main processing!
+2019-12-02 22:43:02.189540:   [EXIT]   Exit main process!
+2019-12-02 22:43:02.189628:   [EXIT]   Exit All!
+2019-12-02 23:07:49.818294:   [INFO]   Hello world!
+2019-12-02 23:07:49.818802:   [INFO]   Start main processing!
+2019-12-02 23:07:49.818904:   [START]   Start Traning data
+2019-12-02 23:07:49.818992:   [START]   Initialize parameters Start
+2019-12-02 23:08:13.021822:   [INFO]   Hello world!
+2019-12-02 23:08:13.022000:   [INFO]   Start main processing!
+2019-12-02 23:08:13.022438:   [START]   Start Traning data
+2019-12-02 23:08:13.022651:   [START]   Initialize parameters Start
+2019-12-02 23:08:13.022794:   [DONE]   Initialize parameters Done
+2019-12-02 23:08:13.022986:   [START]   Start setup FOLD
+2019-12-02 23:08:29.752314:   [INFO]   Hello world!
+2019-12-02 23:08:29.752488:   [INFO]   Start main processing!
+2019-12-02 23:08:29.752625:   [START]   Start Traning data
+2019-12-02 23:08:29.752742:   [START]   Initialize parameters Start
+2019-12-02 23:08:29.752865:   [DONE]   Initialize parameters Done
+2019-12-02 23:08:29.752986:   [START]   Start setup FOLD
+2019-12-02 23:08:46.606792:   [INFO]   Hello world!
+2019-12-02 23:08:46.606947:   [INFO]   Start main processing!
+2019-12-02 23:08:46.607441:   [START]   Start Traning data
+2019-12-02 23:08:46.607559:   [START]   Initialize parameters Start
+2019-12-02 23:08:46.607742:   [DONE]   Initialize parameters Done
+2019-12-02 23:08:46.607918:   [START]   Start setup FOLD
+2019-12-02 23:09:07.558217:   [INFO]   Hello world!
+2019-12-02 23:09:07.558920:   [INFO]   Start main processing!
+2019-12-02 23:09:07.559085:   [START]   Start Traning data
+2019-12-02 23:09:07.559283:   [START]   Initialize parameters Start
+2019-12-02 23:09:07.559387:   [DONE]   Initialize parameters Done
+2019-12-02 23:09:07.559498:   [START]   Start setup FOLD
+2019-12-02 23:09:07.559675:   [START]   Setup FOLD Done
+2019-12-02 23:09:07.559787:   [DONE]   Start Traning data Done
+2019-12-02 23:09:07.559869:   [EXIT]   Exit main process!
+2019-12-02 23:09:07.559940:   [EXIT]   Exit All!
+2019-12-02 23:09:28.851362:   [INFO]   Hello world!
+2019-12-02 23:09:28.851520:   [INFO]   Start main processing!
+2019-12-02 23:09:28.851954:   [START]   Start Traning data
+2019-12-02 23:09:28.852040:   [START]   Initialize parameters Start
+2019-12-02 23:09:28.852156:   [DONE]   Initialize parameters Done
+2019-12-02 23:09:28.852333:   [START]   Start setup FOLD
+2019-12-02 23:09:28.852483:   [START]   Setup FOLD Done
+2019-12-02 23:09:28.852624:   [DONE]   Start Traning data Done
+2019-12-02 23:09:28.852734:   [EXIT]   Exit main process!
+2019-12-02 23:09:28.852802:   [EXIT]   Exit All!
+2019-12-02 23:09:44.152258:   [INFO]   Hello world!
+2019-12-02 23:09:44.152427:   [INFO]   Start main processing!
+2019-12-02 23:09:44.152818:   [START]   Start Traning data
+2019-12-02 23:09:44.152923:   [START]   Initialize parameters Start
+2019-12-02 23:09:44.153012:   [DONE]   Initialize parameters Done
+2019-12-02 23:09:44.153191:   [START]   Start setup FOLD
+2019-12-02 23:09:44.153309:   [START]   Setup FOLD Done
+2019-12-02 23:09:44.153404:   [DONE]   Start Traning data Done
+2019-12-02 23:09:44.153481:   [EXIT]   Exit main process!
+2019-12-02 23:09:44.153554:   [EXIT]   Exit All!
+2019-12-02 23:09:58.527126:   [INFO]   Hello world!
+2019-12-02 23:09:58.527306:   [INFO]   Start main processing!
+2019-12-02 23:09:58.527640:   [START]   Start Traning data
+2019-12-02 23:09:58.527750:   [START]   Initialize parameters Start
+2019-12-02 23:09:58.527874:   [DONE]   Initialize parameters Done
+2019-12-02 23:09:58.527956:   [START]   Start setup FOLD
+2019-12-02 23:09:58.528062:   [START]   Setup FOLD Done
+2019-12-02 23:09:58.528150:   [DONE]   Start Traning data Done
+2019-12-02 23:09:58.528221:   [EXIT]   Exit main process!
+2019-12-02 23:09:58.528352:   [EXIT]   Exit All!
+2019-12-02 23:10:13.075697:   [INFO]   Hello world!
+2019-12-02 23:10:13.075881:   [INFO]   Start main processing!
+2019-12-02 23:10:13.076327:   [START]   Start Traning data
+2019-12-02 23:10:13.076522:   [START]   Initialize parameters Start
+2019-12-02 23:10:13.076592:   [DONE]   Initialize parameters Done
+2019-12-02 23:10:13.076717:   [START]   Start setup FOLD
+2019-12-02 23:10:13.076935:   [START]   Setup FOLD Done
+2019-12-02 23:10:13.077056:   [DONE]   Start Traning data Done
+2019-12-02 23:10:13.077231:   [EXIT]   Exit main process!
+2019-12-02 23:10:13.077348:   [EXIT]   Exit All!

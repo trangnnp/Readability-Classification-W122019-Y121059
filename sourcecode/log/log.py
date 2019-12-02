@@ -15,3 +15,11 @@ def callHere(context):
 
 def exitHere(context):
     wLog('EXIT', context)
+
+
+def startHere(context):
+    wLog('START', context)
+
+
+def doneHere(context):
+    wLog('DONE', context)
