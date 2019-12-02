@@ -6,7 +6,26 @@
  # @ Description:
  '''
 
+import sys
+import os
 import datetime
+from config import config as c
+from log import log as l
+from helper import help as h
 
-print(datetime.datetime.now())
-print("Hello world!")
+
+def main():
+    l.callHere('Hello world!')
+    print("Hello world!")
+
+    sys.path.append(os.path.join(sys.path[0], 'config'))
+    sys.path.append(os.path.join(sys.path[0], 'helper'))
+    sys.path.append(os.path.join(sys.path[0], 'log'))
+
+    # c.loadConfig()
+
+    l.exitHere('Exit All!')
+
+
+if __name__ == "__main__":
+    main()
