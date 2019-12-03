@@ -77,6 +77,7 @@ def readLevel(docName, quantyLevel):
 
     levelData = []
     preprocessedLevelData = []
+    scoreDoc = []
     for i in range(1, quantyLevel+1):
         fileName = h.getLevelFileName(docName, i)
         fi = open(fileName, 'r')
@@ -84,9 +85,11 @@ def readLevel(docName, quantyLevel):
         # l.startHere("Preprocess " + fileName + " Start")
         preprocessedLevelData.append(preprocess(levelData[-1]))
         levelData[-1] = tokenize(levelData[-1])
+        scoreDoc.append(calculateScore(
+            levelData[-1], preprocessedLevelData[-1]))
         l.doneHere("Preprocess " + fileName + " Done")
     l.doneHere('Read ' + docName + ' Done')
-    return levelData, preprocessedLevelData
+    return levelData, preprocessedLevelData, scoreDoc
 
 
 def readTest(level, test):
@@ -106,18 +109,18 @@ def readTest(level, test):
     return raw, preprocessed
 
 
-def getLimitLevel(level, raw, preprocessed, testList):
+def getLimitLevel(level, score, testList):
     l.startHere("Limiting " + level + " Start")
     limit = []
-    for i in range(len(raw)):
+    for i in range(len(score)):
         if (i+1 not in testList):
-            limit.append(calculateScore(raw[i], preprocessed[i]))
+            limit.append(score[i])
             l.resultHere('Score on ' + level + ' Limiting: ' + str(limit[-1]))
     analys = h.analizeResult(limit)
     for key in analys:
         l.resultHere(key + ': ' + str(analys[key]))
     l.doneHere("Limiting " + level + " Done")
-    return sum(limit)/len(limit)
+    return float((analys["  mid"]+analys["  max"]))/2
 
 
 def getScore(level, raw, preprocessed):
@@ -192,15 +195,16 @@ def main():
     # quantyLevel = [5, 5, 5, 5, 5]
 
     l.startHere('Initialize parameters Start')
-    levelLimit = [0.0, 0.0, 0.0, 0.0, 0.0]
+    levelLimit = [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
     l.doneHere('Initialize parameters Done')
 
     testList = setupFold(quantyLevel)
     accurancy = []
     levelDocs = {}
     preprocessLevelDocs = {}
+    scoreDoc = {}
     for i in range(len(level)):
-        levelDocs[i], preprocessLevelDocs[i] = readLevel(
+        levelDocs[i], preprocessLevelDocs[i], scoreDoc[i] = readLevel(
             level[i], quantyLevel[i])
 
     for timee in range(int(cc.FOLD)):
@@ -210,9 +214,9 @@ def main():
 
         for i in range(len(level)):
             levelLimit[i] = getLimitLevel(
-                level[i], levelDocs[i], preprocessLevelDocs[i], testList[timee][i])
+                level[i], scoreDoc[i], testList[timee][i])
 
-        for i in range(len(levelLimit)):
+        for i in range(len(level)):
             l.resultHere('Level Limit on ' + level[i]+': '+str(levelLimit[i]))
         l.doneHere('Traning data Done')
 
@@ -222,8 +226,7 @@ def main():
 
         for i in range(len(level)):
             for test in testList[timee][i]:
-                score = getScore(level[i], levelDocs[i]
-                                 [test-1], preprocessLevelDocs[i][test-1])
+                score = scoreDoc[i][test-1]
                 if score <= levelLimit[i] and score > levelLimit[i-1]:
                     testResult[i] += 1
         l.doneHere('Test Done')
