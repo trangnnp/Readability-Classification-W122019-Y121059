@@ -27,11 +27,15 @@ from nltk.tokenize import RegexpTokenizer
 
 def setupFold(quantyLevel):
     l.startHere('Start setup FOLD')
-    foldDict = {}
-    for i in range(5):
-        foldDict[i] = set()
-        while len(foldDict[i]) < cc.FOLD*quantyLevel[i]:
-            foldDict[i].add(randrange(quantyLevel[i])+1)
+    foldDict = []
+    fold = int(cc.FOLD)
+
+    for i in range(fold):
+        foldDict.append({})
+        for j in range(len(quantyLevel)):
+            foldDict[-1][j] = []
+            for id in range(int(quantyLevel[j]/fold)*i+1, int(quantyLevel[j]/fold)*(i+1)+1):
+                foldDict[-1][j].append(id)
     l.startHere('Setup FOLD Done')
     return foldDict
 
@@ -68,20 +72,19 @@ def preprocess(document):
     return processed_word
 
 
-def readLevel(docName, testList, quantyLevel):
+def readLevel(docName, quantyLevel):
     l.startHere('Start Reading ' + docName)
 
     levelData = []
     preprocessedLevelData = []
     for i in range(1, quantyLevel+1):
-        if i not in testList:
-            fileName = h.getLevelFileName(docName, i)
-            fi = open(fileName, 'r')
-            levelData.append(fi.read())
-            l.startHere("Preprocess " + fileName + " Start")
-            preprocessedLevelData.append(preprocess(levelData[-1]))
-            levelData[-1] = tokenize(levelData[-1])
-            l.doneHere("Preprocess " + fileName + " Done")
+        fileName = h.getLevelFileName(docName, i)
+        fi = open(fileName, 'r')
+        levelData.append(fi.read())
+        l.startHere("Preprocess " + fileName + " Start")
+        preprocessedLevelData.append(preprocess(levelData[-1]))
+        levelData[-1] = tokenize(levelData[-1])
+        l.doneHere("Preprocess " + fileName + " Done")
     l.doneHere('Read ' + docName + ' Done')
     return levelData, preprocessedLevelData
 
@@ -103,12 +106,13 @@ def readTest(level, test):
     return raw, preprocessed
 
 
-def getLimitLevel(level, raw, preprocessed):
+def getLimitLevel(level, raw, preprocessed, testList):
     l.startHere("Limiting " + level + " Start")
     limit = []
     for i in range(len(raw)):
-        limit.append(calculateScore(raw[i], preprocessed[i]))
-        l.resultHere('Score on ' + level + ' Limiting: ' + str(limit[-1]))
+        if (i+1 not in testList):
+            limit.append(calculateScore(raw[i], preprocessed[i]))
+            l.resultHere('Score on ' + level + ' Limiting: ' + str(limit[-1]))
     l.doneHere("Limiting " + level + " Done")
     return sum(limit)/len(limit)
 
@@ -181,7 +185,7 @@ def main():
     l.startHere('Start Prepare Traning data')
 
     level = ['KET', 'PET', 'FCE', 'CAE', 'CPE']
-    quantyLevel = [35, 35, 35, 35, 35]
+    quantyLevel = [50, 50, 50, 50, 50]
     # quantyLevel = [5, 5, 5, 5, 5]
 
     l.startHere('Initialize parameters Start')
@@ -189,37 +193,51 @@ def main():
     l.doneHere('Initialize parameters Done')
 
     testList = setupFold(quantyLevel)
-
-    l.startHere('Start Training data')
+    accurancy = []
+    levelDocs = {}
+    preprocessLevelDocs = {}
     for i in range(len(level)):
-        levelDocs, preprocessLevelDocs = readLevel(
-            level[i], testList[i], quantyLevel[i])
-        levelLimit[i] = getLimitLevel(level[i], levelDocs, preprocessLevelDocs)
+        levelDocs[i], preprocessLevelDocs[i] = readLevel(
+            level[i], quantyLevel[i])
 
-    print(levelLimit)
+    for timee in range(int(cc.FOLD)):
+        print('\nTime ' + str(timee) + ' Start')
+        l.startHere('Time ' + str(timee) + ' Start')
+        l.startHere('Start Training data')
 
-    l.doneHere('Traning data Done')
+        for i in range(len(level)):
+            levelLimit[i] = getLimitLevel(
+                level[i], levelDocs[i], preprocessLevelDocs[i], testList[timee][i])
 
-    print("Start testing...")
-    # print("test ----------------------------------------------------------------------------------")
-    l.startHere('Test Start')
-    testResult = [0, 0, 0, 0, 0]
+        for i in range(len(levelLimit)):
+            l.resultHere('Level Limit on ' + level[i]+': '+str(levelLimit[i]))
+        l.doneHere('Traning data Done')
 
-    for i in range(len(level)):
-        for test in testList[i]:
-            raw, preprocess = readTest(level[i], test)
-            score = getScore(level[i], raw, preprocess)
-            if score <= levelLimit[i] and score > levelLimit[i-1]:
-                testResult[i] += 1
-    l.doneHere('Test Done')
+        print("Start testing...")
+        l.startHere('Test Start')
+        testResult = [0, 0, 0, 0, 0]
 
-    print("Start evaluate...")
-    l.startHere('Evaluate Start')
+        for i in range(len(level)):
+            for test in testList[timee][i]:
+                score = getScore(level[i], levelDocs[i]
+                                 [test-1], preprocessLevelDocs[i][test-1])
+                if score <= levelLimit[i] and score > levelLimit[i-1]:
+                    testResult[i] += 1
+        l.doneHere('Test Done')
 
-    l.doneHere('Evaluate Done')
-    accurancy = evaluate(level, testList, testResult)
-    l.resultHere('Final Accurrancy: ' + str(accurancy))
-    print('Final Accurrancy: ' + str(accurancy))
+        print("Start evaluate...")
+        l.startHere('Evaluate Start')
+
+        l.doneHere('Evaluate Done')
+        accurancy.append(evaluate(level, testList[timee], testResult))
+        l.resultHere('Accurrancy:        ' + str(accurancy[-1]))
+        print('Accurrancy:        ' + str(accurancy[-1]))
+        l.doneHere('Time ' + str(timee) + ' Done')
+
+    finalAccurrancy = float(sum(accurancy))/float(len(accurancy))
+    l.resultHere('Final Accurrancy:  ' + str(finalAccurrancy))
+    print('Final Accurrancy:  ' + str(finalAccurrancy))
+
     l.exitHere('Exit main process!')
 
 

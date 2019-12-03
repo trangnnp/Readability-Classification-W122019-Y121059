@@ -6,4 +6,4 @@
  # @ Description:
  '''
 
-FOLD = 0.2
+FOLD = 10
