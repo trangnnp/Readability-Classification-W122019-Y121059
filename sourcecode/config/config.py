@@ -15,4 +15,4 @@ def loadConfig():
 
 
 def logFile():
-    return './sourcecode/log/'+str(h.today())[:10]+'.txt'
+    return './sourcecode/log/'+str(h.today())[:13]+'.txt'
