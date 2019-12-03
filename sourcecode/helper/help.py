@@ -10,6 +10,18 @@ import datetime
 import os.path
 from os import path
 from log import log as l
+import statistics
+
+
+def analizeResult(result):
+    res = {}
+    res["  max"] = max(result)
+    res["  min"] = min(result)
+    res["  mid"] = statistics.median(result)
+    res["  avg"] = statistics.mean(result)
+    res["  var"] = statistics.variance(result)
+    res["stdev"] = statistics.stdev(result)
+    return res
 
 
 def isFileExist(filename):

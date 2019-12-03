@@ -81,7 +81,7 @@ def readLevel(docName, quantyLevel):
         fileName = h.getLevelFileName(docName, i)
         fi = open(fileName, 'r')
         levelData.append(fi.read())
-        l.startHere("Preprocess " + fileName + " Start")
+        # l.startHere("Preprocess " + fileName + " Start")
         preprocessedLevelData.append(preprocess(levelData[-1]))
         levelData[-1] = tokenize(levelData[-1])
         l.doneHere("Preprocess " + fileName + " Done")
@@ -113,15 +113,18 @@ def getLimitLevel(level, raw, preprocessed, testList):
         if (i+1 not in testList):
             limit.append(calculateScore(raw[i], preprocessed[i]))
             l.resultHere('Score on ' + level + ' Limiting: ' + str(limit[-1]))
+    analys = h.analizeResult(limit)
+    for key in analys:
+        l.resultHere(key + ': ' + str(analys[key]))
     l.doneHere("Limiting " + level + " Done")
     return sum(limit)/len(limit)
 
 
 def getScore(level, raw, preprocessed):
-    l.startHere("Scoring " + level + " Start")
+    # l.startHere("Scoring " + level + " Start")
     score = calculateScore(raw, preprocessed)
     l.resultHere('Score on ' + level + ' Limiting: ' + str(score))
-    l.doneHere("Scoring " + level + " Done")
+    # l.doneHere("Scoring " + level + " Done")
     return score
 
 
