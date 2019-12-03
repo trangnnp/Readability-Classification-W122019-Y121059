@@ -1,0 +1,984 @@
+2019-12-03 00:33:46.907977:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:33:46.908195:   [INFO ]   Hello world!
+2019-12-03 00:33:46.908331:   [INFO ]   Start main processing!
+2019-12-03 00:33:46.908434:   [START]   Start Prepare Traning data
+2019-12-03 00:33:46.908528:   [START]   Initialize parameters Start
+2019-12-03 00:33:46.908619:   [DONE ]   Initialize parameters Done
+2019-12-03 00:33:46.908771:   [START]   Start setup FOLD
+2019-12-03 00:33:46.908919:   [START]   Setup FOLD Done
+2019-12-03 00:33:46.909039:   [START]   Start Training data
+2019-12-03 00:33:46.909206:   [START]   Start Reading CAE
+2019-12-03 00:33:46.909897:   [START]   Preprocess ./dataset/cambridge/CAE/1.txt Start
+2019-12-03 00:33:48.406723:   [DONE ]   Preprocess ./dataset/cambridge/CAE/1.txt Done
+2019-12-03 00:33:48.407778:   [START]   Preprocess ./dataset/cambridge/CAE/5.txt Start
+2019-12-03 00:33:48.488683:   [DONE ]   Preprocess ./dataset/cambridge/CAE/5.txt Done
+2019-12-03 00:33:48.488807:   [DONE ]   Read CAE Done
+2019-12-03 00:33:48.489465:   [START]   Scoring CAE Start
+2019-12-03 00:36:58.685238:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:36:58.685388:   [INFO ]   Hello world!
+2019-12-03 00:36:58.685610:   [INFO ]   Start main processing!
+2019-12-03 00:36:58.685740:   [START]   Start Prepare Traning data
+2019-12-03 00:36:58.685849:   [START]   Initialize parameters Start
+2019-12-03 00:36:58.685971:   [DONE ]   Initialize parameters Done
+2019-12-03 00:36:58.686096:   [START]   Start setup FOLD
+2019-12-03 00:36:58.686215:   [START]   Setup FOLD Done
+2019-12-03 00:36:58.686321:   [START]   Start Training data
+2019-12-03 00:36:58.686393:   [START]   Start Reading CAE
+2019-12-03 00:36:58.687280:   [START]   Preprocess ./dataset/cambridge/CAE/2.txt Start
+2019-12-03 00:37:00.144345:   [DONE ]   Preprocess ./dataset/cambridge/CAE/2.txt Done
+2019-12-03 00:37:00.145568:   [START]   Preprocess ./dataset/cambridge/CAE/4.txt Start
+2019-12-03 00:37:00.295109:   [DONE ]   Preprocess ./dataset/cambridge/CAE/4.txt Done
+2019-12-03 00:37:00.295253:   [DONE ]   Read CAE Done
+2019-12-03 00:37:00.295734:   [START]   Scoring CAE Start
+2019-12-03 00:39:13.216896:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:39:13.217693:   [INFO ]   Hello world!
+2019-12-03 00:39:13.218030:   [INFO ]   Start main processing!
+2019-12-03 00:39:13.218265:   [START]   Start Prepare Traning data
+2019-12-03 00:39:13.218493:   [START]   Initialize parameters Start
+2019-12-03 00:39:13.218643:   [DONE ]   Initialize parameters Done
+2019-12-03 00:39:13.218765:   [START]   Start setup FOLD
+2019-12-03 00:39:13.218954:   [START]   Setup FOLD Done
+2019-12-03 00:39:13.219073:   [START]   Start Training data
+2019-12-03 00:39:13.219288:   [START]   Start Reading CAE
+2019-12-03 00:39:13.219921:   [START]   Preprocess ./dataset/cambridge/CAE/1.txt Start
+2019-12-03 00:39:14.706320:   [DONE ]   Preprocess ./dataset/cambridge/CAE/1.txt Done
+2019-12-03 00:39:14.707117:   [START]   Preprocess ./dataset/cambridge/CAE/4.txt Start
+2019-12-03 00:39:14.843149:   [DONE ]   Preprocess ./dataset/cambridge/CAE/4.txt Done
+2019-12-03 00:39:14.843321:   [DONE ]   Read CAE Done
+2019-12-03 00:39:14.843946:   [START]   Scoring CAE Start
+2019-12-03 00:39:31.640070:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:39:31.640269:   [INFO ]   Hello world!
+2019-12-03 00:39:31.640796:   [INFO ]   Start main processing!
+2019-12-03 00:39:31.640933:   [START]   Start Prepare Traning data
+2019-12-03 00:39:31.641105:   [START]   Initialize parameters Start
+2019-12-03 00:39:31.641297:   [DONE ]   Initialize parameters Done
+2019-12-03 00:39:31.641420:   [START]   Start setup FOLD
+2019-12-03 00:39:31.641588:   [START]   Setup FOLD Done
+2019-12-03 00:39:31.641663:   [START]   Start Training data
+2019-12-03 00:39:31.641813:   [START]   Start Reading CAE
+2019-12-03 00:39:31.641992:   [START]   Preprocess ./dataset/cambridge/CAE/1.txt Start
+2019-12-03 00:39:33.047956:   [DONE ]   Preprocess ./dataset/cambridge/CAE/1.txt Done
+2019-12-03 00:39:33.048233:   [START]   Preprocess ./dataset/cambridge/CAE/4.txt Start
+2019-12-03 00:39:33.184876:   [DONE ]   Preprocess ./dataset/cambridge/CAE/4.txt Done
+2019-12-03 00:39:33.184994:   [DONE ]   Read CAE Done
+2019-12-03 00:39:33.185269:   [START]   Scoring CAE Start
+2019-12-03 00:39:33.185539:   [DONE ]   Scoring CAE Done
+2019-12-03 00:39:33.185658:   [START]   Start Reading CPE
+2019-12-03 00:39:33.186741:   [START]   Preprocess ./dataset/cambridge/CPE/2.txt Start
+2019-12-03 00:39:33.288297:   [DONE ]   Preprocess ./dataset/cambridge/CPE/2.txt Done
+2019-12-03 00:39:33.289376:   [START]   Preprocess ./dataset/cambridge/CPE/4.txt Start
+2019-12-03 00:39:33.354073:   [DONE ]   Preprocess ./dataset/cambridge/CPE/4.txt Done
+2019-12-03 00:39:33.354193:   [DONE ]   Read CPE Done
+2019-12-03 00:39:33.355013:   [START]   Scoring CPE Start
+2019-12-03 00:39:33.355471:   [DONE ]   Scoring CPE Done
+2019-12-03 00:39:33.355749:   [START]   Start Reading FCE
+2019-12-03 00:39:33.357074:   [START]   Preprocess ./dataset/cambridge/FCE/1.txt Start
+2019-12-03 00:39:33.450698:   [DONE ]   Preprocess ./dataset/cambridge/FCE/1.txt Done
+2019-12-03 00:39:33.452191:   [START]   Preprocess ./dataset/cambridge/FCE/5.txt Start
+2019-12-03 00:39:33.525939:   [DONE ]   Preprocess ./dataset/cambridge/FCE/5.txt Done
+2019-12-03 00:39:33.526058:   [DONE ]   Read FCE Done
+2019-12-03 00:39:33.526936:   [START]   Scoring FCE Start
+2019-12-03 00:39:33.527361:   [DONE ]   Scoring FCE Done
+2019-12-03 00:39:33.527643:   [START]   Start Reading KET
+2019-12-03 00:39:33.528767:   [START]   Preprocess ./dataset/cambridge/KET/3.txt Start
+2019-12-03 00:39:33.542392:   [DONE ]   Preprocess ./dataset/cambridge/KET/3.txt Done
+2019-12-03 00:39:33.543012:   [START]   Preprocess ./dataset/cambridge/KET/4.txt Start
+2019-12-03 00:39:33.567161:   [DONE ]   Preprocess ./dataset/cambridge/KET/4.txt Done
+2019-12-03 00:39:33.567335:   [DONE ]   Read KET Done
+2019-12-03 00:39:33.567453:   [START]   Scoring KET Start
+2019-12-03 00:39:33.567566:   [DONE ]   Scoring KET Done
+2019-12-03 00:39:33.567642:   [START]   Start Reading PET
+2019-12-03 00:39:33.568734:   [START]   Preprocess ./dataset/cambridge/PET/3.txt Start
+2019-12-03 00:39:33.587266:   [DONE ]   Preprocess ./dataset/cambridge/PET/3.txt Done
+2019-12-03 00:39:33.588312:   [START]   Preprocess ./dataset/cambridge/PET/4.txt Start
+2019-12-03 00:39:33.636662:   [DONE ]   Preprocess ./dataset/cambridge/PET/4.txt Done
+2019-12-03 00:39:33.636793:   [DONE ]   Read PET Done
+2019-12-03 00:39:33.636946:   [START]   Scoring PET Start
+2019-12-03 00:39:33.637124:   [DONE ]   Scoring PET Done
+2019-12-03 00:39:33.637215:   [DONE ]   Traning data Done
+2019-12-03 00:39:33.637526:   [EXIT ]   Exit main process!
+2019-12-03 00:39:33.637613:   [EXIT ]   Exit All!
+2019-12-03 00:39:55.413539:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:39:55.413750:   [INFO ]   Hello world!
+2019-12-03 00:39:55.413988:   [INFO ]   Start main processing!
+2019-12-03 00:39:55.414160:   [START]   Start Prepare Traning data
+2019-12-03 00:39:55.414286:   [START]   Initialize parameters Start
+2019-12-03 00:39:55.414447:   [DONE ]   Initialize parameters Done
+2019-12-03 00:39:55.414570:   [START]   Start setup FOLD
+2019-12-03 00:39:55.414767:   [START]   Setup FOLD Done
+2019-12-03 00:39:55.414839:   [START]   Start Training data
+2019-12-03 00:39:55.414966:   [START]   Start Reading CAE
+2019-12-03 00:39:55.415133:   [START]   Preprocess ./dataset/cambridge/CAE/1.txt Start
+2019-12-03 00:39:56.815054:   [DONE ]   Preprocess ./dataset/cambridge/CAE/1.txt Done
+2019-12-03 00:39:56.816391:   [START]   Preprocess ./dataset/cambridge/CAE/3.txt Start
+2019-12-03 00:39:56.926819:   [DONE ]   Preprocess ./dataset/cambridge/CAE/3.txt Done
+2019-12-03 00:39:56.926977:   [DONE ]   Read CAE Done
+2019-12-03 00:39:56.927419:   [START]   Scoring CAE Start
+2019-12-03 00:39:56.927673:   [DONE ]   Scoring CAE Done
+2019-12-03 00:39:56.927853:   [START]   Start Reading CPE
+2019-12-03 00:39:56.928875:   [START]   Preprocess ./dataset/cambridge/CPE/1.txt Start
+2019-12-03 00:39:56.988996:   [DONE ]   Preprocess ./dataset/cambridge/CPE/1.txt Done
+2019-12-03 00:39:56.989201:   [START]   Preprocess ./dataset/cambridge/CPE/2.txt Start
+2019-12-03 00:39:57.087213:   [DONE ]   Preprocess ./dataset/cambridge/CPE/2.txt Done
+2019-12-03 00:39:57.087339:   [DONE ]   Read CPE Done
+2019-12-03 00:39:57.088001:   [START]   Scoring CPE Start
+2019-12-03 00:39:57.088336:   [DONE ]   Scoring CPE Done
+2019-12-03 00:39:57.088541:   [START]   Start Reading FCE
+2019-12-03 00:39:57.089730:   [START]   Preprocess ./dataset/cambridge/FCE/3.txt Start
+2019-12-03 00:39:57.164627:   [DONE ]   Preprocess ./dataset/cambridge/FCE/3.txt Done
+2019-12-03 00:39:57.164827:   [START]   Preprocess ./dataset/cambridge/FCE/5.txt Start
+2019-12-03 00:39:57.237835:   [DONE ]   Preprocess ./dataset/cambridge/FCE/5.txt Done
+2019-12-03 00:39:57.237957:   [DONE ]   Read FCE Done
+2019-12-03 00:39:57.238587:   [START]   Scoring FCE Start
+2019-12-03 00:39:57.238874:   [DONE ]   Scoring FCE Done
+2019-12-03 00:39:57.239072:   [START]   Start Reading KET
+2019-12-03 00:39:57.239331:   [START]   Preprocess ./dataset/cambridge/KET/4.txt Start
+2019-12-03 00:39:57.266401:   [DONE ]   Preprocess ./dataset/cambridge/KET/4.txt Done
+2019-12-03 00:39:57.267530:   [START]   Preprocess ./dataset/cambridge/KET/5.txt Start
+2019-12-03 00:39:57.282291:   [DONE ]   Preprocess ./dataset/cambridge/KET/5.txt Done
+2019-12-03 00:39:57.282410:   [DONE ]   Read KET Done
+2019-12-03 00:39:57.282581:   [START]   Scoring KET Start
+2019-12-03 00:39:57.282730:   [DONE ]   Scoring KET Done
+2019-12-03 00:39:57.282810:   [START]   Start Reading PET
+2019-12-03 00:39:57.283026:   [START]   Preprocess ./dataset/cambridge/PET/3.txt Start
+2019-12-03 00:39:57.304094:   [DONE ]   Preprocess ./dataset/cambridge/PET/3.txt Done
+2019-12-03 00:39:57.304292:   [START]   Preprocess ./dataset/cambridge/PET/4.txt Start
+2019-12-03 00:39:57.351474:   [DONE ]   Preprocess ./dataset/cambridge/PET/4.txt Done
+2019-12-03 00:39:57.351606:   [DONE ]   Read PET Done
+2019-12-03 00:39:57.351749:   [START]   Scoring PET Start
+2019-12-03 00:39:57.351902:   [DONE ]   Scoring PET Done
+2019-12-03 00:39:57.351975:   [DONE ]   Traning data Done
+2019-12-03 00:39:57.352127:   [EXIT ]   Exit main process!
+2019-12-03 00:39:57.352221:   [EXIT ]   Exit All!
+2019-12-03 00:40:15.410294:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:40:15.410447:   [INFO ]   Hello world!
+2019-12-03 00:40:15.411178:   [INFO ]   Start main processing!
+2019-12-03 00:40:15.411356:   [START]   Start Prepare Traning data
+2019-12-03 00:40:15.411591:   [START]   Initialize parameters Start
+2019-12-03 00:40:15.411834:   [DONE ]   Initialize parameters Done
+2019-12-03 00:40:15.412011:   [START]   Start setup FOLD
+2019-12-03 00:40:15.412136:   [START]   Setup FOLD Done
+2019-12-03 00:40:15.412207:   [START]   Start Training data
+2019-12-03 00:40:15.412299:   [START]   Start Reading CAE
+2019-12-03 00:40:15.412573:   [START]   Preprocess ./dataset/cambridge/CAE/1.txt Start
+2019-12-03 00:40:16.817747:   [DONE ]   Preprocess ./dataset/cambridge/CAE/1.txt Done
+2019-12-03 00:40:16.818009:   [START]   Preprocess ./dataset/cambridge/CAE/4.txt Start
+2019-12-03 00:40:16.956911:   [DONE ]   Preprocess ./dataset/cambridge/CAE/4.txt Done
+2019-12-03 00:40:16.957087:   [DONE ]   Read CAE Done
+2019-12-03 00:40:16.957760:   [START]   Scoring CAE Start
+2019-12-03 00:40:16.958051:   [DONE ]   Scoring CAE Done
+2019-12-03 00:40:16.958218:   [START]   Start Reading CPE
+2019-12-03 00:40:16.958975:   [START]   Preprocess ./dataset/cambridge/CPE/3.txt Start
+2019-12-03 00:40:17.080226:   [DONE ]   Preprocess ./dataset/cambridge/CPE/3.txt Done
+2019-12-03 00:40:17.080426:   [START]   Preprocess ./dataset/cambridge/CPE/4.txt Start
+2019-12-03 00:40:17.145112:   [DONE ]   Preprocess ./dataset/cambridge/CPE/4.txt Done
+2019-12-03 00:40:17.145233:   [DONE ]   Read CPE Done
+2019-12-03 00:40:17.146088:   [START]   Scoring CPE Start
+2019-12-03 00:40:17.146294:   [DONE ]   Scoring CPE Done
+2019-12-03 00:40:17.146427:   [START]   Start Reading FCE
+2019-12-03 00:40:17.146621:   [START]   Preprocess ./dataset/cambridge/FCE/1.txt Start
+2019-12-03 00:40:17.233454:   [DONE ]   Preprocess ./dataset/cambridge/FCE/1.txt Done
+2019-12-03 00:40:17.233707:   [START]   Preprocess ./dataset/cambridge/FCE/3.txt Start
+2019-12-03 00:40:17.304185:   [DONE ]   Preprocess ./dataset/cambridge/FCE/3.txt Done
+2019-12-03 00:40:17.304303:   [DONE ]   Read FCE Done
+2019-12-03 00:40:17.305182:   [START]   Scoring FCE Start
+2019-12-03 00:40:17.305599:   [DONE ]   Scoring FCE Done
+2019-12-03 00:40:17.305859:   [START]   Start Reading KET
+2019-12-03 00:40:17.307187:   [START]   Preprocess ./dataset/cambridge/KET/2.txt Start
+2019-12-03 00:40:17.328570:   [DONE ]   Preprocess ./dataset/cambridge/KET/2.txt Done
+2019-12-03 00:40:17.328774:   [START]   Preprocess ./dataset/cambridge/KET/4.txt Start
+2019-12-03 00:40:17.354057:   [DONE ]   Preprocess ./dataset/cambridge/KET/4.txt Done
+2019-12-03 00:40:17.354192:   [DONE ]   Read KET Done
+2019-12-03 00:40:17.354356:   [START]   Scoring KET Start
+2019-12-03 00:40:17.354501:   [DONE ]   Scoring KET Done
+2019-12-03 00:40:17.354591:   [START]   Start Reading PET
+2019-12-03 00:40:17.355759:   [START]   Preprocess ./dataset/cambridge/PET/2.txt Start
+2019-12-03 00:40:17.382005:   [DONE ]   Preprocess ./dataset/cambridge/PET/2.txt Done
+2019-12-03 00:40:17.382202:   [START]   Preprocess ./dataset/cambridge/PET/4.txt Start
+2019-12-03 00:40:17.429596:   [DONE ]   Preprocess ./dataset/cambridge/PET/4.txt Done
+2019-12-03 00:40:17.429720:   [DONE ]   Read PET Done
+2019-12-03 00:40:17.429958:   [START]   Scoring PET Start
+2019-12-03 00:40:17.430204:   [DONE ]   Scoring PET Done
+2019-12-03 00:40:17.430278:   [DONE ]   Traning data Done
+2019-12-03 00:40:17.430468:   [EXIT ]   Exit main process!
+2019-12-03 00:40:17.430596:   [EXIT ]   Exit All!
+2019-12-03 00:41:46.168819:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:41:46.169303:   [INFO ]   Hello world!
+2019-12-03 00:41:46.169420:   [INFO ]   Start main processing!
+2019-12-03 00:41:46.169507:   [START]   Start Prepare Traning data
+2019-12-03 00:41:46.169624:   [START]   Initialize parameters Start
+2019-12-03 00:41:46.169710:   [DONE ]   Initialize parameters Done
+2019-12-03 00:41:46.169825:   [START]   Start setup FOLD
+2019-12-03 00:41:46.169942:   [START]   Setup FOLD Done
+2019-12-03 00:41:46.170021:   [START]   Start Training data
+2019-12-03 00:41:46.170113:   [START]   Start Reading KET
+2019-12-03 00:41:46.170549:   [START]   Preprocess ./dataset/cambridge/KET/2.txt Start
+2019-12-03 00:41:47.554115:   [DONE ]   Preprocess ./dataset/cambridge/KET/2.txt Done
+2019-12-03 00:41:47.554825:   [START]   Preprocess ./dataset/cambridge/KET/5.txt Start
+2019-12-03 00:41:47.574202:   [DONE ]   Preprocess ./dataset/cambridge/KET/5.txt Done
+2019-12-03 00:41:47.574341:   [DONE ]   Read KET Done
+2019-12-03 00:41:47.574481:   [START]   Scoring KET Start
+2019-12-03 00:41:47.574614:   [DONE ]   Scoring KET Done
+2019-12-03 00:41:47.574700:   [START]   Start Reading PET
+2019-12-03 00:41:47.575674:   [START]   Preprocess ./dataset/cambridge/PET/1.txt Start
+2019-12-03 00:41:47.614769:   [DONE ]   Preprocess ./dataset/cambridge/PET/1.txt Done
+2019-12-03 00:41:47.615280:   [START]   Preprocess ./dataset/cambridge/PET/4.txt Start
+2019-12-03 00:41:47.661364:   [DONE ]   Preprocess ./dataset/cambridge/PET/4.txt Done
+2019-12-03 00:41:47.661482:   [DONE ]   Read PET Done
+2019-12-03 00:41:47.661866:   [START]   Scoring PET Start
+2019-12-03 00:41:47.662147:   [DONE ]   Scoring PET Done
+2019-12-03 00:41:47.662229:   [START]   Start Reading FCE
+2019-12-03 00:41:47.662917:   [START]   Preprocess ./dataset/cambridge/FCE/3.txt Start
+2019-12-03 00:41:47.739329:   [DONE ]   Preprocess ./dataset/cambridge/FCE/3.txt Done
+2019-12-03 00:41:47.740846:   [START]   Preprocess ./dataset/cambridge/FCE/4.txt Start
+2019-12-03 00:41:47.824781:   [DONE ]   Preprocess ./dataset/cambridge/FCE/4.txt Done
+2019-12-03 00:41:47.824968:   [DONE ]   Read FCE Done
+2019-12-03 00:41:47.825604:   [START]   Scoring FCE Start
+2019-12-03 00:41:47.825828:   [DONE ]   Scoring FCE Done
+2019-12-03 00:41:47.825955:   [START]   Start Reading CAE
+2019-12-03 00:41:47.826839:   [START]   Preprocess ./dataset/cambridge/CAE/2.txt Start
+2019-12-03 00:41:47.890001:   [DONE ]   Preprocess ./dataset/cambridge/CAE/2.txt Done
+2019-12-03 00:41:47.891056:   [START]   Preprocess ./dataset/cambridge/CAE/3.txt Start
+2019-12-03 00:41:47.996607:   [DONE ]   Preprocess ./dataset/cambridge/CAE/3.txt Done
+2019-12-03 00:41:47.996726:   [DONE ]   Read CAE Done
+2019-12-03 00:41:47.997450:   [START]   Scoring CAE Start
+2019-12-03 00:41:47.997704:   [DONE ]   Scoring CAE Done
+2019-12-03 00:41:47.997860:   [START]   Start Reading CPE
+2019-12-03 00:41:47.998902:   [START]   Preprocess ./dataset/cambridge/CPE/1.txt Start
+2019-12-03 00:41:48.059901:   [DONE ]   Preprocess ./dataset/cambridge/CPE/1.txt Done
+2019-12-03 00:41:48.061232:   [START]   Preprocess ./dataset/cambridge/CPE/5.txt Start
+2019-12-03 00:41:48.113137:   [DONE ]   Preprocess ./dataset/cambridge/CPE/5.txt Done
+2019-12-03 00:41:48.113256:   [DONE ]   Read CPE Done
+2019-12-03 00:41:48.115295:   [START]   Scoring CPE Start
+2019-12-03 00:41:48.115699:   [DONE ]   Scoring CPE Done
+2019-12-03 00:41:48.115989:   [DONE ]   Traning data Done
+2019-12-03 00:41:48.116096:   [EXIT ]   Exit main process!
+2019-12-03 00:41:48.116248:   [EXIT ]   Exit All!
+2019-12-03 00:44:10.682404:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:44:10.682553:   [INFO ]   Hello world!
+2019-12-03 00:44:10.683410:   [INFO ]   Start main processing!
+2019-12-03 00:44:10.683598:   [START]   Start Prepare Traning data
+2019-12-03 00:44:10.683849:   [START]   Initialize parameters Start
+2019-12-03 00:44:10.684015:   [DONE ]   Initialize parameters Done
+2019-12-03 00:44:10.684113:   [START]   Start setup FOLD
+2019-12-03 00:44:10.684300:   [START]   Setup FOLD Done
+2019-12-03 00:44:10.684390:   [START]   Start Training data
+2019-12-03 00:44:10.684486:   [START]   Start Reading KET
+2019-12-03 00:44:10.685415:   [START]   Preprocess ./dataset/cambridge/KET/1.txt Start
+2019-12-03 00:44:12.034600:   [DONE ]   Preprocess ./dataset/cambridge/KET/1.txt Done
+2019-12-03 00:44:12.034863:   [START]   Preprocess ./dataset/cambridge/KET/5.txt Start
+2019-12-03 00:44:12.052543:   [DONE ]   Preprocess ./dataset/cambridge/KET/5.txt Done
+2019-12-03 00:44:12.052663:   [DONE ]   Read KET Done
+2019-12-03 00:44:12.052890:   [START]   Scoring KET Start
+2019-12-03 00:44:12.053043:   [DONE ]   Scoring KET Done
+2019-12-03 00:44:12.053140:   [START]   Start Reading PET
+2019-12-03 00:44:12.054050:   [START]   Preprocess ./dataset/cambridge/PET/2.txt Start
+2019-12-03 00:44:12.082065:   [DONE ]   Preprocess ./dataset/cambridge/PET/2.txt Done
+2019-12-03 00:44:12.082362:   [START]   Preprocess ./dataset/cambridge/PET/4.txt Start
+2019-12-03 00:44:12.129181:   [DONE ]   Preprocess ./dataset/cambridge/PET/4.txt Done
+2019-12-03 00:44:12.129387:   [DONE ]   Read PET Done
+2019-12-03 00:44:12.129492:   [START]   Scoring PET Start
+2019-12-03 00:44:12.129686:   [DONE ]   Scoring PET Done
+2019-12-03 00:44:12.129757:   [START]   Start Reading FCE
+2019-12-03 00:44:12.130073:   [START]   Preprocess ./dataset/cambridge/FCE/3.txt Start
+2019-12-03 00:44:12.205175:   [DONE ]   Preprocess ./dataset/cambridge/FCE/3.txt Done
+2019-12-03 00:44:12.205498:   [START]   Preprocess ./dataset/cambridge/FCE/4.txt Start
+2019-12-03 00:44:12.282708:   [DONE ]   Preprocess ./dataset/cambridge/FCE/4.txt Done
+2019-12-03 00:44:12.282876:   [DONE ]   Read FCE Done
+2019-12-03 00:44:12.283413:   [START]   Scoring FCE Start
+2019-12-03 00:44:12.283632:   [DONE ]   Scoring FCE Done
+2019-12-03 00:44:12.283777:   [START]   Start Reading CAE
+2019-12-03 00:44:12.283997:   [START]   Preprocess ./dataset/cambridge/CAE/2.txt Start
+2019-12-03 00:44:12.345088:   [DONE ]   Preprocess ./dataset/cambridge/CAE/2.txt Done
+2019-12-03 00:44:12.346162:   [START]   Preprocess ./dataset/cambridge/CAE/4.txt Start
+2019-12-03 00:44:12.477660:   [DONE ]   Preprocess ./dataset/cambridge/CAE/4.txt Done
+2019-12-03 00:44:12.477781:   [DONE ]   Read CAE Done
+2019-12-03 00:44:12.478578:   [START]   Scoring CAE Start
+2019-12-03 00:44:12.479074:   [DONE ]   Scoring CAE Done
+2019-12-03 00:44:12.479346:   [START]   Start Reading CPE
+2019-12-03 00:44:12.480411:   [START]   Preprocess ./dataset/cambridge/CPE/2.txt Start
+2019-12-03 00:44:12.587882:   [DONE ]   Preprocess ./dataset/cambridge/CPE/2.txt Done
+2019-12-03 00:44:12.589062:   [START]   Preprocess ./dataset/cambridge/CPE/4.txt Start
+2019-12-03 00:44:12.661199:   [DONE ]   Preprocess ./dataset/cambridge/CPE/4.txt Done
+2019-12-03 00:44:12.661316:   [DONE ]   Read CPE Done
+2019-12-03 00:44:12.661740:   [START]   Scoring CPE Start
+2019-12-03 00:44:12.662151:   [DONE ]   Scoring CPE Done
+2019-12-03 00:44:12.662345:   [DONE ]   Traning data Done
+2019-12-03 00:44:12.662444:   [EXIT ]   Exit main process!
+2019-12-03 00:44:12.662595:   [EXIT ]   Exit All!
+2019-12-03 00:44:24.313891:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:44:24.314046:   [INFO ]   Hello world!
+2019-12-03 00:44:24.314770:   [INFO ]   Start main processing!
+2019-12-03 00:44:24.314943:   [START]   Start Prepare Traning data
+2019-12-03 00:44:24.315090:   [START]   Initialize parameters Start
+2019-12-03 00:44:24.315212:   [DONE ]   Initialize parameters Done
+2019-12-03 00:44:24.315326:   [START]   Start setup FOLD
+2019-12-03 00:44:24.315476:   [START]   Setup FOLD Done
+2019-12-03 00:44:24.315575:   [START]   Start Training data
+2019-12-03 00:44:24.315720:   [START]   Start Reading KET
+2019-12-03 00:44:24.316359:   [START]   Preprocess ./dataset/cambridge/KET/3.txt Start
+2019-12-03 00:44:25.682719:   [DONE ]   Preprocess ./dataset/cambridge/KET/3.txt Done
+2019-12-03 00:44:25.684003:   [START]   Preprocess ./dataset/cambridge/KET/4.txt Start
+2019-12-03 00:44:25.712757:   [DONE ]   Preprocess ./dataset/cambridge/KET/4.txt Done
+2019-12-03 00:44:25.712861:   [DONE ]   Read KET Done
+2019-12-03 00:44:25.713232:   [START]   Scoring KET Start
+2019-12-03 00:44:25.713542:   [DONE ]   Scoring KET Done
+2019-12-03 00:44:25.713745:   [START]   Start Reading PET
+2019-12-03 00:44:25.714011:   [START]   Preprocess ./dataset/cambridge/PET/1.txt Start
+2019-12-03 00:44:25.753286:   [DONE ]   Preprocess ./dataset/cambridge/PET/1.txt Done
+2019-12-03 00:44:25.753874:   [START]   Preprocess ./dataset/cambridge/PET/3.txt Start
+2019-12-03 00:44:25.772040:   [DONE ]   Preprocess ./dataset/cambridge/PET/3.txt Done
+2019-12-03 00:44:25.772160:   [DONE ]   Read PET Done
+2019-12-03 00:44:25.772422:   [START]   Scoring PET Start
+2019-12-03 00:44:25.772610:   [DONE ]   Scoring PET Done
+2019-12-03 00:44:25.772727:   [START]   Start Reading FCE
+2019-12-03 00:44:25.772899:   [START]   Preprocess ./dataset/cambridge/FCE/3.txt Start
+2019-12-03 00:44:25.851467:   [DONE ]   Preprocess ./dataset/cambridge/FCE/3.txt Done
+2019-12-03 00:44:25.852526:   [START]   Preprocess ./dataset/cambridge/FCE/5.txt Start
+2019-12-03 00:44:25.923219:   [DONE ]   Preprocess ./dataset/cambridge/FCE/5.txt Done
+2019-12-03 00:44:25.923328:   [DONE ]   Read FCE Done
+2019-12-03 00:44:25.924044:   [START]   Scoring FCE Start
+2019-12-03 00:44:25.924320:   [DONE ]   Scoring FCE Done
+2019-12-03 00:44:25.924466:   [START]   Start Reading CAE
+2019-12-03 00:44:25.925369:   [START]   Preprocess ./dataset/cambridge/CAE/1.txt Start
+2019-12-03 00:44:25.995449:   [DONE ]   Preprocess ./dataset/cambridge/CAE/1.txt Done
+2019-12-03 00:44:25.996512:   [START]   Preprocess ./dataset/cambridge/CAE/5.txt Start
+2019-12-03 00:44:26.072480:   [DONE ]   Preprocess ./dataset/cambridge/CAE/5.txt Done
+2019-12-03 00:44:26.072602:   [DONE ]   Read CAE Done
+2019-12-03 00:44:26.073453:   [START]   Scoring CAE Start
+2019-12-03 00:44:26.073874:   [DONE ]   Scoring CAE Done
+2019-12-03 00:44:26.074161:   [START]   Start Reading CPE
+2019-12-03 00:44:26.074312:   [START]   Preprocess ./dataset/cambridge/CPE/1.txt Start
+2019-12-03 00:44:26.136838:   [DONE ]   Preprocess ./dataset/cambridge/CPE/1.txt Done
+2019-12-03 00:44:26.137885:   [START]   Preprocess ./dataset/cambridge/CPE/3.txt Start
+2019-12-03 00:44:26.254684:   [DONE ]   Preprocess ./dataset/cambridge/CPE/3.txt Done
+2019-12-03 00:44:26.254809:   [DONE ]   Read CPE Done
+2019-12-03 00:44:26.255497:   [START]   Scoring CPE Start
+2019-12-03 00:44:26.255793:   [DONE ]   Scoring CPE Done
+2019-12-03 00:44:26.255931:   [DONE ]   Traning data Done
+2019-12-03 00:44:26.256059:   [EXIT ]   Exit main process!
+2019-12-03 00:44:26.256195:   [EXIT ]   Exit All!
+2019-12-03 00:44:32.663574:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:44:32.663732:   [INFO ]   Hello world!
+2019-12-03 00:44:32.663930:   [INFO ]   Start main processing!
+2019-12-03 00:44:32.664039:   [START]   Start Prepare Traning data
+2019-12-03 00:44:32.664264:   [START]   Initialize parameters Start
+2019-12-03 00:44:32.664426:   [DONE ]   Initialize parameters Done
+2019-12-03 00:44:32.664624:   [START]   Start setup FOLD
+2019-12-03 00:44:32.664743:   [START]   Setup FOLD Done
+2019-12-03 00:44:32.664888:   [START]   Start Training data
+2019-12-03 00:44:32.664971:   [START]   Start Reading KET
+2019-12-03 00:44:32.665224:   [START]   Preprocess ./dataset/cambridge/KET/2.txt Start
+2019-12-03 00:44:33.995610:   [DONE ]   Preprocess ./dataset/cambridge/KET/2.txt Done
+2019-12-03 00:44:33.995875:   [START]   Preprocess ./dataset/cambridge/KET/3.txt Start
+2019-12-03 00:44:34.015479:   [DONE ]   Preprocess ./dataset/cambridge/KET/3.txt Done
+2019-12-03 00:44:34.015635:   [DONE ]   Read KET Done
+2019-12-03 00:44:34.015742:   [START]   Scoring KET Start
+2019-12-03 00:44:34.015865:   [DONE ]   Scoring KET Done
+2019-12-03 00:44:34.015943:   [START]   Start Reading PET
+2019-12-03 00:44:34.016061:   [START]   Preprocess ./dataset/cambridge/PET/1.txt Start
+2019-12-03 00:44:34.053368:   [DONE ]   Preprocess ./dataset/cambridge/PET/1.txt Done
+2019-12-03 00:44:34.053603:   [START]   Preprocess ./dataset/cambridge/PET/4.txt Start
+2019-12-03 00:44:34.099268:   [DONE ]   Preprocess ./dataset/cambridge/PET/4.txt Done
+2019-12-03 00:44:34.099475:   [DONE ]   Read PET Done
+2019-12-03 00:44:34.099598:   [START]   Scoring PET Start
+2019-12-03 00:44:34.099793:   [DONE ]   Scoring PET Done
+2019-12-03 00:44:34.099867:   [START]   Start Reading FCE
+2019-12-03 00:44:34.100108:   [START]   Preprocess ./dataset/cambridge/FCE/3.txt Start
+2019-12-03 00:44:34.175541:   [DONE ]   Preprocess ./dataset/cambridge/FCE/3.txt Done
+2019-12-03 00:44:34.175739:   [START]   Preprocess ./dataset/cambridge/FCE/4.txt Start
+2019-12-03 00:44:34.252926:   [DONE ]   Preprocess ./dataset/cambridge/FCE/4.txt Done
+2019-12-03 00:44:34.253096:   [DONE ]   Read FCE Done
+2019-12-03 00:44:34.253734:   [START]   Scoring FCE Start
+2019-12-03 00:44:34.253995:   [DONE ]   Scoring FCE Done
+2019-12-03 00:44:34.254137:   [START]   Start Reading CAE
+2019-12-03 00:44:34.254495:   [START]   Preprocess ./dataset/cambridge/CAE/2.txt Start
+2019-12-03 00:44:34.316258:   [DONE ]   Preprocess ./dataset/cambridge/CAE/2.txt Done
+2019-12-03 00:44:34.316457:   [START]   Preprocess ./dataset/cambridge/CAE/3.txt Start
+2019-12-03 00:44:34.429764:   [DONE ]   Preprocess ./dataset/cambridge/CAE/3.txt Done
+2019-12-03 00:44:34.429935:   [DONE ]   Read CAE Done
+2019-12-03 00:44:34.430770:   [START]   Scoring CAE Start
+2019-12-03 00:44:34.431110:   [DONE ]   Scoring CAE Done
+2019-12-03 00:44:34.431244:   [START]   Start Reading CPE
+2019-12-03 00:44:34.431435:   [START]   Preprocess ./dataset/cambridge/CPE/1.txt Start
+2019-12-03 00:44:34.491958:   [DONE ]   Preprocess ./dataset/cambridge/CPE/1.txt Done
+2019-12-03 00:44:34.492157:   [START]   Preprocess ./dataset/cambridge/CPE/4.txt Start
+2019-12-03 00:44:34.564927:   [DONE ]   Preprocess ./dataset/cambridge/CPE/4.txt Done
+2019-12-03 00:44:34.565102:   [DONE ]   Read CPE Done
+2019-12-03 00:44:34.565865:   [START]   Scoring CPE Start
+2019-12-03 00:44:34.566107:   [DONE ]   Scoring CPE Done
+2019-12-03 00:44:34.566466:   [DONE ]   Traning data Done
+2019-12-03 00:44:34.566610:   [EXIT ]   Exit main process!
+2019-12-03 00:44:34.566804:   [EXIT ]   Exit All!
+2019-12-03 00:44:57.074554:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:44:57.074708:   [INFO ]   Hello world!
+2019-12-03 00:44:57.075329:   [INFO ]   Start main processing!
+2019-12-03 00:44:57.075433:   [START]   Start Prepare Traning data
+2019-12-03 00:44:57.075607:   [START]   Initialize parameters Start
+2019-12-03 00:44:57.075761:   [DONE ]   Initialize parameters Done
+2019-12-03 00:44:57.075885:   [START]   Start setup FOLD
+2019-12-03 00:44:57.076095:   [START]   Setup FOLD Done
+2019-12-03 00:44:57.076170:   [START]   Start Training data
+2019-12-03 00:44:57.076334:   [START]   Start Reading KET
+2019-12-03 00:44:57.076511:   [START]   Preprocess ./dataset/cambridge/KET/3.txt Start
+2019-12-03 00:44:58.427113:   [DONE ]   Preprocess ./dataset/cambridge/KET/3.txt Done
+2019-12-03 00:44:58.427375:   [START]   Preprocess ./dataset/cambridge/KET/4.txt Start
+2019-12-03 00:44:58.452431:   [DONE ]   Preprocess ./dataset/cambridge/KET/4.txt Done
+2019-12-03 00:44:58.452595:   [DONE ]   Read KET Done
+2019-12-03 00:44:58.452715:   [START]   Scoring KET Start
+2019-12-03 00:44:58.452981:   [DONE ]   Scoring KET Done
+2019-12-03 00:44:58.453064:   [START]   Start Reading PET
+2019-12-03 00:44:58.453392:   [START]   Preprocess ./dataset/cambridge/PET/3.txt Start
+2019-12-03 00:44:58.474156:   [DONE ]   Preprocess ./dataset/cambridge/PET/3.txt Done
+2019-12-03 00:44:58.475481:   [START]   Preprocess ./dataset/cambridge/PET/5.txt Start
+2019-12-03 00:44:58.502556:   [DONE ]   Preprocess ./dataset/cambridge/PET/5.txt Done
+2019-12-03 00:44:58.502698:   [DONE ]   Read PET Done
+2019-12-03 00:44:58.502880:   [START]   Scoring PET Start
+2019-12-03 00:44:58.503082:   [DONE ]   Scoring PET Done
+2019-12-03 00:44:58.503159:   [START]   Start Reading FCE
+2019-12-03 00:44:58.504038:   [START]   Preprocess ./dataset/cambridge/FCE/2.txt Start
+2019-12-03 00:44:58.575292:   [DONE ]   Preprocess ./dataset/cambridge/FCE/2.txt Done
+2019-12-03 00:44:58.575491:   [START]   Preprocess ./dataset/cambridge/FCE/5.txt Start
+2019-12-03 00:44:58.648100:   [DONE ]   Preprocess ./dataset/cambridge/FCE/5.txt Done
+2019-12-03 00:44:58.648220:   [DONE ]   Read FCE Done
+2019-12-03 00:44:58.648920:   [START]   Scoring FCE Start
+2019-12-03 00:44:58.649117:   [DONE ]   Scoring FCE Done
+2019-12-03 00:44:58.649250:   [START]   Start Reading CAE
+2019-12-03 00:44:58.649450:   [START]   Preprocess ./dataset/cambridge/CAE/2.txt Start
+2019-12-03 00:44:58.712330:   [DONE ]   Preprocess ./dataset/cambridge/CAE/2.txt Done
+2019-12-03 00:44:58.712534:   [START]   Preprocess ./dataset/cambridge/CAE/5.txt Start
+2019-12-03 00:44:58.790848:   [DONE ]   Preprocess ./dataset/cambridge/CAE/5.txt Done
+2019-12-03 00:44:58.790974:   [DONE ]   Read CAE Done
+2019-12-03 00:44:58.791881:   [START]   Scoring CAE Start
+2019-12-03 00:44:58.792244:   [DONE ]   Scoring CAE Done
+2019-12-03 00:44:58.792440:   [START]   Start Reading CPE
+2019-12-03 00:44:58.792771:   [START]   Preprocess ./dataset/cambridge/CPE/4.txt Start
+2019-12-03 00:44:58.868319:   [DONE ]   Preprocess ./dataset/cambridge/CPE/4.txt Done
+2019-12-03 00:44:58.868517:   [START]   Preprocess ./dataset/cambridge/CPE/5.txt Start
+2019-12-03 00:44:58.921764:   [DONE ]   Preprocess ./dataset/cambridge/CPE/5.txt Done
+2019-12-03 00:44:58.921885:   [DONE ]   Read CPE Done
+2019-12-03 00:44:58.922707:   [START]   Scoring CPE Start
+2019-12-03 00:44:58.923230:   [DONE ]   Scoring CPE Done
+2019-12-03 00:44:58.923537:   [DONE ]   Traning data Done
+2019-12-03 00:44:58.923784:   [EXIT ]   Exit main process!
+2019-12-03 00:44:58.923997:   [EXIT ]   Exit All!
+2019-12-03 00:48:49.550406:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:48:49.550563:   [INFO ]   Hello world!
+2019-12-03 00:48:49.551410:   [INFO ]   Start main processing!
+2019-12-03 00:48:49.551630:   [START]   Start Prepare Traning data
+2019-12-03 00:48:49.551895:   [START]   Initialize parameters Start
+2019-12-03 00:48:49.551989:   [DONE ]   Initialize parameters Done
+2019-12-03 00:48:49.552075:   [START]   Start setup FOLD
+2019-12-03 00:48:49.552259:   [START]   Setup FOLD Done
+2019-12-03 00:48:49.552342:   [START]   Start Training data
+2019-12-03 00:48:49.552580:   [START]   Start Reading KET
+2019-12-03 00:48:49.552775:   [START]   Preprocess ./dataset/cambridge/KET/1.txt Start
+2019-12-03 00:48:50.934037:   [DONE ]   Preprocess ./dataset/cambridge/KET/1.txt Done
+2019-12-03 00:48:50.934792:   [START]   Preprocess ./dataset/cambridge/KET/3.txt Start
+2019-12-03 00:48:50.949675:   [DONE ]   Preprocess ./dataset/cambridge/KET/3.txt Done
+2019-12-03 00:48:50.949808:   [DONE ]   Read KET Done
+2019-12-03 00:48:50.949946:   [START]   Scoring KET Start
+2019-12-03 00:48:50.950140:   [DONE ]   Scoring KET Done
+2019-12-03 00:48:50.950225:   [START]   Start Reading PET
+2019-12-03 00:48:50.950897:   [START]   Preprocess ./dataset/cambridge/PET/1.txt Start
+2019-12-03 00:48:50.991913:   [DONE ]   Preprocess ./dataset/cambridge/PET/1.txt Done
+2019-12-03 00:48:50.992508:   [START]   Preprocess ./dataset/cambridge/PET/3.txt Start
+2019-12-03 00:48:51.010752:   [DONE ]   Preprocess ./dataset/cambridge/PET/3.txt Done
+2019-12-03 00:48:51.010856:   [DONE ]   Read PET Done
+2019-12-03 00:48:51.011205:   [START]   Scoring PET Start
+2019-12-03 00:48:51.011551:   [DONE ]   Scoring PET Done
+2019-12-03 00:48:51.011757:   [START]   Start Reading FCE
+2019-12-03 00:48:51.012538:   [START]   Preprocess ./dataset/cambridge/FCE/2.txt Start
+2019-12-03 00:48:51.081648:   [DONE ]   Preprocess ./dataset/cambridge/FCE/2.txt Done
+2019-12-03 00:48:51.082636:   [START]   Preprocess ./dataset/cambridge/FCE/3.txt Start
+2019-12-03 00:48:51.152758:   [DONE ]   Preprocess ./dataset/cambridge/FCE/3.txt Done
+2019-12-03 00:48:51.152879:   [DONE ]   Read FCE Done
+2019-12-03 00:48:51.153726:   [START]   Scoring FCE Start
+2019-12-03 00:48:51.154505:   [DONE ]   Scoring FCE Done
+2019-12-03 00:48:51.154767:   [START]   Start Reading CAE
+2019-12-03 00:48:51.155841:   [START]   Preprocess ./dataset/cambridge/CAE/2.txt Start
+2019-12-03 00:48:51.216889:   [DONE ]   Preprocess ./dataset/cambridge/CAE/2.txt Done
+2019-12-03 00:48:51.217931:   [START]   Preprocess ./dataset/cambridge/CAE/5.txt Start
+2019-12-03 00:48:51.294039:   [DONE ]   Preprocess ./dataset/cambridge/CAE/5.txt Done
+2019-12-03 00:48:51.294155:   [DONE ]   Read CAE Done
+2019-12-03 00:48:51.295100:   [START]   Scoring CAE Start
+2019-12-03 00:48:51.295663:   [DONE ]   Scoring CAE Done
+2019-12-03 00:48:51.295867:   [START]   Start Reading CPE
+2019-12-03 00:48:51.296262:   [START]   Preprocess ./dataset/cambridge/CPE/2.txt Start
+2019-12-03 00:48:51.405991:   [DONE ]   Preprocess ./dataset/cambridge/CPE/2.txt Done
+2019-12-03 00:48:51.406628:   [START]   Preprocess ./dataset/cambridge/CPE/4.txt Start
+2019-12-03 00:48:51.479397:   [DONE ]   Preprocess ./dataset/cambridge/CPE/4.txt Done
+2019-12-03 00:48:51.479517:   [DONE ]   Read CPE Done
+2019-12-03 00:48:51.480270:   [START]   Scoring CPE Start
+2019-12-03 00:48:51.480717:   [DONE ]   Scoring CPE Done
+2019-12-03 00:48:51.480874:   [DONE ]   Traning data Done
+2019-12-03 00:48:51.481002:   [EXIT ]   Exit main process!
+2019-12-03 00:48:51.481113:   [EXIT ]   Exit All!
+2019-12-03 00:54:12.697791:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:54:12.697952:   [INFO ]   Hello world!
+2019-12-03 00:54:12.698134:   [INFO ]   Start main processing!
+2019-12-03 00:54:12.698228:   [START]   Start Prepare Traning data
+2019-12-03 00:54:12.698394:   [START]   Initialize parameters Start
+2019-12-03 00:54:12.698487:   [DONE ]   Initialize parameters Done
+2019-12-03 00:54:12.698586:   [START]   Start setup FOLD
+2019-12-03 00:54:12.698722:   [START]   Setup FOLD Done
+2019-12-03 00:54:12.698793:   [START]   Start Training data
+2019-12-03 00:54:12.698885:   [START]   Start Reading KET
+2019-12-03 00:54:12.699560:   [START]   Preprocess ./dataset/cambridge/KET/2.txt Start
+2019-12-03 00:54:14.073144:   [DONE ]   Preprocess ./dataset/cambridge/KET/2.txt Done
+2019-12-03 00:54:14.073914:   [START]   Preprocess ./dataset/cambridge/KET/3.txt Start
+2019-12-03 00:54:14.088789:   [DONE ]   Preprocess ./dataset/cambridge/KET/3.txt Done
+2019-12-03 00:54:14.088931:   [DONE ]   Read KET Done
+2019-12-03 00:54:14.089054:   [START]   Scoring KET Start
+2019-12-03 00:54:14.089297:   [DONE ]   Scoring KET Done
+2019-12-03 00:54:14.089465:   [START]   Start Reading PET
+2019-12-03 00:54:14.089965:   [START]   Preprocess ./dataset/cambridge/PET/3.txt Start
+2019-12-03 00:54:14.110284:   [DONE ]   Preprocess ./dataset/cambridge/PET/3.txt Done
+2019-12-03 00:54:14.111133:   [START]   Preprocess ./dataset/cambridge/PET/4.txt Start
+2019-12-03 00:54:14.164586:   [DONE ]   Preprocess ./dataset/cambridge/PET/4.txt Done
+2019-12-03 00:54:14.164708:   [DONE ]   Read PET Done
+2019-12-03 00:54:14.165398:   [START]   Scoring PET Start
+2019-12-03 00:54:14.165713:   [DONE ]   Scoring PET Done
+2019-12-03 00:54:14.165877:   [START]   Start Reading FCE
+2019-12-03 00:54:14.166840:   [START]   Preprocess ./dataset/cambridge/FCE/3.txt Start
+2019-12-03 00:54:14.242865:   [DONE ]   Preprocess ./dataset/cambridge/FCE/3.txt Done
+2019-12-03 00:54:14.243934:   [START]   Preprocess ./dataset/cambridge/FCE/5.txt Start
+2019-12-03 00:54:14.323995:   [DONE ]   Preprocess ./dataset/cambridge/FCE/5.txt Done
+2019-12-03 00:54:14.324134:   [DONE ]   Read FCE Done
+2019-12-03 00:54:14.324733:   [START]   Scoring FCE Start
+2019-12-03 00:54:14.325055:   [DONE ]   Scoring FCE Done
+2019-12-03 00:54:14.325179:   [START]   Start Reading CAE
+2019-12-03 00:54:14.326208:   [START]   Preprocess ./dataset/cambridge/CAE/4.txt Start
+2019-12-03 00:54:14.461074:   [DONE ]   Preprocess ./dataset/cambridge/CAE/4.txt Done
+2019-12-03 00:54:14.462131:   [START]   Preprocess ./dataset/cambridge/CAE/5.txt Start
+2019-12-03 00:54:14.537187:   [DONE ]   Preprocess ./dataset/cambridge/CAE/5.txt Done
+2019-12-03 00:54:14.537303:   [DONE ]   Read CAE Done
+2019-12-03 00:54:14.538122:   [START]   Scoring CAE Start
+2019-12-03 00:54:14.538681:   [DONE ]   Scoring CAE Done
+2019-12-03 00:54:14.538846:   [START]   Start Reading CPE
+2019-12-03 00:54:14.539133:   [START]   Preprocess ./dataset/cambridge/CPE/2.txt Start
+2019-12-03 00:54:14.637234:   [DONE ]   Preprocess ./dataset/cambridge/CPE/2.txt Done
+2019-12-03 00:54:14.638012:   [START]   Preprocess ./dataset/cambridge/CPE/4.txt Start
+2019-12-03 00:54:14.702585:   [DONE ]   Preprocess ./dataset/cambridge/CPE/4.txt Done
+2019-12-03 00:54:14.702705:   [DONE ]   Read CPE Done
+2019-12-03 00:54:14.703567:   [START]   Scoring CPE Start
+2019-12-03 00:54:14.704401:   [DONE ]   Scoring CPE Done
+2019-12-03 00:54:14.704626:   [DONE ]   Traning data Done
+2019-12-03 00:54:14.704765:   [EXIT ]   Exit main process!
+2019-12-03 00:54:14.704993:   [EXIT ]   Exit All!
+2019-12-03 00:54:38.242619:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:54:38.242764:   [INFO ]   Hello world!
+2019-12-03 00:54:38.243466:   [INFO ]   Start main processing!
+2019-12-03 00:54:38.243633:   [START]   Start Prepare Traning data
+2019-12-03 00:54:38.243786:   [START]   Initialize parameters Start
+2019-12-03 00:54:38.243911:   [DONE ]   Initialize parameters Done
+2019-12-03 00:54:38.244013:   [START]   Start setup FOLD
+2019-12-03 00:54:38.244170:   [START]   Setup FOLD Done
+2019-12-03 00:54:38.244310:   [START]   Start Training data
+2019-12-03 00:54:38.244392:   [START]   Start Reading KET
+2019-12-03 00:54:38.244529:   [START]   Preprocess ./dataset/cambridge/KET/3.txt Start
+2019-12-03 00:54:39.617898:   [DONE ]   Preprocess ./dataset/cambridge/KET/3.txt Done
+2019-12-03 00:54:39.619143:   [START]   Preprocess ./dataset/cambridge/KET/5.txt Start
+2019-12-03 00:54:39.640819:   [DONE ]   Preprocess ./dataset/cambridge/KET/5.txt Done
+2019-12-03 00:54:39.640928:   [DONE ]   Read KET Done
+2019-12-03 00:54:39.641239:   [START]   Scoring KET Start
+2019-12-03 00:54:39.641582:   [DONE ]   Scoring KET Done
+2019-12-03 00:54:39.641682:   [START]   Start Reading PET
+2019-12-03 00:54:39.641958:   [START]   Preprocess ./dataset/cambridge/PET/3.txt Start
+2019-12-03 00:54:39.662323:   [DONE ]   Preprocess ./dataset/cambridge/PET/3.txt Done
+2019-12-03 00:54:39.662564:   [START]   Preprocess ./dataset/cambridge/PET/4.txt Start
+2019-12-03 00:54:39.709762:   [DONE ]   Preprocess ./dataset/cambridge/PET/4.txt Done
+2019-12-03 00:54:39.709879:   [DONE ]   Read PET Done
+2019-12-03 00:54:39.710260:   [START]   Scoring PET Start
+2019-12-03 00:54:39.710758:   [DONE ]   Scoring PET Done
+2019-12-03 00:54:39.710968:   [START]   Start Reading FCE
+2019-12-03 00:54:39.711783:   [START]   Preprocess ./dataset/cambridge/FCE/4.txt Start
+2019-12-03 00:54:39.796468:   [DONE ]   Preprocess ./dataset/cambridge/FCE/4.txt Done
+2019-12-03 00:54:39.796682:   [START]   Preprocess ./dataset/cambridge/FCE/5.txt Start
+2019-12-03 00:54:39.870809:   [DONE ]   Preprocess ./dataset/cambridge/FCE/5.txt Done
+2019-12-03 00:54:39.870926:   [DONE ]   Read FCE Done
+2019-12-03 00:54:39.871623:   [START]   Scoring FCE Start
+2019-12-03 00:54:39.871987:   [DONE ]   Scoring FCE Done
+2019-12-03 00:54:39.872154:   [START]   Start Reading CAE
+2019-12-03 00:54:39.872974:   [START]   Preprocess ./dataset/cambridge/CAE/1.txt Start
+2019-12-03 00:54:39.942142:   [DONE ]   Preprocess ./dataset/cambridge/CAE/1.txt Done
+2019-12-03 00:54:39.943191:   [START]   Preprocess ./dataset/cambridge/CAE/3.txt Start
+2019-12-03 00:54:40.053887:   [DONE ]   Preprocess ./dataset/cambridge/CAE/3.txt Done
+2019-12-03 00:54:40.054020:   [DONE ]   Read CAE Done
+2019-12-03 00:54:40.054678:   [START]   Scoring CAE Start
+2019-12-03 00:54:40.055107:   [DONE ]   Scoring CAE Done
+2019-12-03 00:54:40.055329:   [START]   Start Reading CPE
+2019-12-03 00:54:40.055568:   [START]   Preprocess ./dataset/cambridge/CPE/2.txt Start
+2019-12-03 00:54:40.155195:   [DONE ]   Preprocess ./dataset/cambridge/CPE/2.txt Done
+2019-12-03 00:54:40.155394:   [START]   Preprocess ./dataset/cambridge/CPE/4.txt Start
+2019-12-03 00:54:40.228191:   [DONE ]   Preprocess ./dataset/cambridge/CPE/4.txt Done
+2019-12-03 00:54:40.228313:   [DONE ]   Read CPE Done
+2019-12-03 00:54:40.229186:   [START]   Scoring CPE Start
+2019-12-03 00:54:40.230084:   [DONE ]   Scoring CPE Done
+2019-12-03 00:54:40.230364:   [DONE ]   Traning data Done
+2019-12-03 00:54:40.230474:   [EXIT ]   Exit main process!
+2019-12-03 00:54:40.230581:   [EXIT ]   Exit All!
+2019-12-03 00:55:06.084675:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:55:06.084824:   [INFO ]   Hello world!
+2019-12-03 00:55:06.085369:   [INFO ]   Start main processing!
+2019-12-03 00:55:06.085539:   [START]   Start Prepare Traning data
+2019-12-03 00:55:06.085783:   [START]   Initialize parameters Start
+2019-12-03 00:55:06.085894:   [DONE ]   Initialize parameters Done
+2019-12-03 00:55:06.086027:   [START]   Start setup FOLD
+2019-12-03 00:55:06.086144:   [START]   Setup FOLD Done
+2019-12-03 00:55:06.086219:   [START]   Start Training data
+2019-12-03 00:55:06.086301:   [START]   Start Reading KET
+2019-12-03 00:55:06.087073:   [START]   Preprocess ./dataset/cambridge/KET/1.txt Start
+2019-12-03 00:55:07.476585:   [DONE ]   Preprocess ./dataset/cambridge/KET/1.txt Done
+2019-12-03 00:55:07.476855:   [START]   Preprocess ./dataset/cambridge/KET/2.txt Start
+2019-12-03 00:55:07.493964:   [DONE ]   Preprocess ./dataset/cambridge/KET/2.txt Done
+2019-12-03 00:55:07.494079:   [DONE ]   Read KET Done
+2019-12-03 00:55:07.494238:   [START]   Scoring KET Start
+2019-12-03 00:55:07.494440:   [DONE ]   Scoring KET Done
+2019-12-03 00:55:07.494521:   [START]   Start Reading PET
+2019-12-03 00:55:07.494671:   [START]   Preprocess ./dataset/cambridge/PET/3.txt Start
+2019-12-03 00:55:07.515341:   [DONE ]   Preprocess ./dataset/cambridge/PET/3.txt Done
+2019-12-03 00:55:07.516047:   [START]   Preprocess ./dataset/cambridge/PET/5.txt Start
+2019-12-03 00:55:07.543228:   [DONE ]   Preprocess ./dataset/cambridge/PET/5.txt Done
+2019-12-03 00:55:07.543350:   [DONE ]   Read PET Done
+2019-12-03 00:55:07.543725:   [START]   Scoring PET Start
+2019-12-03 00:55:07.544289:   [DONE ]   Scoring PET Done
+2019-12-03 00:55:07.544438:   [START]   Start Reading FCE
+2019-12-03 00:55:07.545145:   [START]   Preprocess ./dataset/cambridge/FCE/1.txt Start
+2019-12-03 00:55:07.632271:   [DONE ]   Preprocess ./dataset/cambridge/FCE/1.txt Done
+2019-12-03 00:55:07.632463:   [START]   Preprocess ./dataset/cambridge/FCE/5.txt Start
+2019-12-03 00:55:07.707516:   [DONE ]   Preprocess ./dataset/cambridge/FCE/5.txt Done
+2019-12-03 00:55:07.707639:   [DONE ]   Read FCE Done
+2019-12-03 00:55:07.708257:   [START]   Scoring FCE Start
+2019-12-03 00:55:07.708670:   [DONE ]   Scoring FCE Done
+2019-12-03 00:55:07.708839:   [START]   Start Reading CAE
+2019-12-03 00:55:07.709905:   [START]   Preprocess ./dataset/cambridge/CAE/2.txt Start
+2019-12-03 00:55:07.772543:   [DONE ]   Preprocess ./dataset/cambridge/CAE/2.txt Done
+2019-12-03 00:55:07.772744:   [START]   Preprocess ./dataset/cambridge/CAE/5.txt Start
+2019-12-03 00:55:07.852222:   [DONE ]   Preprocess ./dataset/cambridge/CAE/5.txt Done
+2019-12-03 00:55:07.852353:   [DONE ]   Read CAE Done
+2019-12-03 00:55:07.853096:   [START]   Scoring CAE Start
+2019-12-03 00:55:07.853452:   [DONE ]   Scoring CAE Done
+2019-12-03 00:55:07.853595:   [START]   Start Reading CPE
+2019-12-03 00:55:07.853800:   [START]   Preprocess ./dataset/cambridge/CPE/2.txt Start
+2019-12-03 00:55:07.954849:   [DONE ]   Preprocess ./dataset/cambridge/CPE/2.txt Done
+2019-12-03 00:55:07.955042:   [START]   Preprocess ./dataset/cambridge/CPE/4.txt Start
+2019-12-03 00:55:08.027871:   [DONE ]   Preprocess ./dataset/cambridge/CPE/4.txt Done
+2019-12-03 00:55:08.028062:   [DONE ]   Read CPE Done
+2019-12-03 00:55:08.028711:   [START]   Scoring CPE Start
+2019-12-03 00:55:08.029144:   [DONE ]   Scoring CPE Done
+2019-12-03 00:55:08.029319:   [DONE ]   Traning data Done
+2019-12-03 00:55:08.029548:   [EXIT ]   Exit main process!
+2019-12-03 00:55:08.029645:   [EXIT ]   Exit All!
+2019-12-03 00:55:57.462726:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:55:57.462878:   [INFO ]   Hello world!
+2019-12-03 00:55:57.463541:   [INFO ]   Start main processing!
+2019-12-03 00:55:57.463687:   [START]   Start Prepare Traning data
+2019-12-03 00:55:57.463818:   [START]   Initialize parameters Start
+2019-12-03 00:55:57.463947:   [DONE ]   Initialize parameters Done
+2019-12-03 00:55:57.464068:   [START]   Start setup FOLD
+2019-12-03 00:55:57.464219:   [START]   Setup FOLD Done
+2019-12-03 00:55:57.464317:   [START]   Start Training data
+2019-12-03 00:55:57.464433:   [START]   Start Reading KET
+2019-12-03 00:55:57.464574:   [START]   Preprocess ./dataset/cambridge/KET/3.txt Start
+2019-12-03 00:55:58.837221:   [DONE ]   Preprocess ./dataset/cambridge/KET/3.txt Done
+2019-12-03 00:55:58.838691:   [START]   Preprocess ./dataset/cambridge/KET/4.txt Start
+2019-12-03 00:55:58.865286:   [DONE ]   Preprocess ./dataset/cambridge/KET/4.txt Done
+2019-12-03 00:55:58.865397:   [DONE ]   Read KET Done
+2019-12-03 00:55:58.865637:   [START]   Scoring KET Start
+2019-12-03 00:55:58.866060:   [DONE ]   Scoring KET Done
+2019-12-03 00:55:58.866255:   [START]   Start Reading PET
+2019-12-03 00:55:58.866854:   [START]   Preprocess ./dataset/cambridge/PET/1.txt Start
+2019-12-03 00:55:58.907843:   [DONE ]   Preprocess ./dataset/cambridge/PET/1.txt Done
+2019-12-03 00:55:58.908169:   [START]   Preprocess ./dataset/cambridge/PET/4.txt Start
+2019-12-03 00:55:58.953654:   [DONE ]   Preprocess ./dataset/cambridge/PET/4.txt Done
+2019-12-03 00:55:58.953772:   [DONE ]   Read PET Done
+2019-12-03 00:55:58.953971:   [START]   Scoring PET Start
+2019-12-03 00:55:58.954809:   [DONE ]   Scoring PET Done
+2019-12-03 00:55:58.954987:   [START]   Start Reading FCE
+2019-12-03 00:55:58.955660:   [START]   Preprocess ./dataset/cambridge/FCE/3.txt Start
+2019-12-03 00:55:59.031486:   [DONE ]   Preprocess ./dataset/cambridge/FCE/3.txt Done
+2019-12-03 00:55:59.032649:   [START]   Preprocess ./dataset/cambridge/FCE/4.txt Start
+2019-12-03 00:55:59.115031:   [DONE ]   Preprocess ./dataset/cambridge/FCE/4.txt Done
+2019-12-03 00:55:59.115206:   [DONE ]   Read FCE Done
+2019-12-03 00:55:59.116786:   [START]   Scoring FCE Start
+2019-12-03 00:55:59.117763:   [DONE ]   Scoring FCE Done
+2019-12-03 00:55:59.117887:   [START]   Start Reading CAE
+2019-12-03 00:55:59.118294:   [START]   Preprocess ./dataset/cambridge/CAE/4.txt Start
+2019-12-03 00:55:59.259507:   [DONE ]   Preprocess ./dataset/cambridge/CAE/4.txt Done
+2019-12-03 00:55:59.259728:   [START]   Preprocess ./dataset/cambridge/CAE/5.txt Start
+2019-12-03 00:55:59.337361:   [DONE ]   Preprocess ./dataset/cambridge/CAE/5.txt Done
+2019-12-03 00:55:59.337478:   [DONE ]   Read CAE Done
+2019-12-03 00:55:59.338289:   [START]   Scoring CAE Start
+2019-12-03 00:55:59.352665:   [DONE ]   Scoring CAE Done
+2019-12-03 00:55:59.353066:   [START]   Start Reading CPE
+2019-12-03 00:55:59.353569:   [START]   Preprocess ./dataset/cambridge/CPE/1.txt Start
+2019-12-03 00:55:59.414171:   [DONE ]   Preprocess ./dataset/cambridge/CPE/1.txt Done
+2019-12-03 00:55:59.414373:   [START]   Preprocess ./dataset/cambridge/CPE/2.txt Start
+2019-12-03 00:55:59.512958:   [DONE ]   Preprocess ./dataset/cambridge/CPE/2.txt Done
+2019-12-03 00:55:59.513079:   [DONE ]   Read CPE Done
+2019-12-03 00:55:59.513745:   [START]   Scoring CPE Start
+2019-12-03 00:55:59.515038:   [DONE ]   Scoring CPE Done
+2019-12-03 00:55:59.515253:   [DONE ]   Traning data Done
+2019-12-03 00:55:59.515341:   [EXIT ]   Exit main process!
+2019-12-03 00:55:59.515675:   [EXIT ]   Exit All!
+2019-12-03 00:56:21.102155:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:56:21.102296:   [INFO ]   Hello world!
+2019-12-03 00:56:21.102584:   [INFO ]   Start main processing!
+2019-12-03 00:56:21.102690:   [START]   Start Prepare Traning data
+2019-12-03 00:56:21.102899:   [START]   Initialize parameters Start
+2019-12-03 00:56:21.103054:   [DONE ]   Initialize parameters Done
+2019-12-03 00:56:21.103155:   [START]   Start setup FOLD
+2019-12-03 00:56:21.103334:   [START]   Setup FOLD Done
+2019-12-03 00:56:21.103417:   [START]   Start Training data
+2019-12-03 00:56:21.103546:   [START]   Start Reading KET
+2019-12-03 00:56:21.103728:   [START]   Preprocess ./dataset/cambridge/KET/3.txt Start
+2019-12-03 00:56:22.461685:   [DONE ]   Preprocess ./dataset/cambridge/KET/3.txt Done
+2019-12-03 00:56:22.461960:   [START]   Preprocess ./dataset/cambridge/KET/4.txt Start
+2019-12-03 00:56:22.487629:   [DONE ]   Preprocess ./dataset/cambridge/KET/4.txt Done
+2019-12-03 00:56:22.487737:   [DONE ]   Read KET Done
+2019-12-03 00:56:22.487884:   [START]   Scoring KET Start
+2019-12-03 00:56:22.488234:   [DONE ]   Scoring KET Done
+2019-12-03 00:56:22.488313:   [START]   Start Reading PET
+2019-12-03 00:56:22.488514:   [START]   Preprocess ./dataset/cambridge/PET/1.txt Start
+2019-12-03 00:56:22.526565:   [DONE ]   Preprocess ./dataset/cambridge/PET/1.txt Done
+2019-12-03 00:56:22.526802:   [START]   Preprocess ./dataset/cambridge/PET/4.txt Start
+2019-12-03 00:56:22.571670:   [DONE ]   Preprocess ./dataset/cambridge/PET/4.txt Done
+2019-12-03 00:56:22.571774:   [DONE ]   Read PET Done
+2019-12-03 00:56:22.572184:   [START]   Scoring PET Start
+2019-12-03 00:56:22.573294:   [DONE ]   Scoring PET Done
+2019-12-03 00:56:22.573399:   [START]   Start Reading FCE
+2019-12-03 00:56:22.573577:   [START]   Preprocess ./dataset/cambridge/FCE/3.txt Start
+2019-12-03 00:56:22.646904:   [DONE ]   Preprocess ./dataset/cambridge/FCE/3.txt Done
+2019-12-03 00:56:22.647171:   [START]   Preprocess ./dataset/cambridge/FCE/4.txt Start
+2019-12-03 00:56:22.723592:   [DONE ]   Preprocess ./dataset/cambridge/FCE/4.txt Done
+2019-12-03 00:56:22.723704:   [DONE ]   Read FCE Done
+2019-12-03 00:56:22.724317:   [START]   Scoring FCE Start
+2019-12-03 00:56:22.725457:   [DONE ]   Scoring FCE Done
+2019-12-03 00:56:22.725585:   [START]   Start Reading CAE
+2019-12-03 00:56:22.726303:   [START]   Preprocess ./dataset/cambridge/CAE/2.txt Start
+2019-12-03 00:56:22.788866:   [DONE ]   Preprocess ./dataset/cambridge/CAE/2.txt Done
+2019-12-03 00:56:22.789398:   [START]   Preprocess ./dataset/cambridge/CAE/3.txt Start
+2019-12-03 00:56:22.898174:   [DONE ]   Preprocess ./dataset/cambridge/CAE/3.txt Done
+2019-12-03 00:56:22.898303:   [DONE ]   Read CAE Done
+2019-12-03 00:56:22.899003:   [START]   Scoring CAE Start
+2019-12-03 00:56:22.900421:   [DONE ]   Scoring CAE Done
+2019-12-03 00:56:22.900631:   [START]   Start Reading CPE
+2019-12-03 00:56:22.900810:   [START]   Preprocess ./dataset/cambridge/CPE/2.txt Start
+2019-12-03 00:56:23.003701:   [DONE ]   Preprocess ./dataset/cambridge/CPE/2.txt Done
+2019-12-03 00:56:23.003896:   [START]   Preprocess ./dataset/cambridge/CPE/4.txt Start
+2019-12-03 00:56:23.068829:   [DONE ]   Preprocess ./dataset/cambridge/CPE/4.txt Done
+2019-12-03 00:56:23.069014:   [DONE ]   Read CPE Done
+2019-12-03 00:56:23.069486:   [START]   Scoring CPE Start
+2019-12-03 00:56:23.070882:   [DONE ]   Scoring CPE Done
+2019-12-03 00:56:23.071075:   [DONE ]   Traning data Done
+2019-12-03 00:56:23.071191:   [EXIT ]   Exit main process!
+2019-12-03 00:56:23.071356:   [EXIT ]   Exit All!
+2019-12-03 00:56:36.258268:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:56:36.258425:   [INFO ]   Hello world!
+2019-12-03 00:56:36.258924:   [INFO ]   Start main processing!
+2019-12-03 00:56:36.259112:   [START]   Start Prepare Traning data
+2019-12-03 00:56:36.259225:   [START]   Initialize parameters Start
+2019-12-03 00:56:36.259355:   [DONE ]   Initialize parameters Done
+2019-12-03 00:56:36.259476:   [START]   Start setup FOLD
+2019-12-03 00:56:36.259620:   [START]   Setup FOLD Done
+2019-12-03 00:56:36.259687:   [START]   Start Training data
+2019-12-03 00:56:36.259862:   [START]   Start Reading KET
+2019-12-03 00:56:36.260540:   [START]   Preprocess ./dataset/cambridge/KET/1.txt Start
+2019-12-03 00:56:37.619129:   [DONE ]   Preprocess ./dataset/cambridge/KET/1.txt Done
+2019-12-03 00:56:37.619451:   [START]   Preprocess ./dataset/cambridge/KET/2.txt Start
+2019-12-03 00:56:37.639393:   [DONE ]   Preprocess ./dataset/cambridge/KET/2.txt Done
+2019-12-03 00:56:37.639502:   [DONE ]   Read KET Done
+2019-12-03 00:56:37.639746:   [START]   Scoring KET Start
+2019-12-03 00:56:37.639947:   [DONE ]   Scoring KET Done
+2019-12-03 00:56:37.640030:   [START]   Start Reading PET
+2019-12-03 00:56:37.640245:   [START]   Preprocess ./dataset/cambridge/PET/1.txt Start
+2019-12-03 00:56:37.677741:   [DONE ]   Preprocess ./dataset/cambridge/PET/1.txt Done
+2019-12-03 00:56:37.678003:   [START]   Preprocess ./dataset/cambridge/PET/3.txt Start
+2019-12-03 00:56:37.696293:   [DONE ]   Preprocess ./dataset/cambridge/PET/3.txt Done
+2019-12-03 00:56:37.696413:   [DONE ]   Read PET Done
+2019-12-03 00:56:37.696628:   [START]   Scoring PET Start
+2019-12-03 00:56:37.696905:   [DONE ]   Scoring PET Done
+2019-12-03 00:56:37.697007:   [START]   Start Reading FCE
+2019-12-03 00:56:37.697363:   [START]   Preprocess ./dataset/cambridge/FCE/1.txt Start
+2019-12-03 00:56:37.788202:   [DONE ]   Preprocess ./dataset/cambridge/FCE/1.txt Done
+2019-12-03 00:56:37.789371:   [START]   Preprocess ./dataset/cambridge/FCE/2.txt Start
+2019-12-03 00:56:37.861083:   [DONE ]   Preprocess ./dataset/cambridge/FCE/2.txt Done
+2019-12-03 00:56:37.861202:   [DONE ]   Read FCE Done
+2019-12-03 00:56:37.862089:   [START]   Scoring FCE Start
+2019-12-03 00:56:37.862829:   [DONE ]   Scoring FCE Done
+2019-12-03 00:56:37.863002:   [START]   Start Reading CAE
+2019-12-03 00:56:37.863252:   [START]   Preprocess ./dataset/cambridge/CAE/2.txt Start
+2019-12-03 00:56:37.924461:   [DONE ]   Preprocess ./dataset/cambridge/CAE/2.txt Done
+2019-12-03 00:56:37.924657:   [START]   Preprocess ./dataset/cambridge/CAE/4.txt Start
+2019-12-03 00:56:38.071087:   [DONE ]   Preprocess ./dataset/cambridge/CAE/4.txt Done
+2019-12-03 00:56:38.071213:   [DONE ]   Read CAE Done
+2019-12-03 00:56:38.071884:   [START]   Scoring CAE Start
+2019-12-03 00:56:38.072476:   [DONE ]   Scoring CAE Done
+2019-12-03 00:56:38.072635:   [START]   Start Reading CPE
+2019-12-03 00:56:38.072816:   [START]   Preprocess ./dataset/cambridge/CPE/1.txt Start
+2019-12-03 00:56:38.136268:   [DONE ]   Preprocess ./dataset/cambridge/CPE/1.txt Done
+2019-12-03 00:56:38.136479:   [START]   Preprocess ./dataset/cambridge/CPE/2.txt Start
+2019-12-03 00:56:38.245225:   [DONE ]   Preprocess ./dataset/cambridge/CPE/2.txt Done
+2019-12-03 00:56:38.245354:   [DONE ]   Read CPE Done
+2019-12-03 00:56:38.245961:   [START]   Scoring CPE Start
+2019-12-03 00:56:38.246393:   [DONE ]   Scoring CPE Done
+2019-12-03 00:56:38.246584:   [DONE ]   Traning data Done
+2019-12-03 00:56:38.246758:   [EXIT ]   Exit main process!
+2019-12-03 00:56:38.246876:   [EXIT ]   Exit All!
+2019-12-03 00:56:49.166294:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:56:49.166443:   [INFO ]   Hello world!
+2019-12-03 00:56:49.167176:   [INFO ]   Start main processing!
+2019-12-03 00:56:49.167403:   [START]   Start Prepare Traning data
+2019-12-03 00:56:49.167570:   [START]   Initialize parameters Start
+2019-12-03 00:56:49.167760:   [DONE ]   Initialize parameters Done
+2019-12-03 00:56:49.167855:   [START]   Start setup FOLD
+2019-12-03 00:56:49.168052:   [START]   Setup FOLD Done
+2019-12-03 00:56:49.168141:   [START]   Start Training data
+2019-12-03 00:56:49.168225:   [START]   Start Reading KET
+2019-12-03 00:56:49.168483:   [START]   Preprocess ./dataset/cambridge/KET/2.txt Start
+2019-12-03 00:56:50.574205:   [DONE ]   Preprocess ./dataset/cambridge/KET/2.txt Done
+2019-12-03 00:56:50.575270:   [START]   Preprocess ./dataset/cambridge/KET/5.txt Start
+2019-12-03 00:56:50.593880:   [DONE ]   Preprocess ./dataset/cambridge/KET/5.txt Done
+2019-12-03 00:56:50.594079:   [DONE ]   Read KET Done
+2019-12-03 00:56:50.594234:   [START]   Scoring KET Start
+2019-12-03 00:56:50.594447:   [DONE ]   Scoring KET Done
+2019-12-03 00:56:50.594632:   [START]   Start Reading PET
+2019-12-03 00:56:50.594868:   [START]   Preprocess ./dataset/cambridge/PET/4.txt Start
+2019-12-03 00:56:50.646668:   [DONE ]   Preprocess ./dataset/cambridge/PET/4.txt Done
+2019-12-03 00:56:50.648659:   [START]   Preprocess ./dataset/cambridge/PET/5.txt Start
+2019-12-03 00:56:50.678758:   [DONE ]   Preprocess ./dataset/cambridge/PET/5.txt Done
+2019-12-03 00:56:50.678889:   [DONE ]   Read PET Done
+2019-12-03 00:56:50.679045:   [START]   Scoring PET Start
+2019-12-03 00:56:50.679305:   [DONE ]   Scoring PET Done
+2019-12-03 00:56:50.679454:   [START]   Start Reading FCE
+2019-12-03 00:56:50.679612:   [START]   Preprocess ./dataset/cambridge/FCE/1.txt Start
+2019-12-03 00:56:50.768802:   [DONE ]   Preprocess ./dataset/cambridge/FCE/1.txt Done
+2019-12-03 00:56:50.769003:   [START]   Preprocess ./dataset/cambridge/FCE/4.txt Start
+2019-12-03 00:56:50.848695:   [DONE ]   Preprocess ./dataset/cambridge/FCE/4.txt Done
+2019-12-03 00:56:50.848812:   [DONE ]   Read FCE Done
+2019-12-03 00:56:50.849284:   [START]   Scoring FCE Start
+2019-12-03 00:56:50.849663:   [DONE ]   Scoring FCE Done
+2019-12-03 00:56:50.849854:   [START]   Start Reading CAE
+2019-12-03 00:56:50.850020:   [START]   Preprocess ./dataset/cambridge/CAE/1.txt Start
+2019-12-03 00:56:50.921731:   [DONE ]   Preprocess ./dataset/cambridge/CAE/1.txt Done
+2019-12-03 00:56:50.921918:   [START]   Preprocess ./dataset/cambridge/CAE/2.txt Start
+2019-12-03 00:56:50.983410:   [DONE ]   Preprocess ./dataset/cambridge/CAE/2.txt Done
+2019-12-03 00:56:50.983583:   [DONE ]   Read CAE Done
+2019-12-03 00:56:50.984104:   [START]   Scoring CAE Start
+2019-12-03 00:56:50.984472:   [DONE ]   Scoring CAE Done
+2019-12-03 00:56:50.984623:   [START]   Start Reading CPE
+2019-12-03 00:56:50.985318:   [START]   Preprocess ./dataset/cambridge/CPE/3.txt Start
+2019-12-03 00:56:51.110306:   [DONE ]   Preprocess ./dataset/cambridge/CPE/3.txt Done
+2019-12-03 00:56:51.111325:   [START]   Preprocess ./dataset/cambridge/CPE/5.txt Start
+2019-12-03 00:56:51.164859:   [DONE ]   Preprocess ./dataset/cambridge/CPE/5.txt Done
+2019-12-03 00:56:51.164974:   [DONE ]   Read CPE Done
+2019-12-03 00:56:51.165693:   [START]   Scoring CPE Start
+2019-12-03 00:56:51.166211:   [DONE ]   Scoring CPE Done
+2019-12-03 00:56:51.166442:   [DONE ]   Traning data Done
+2019-12-03 00:56:51.166573:   [EXIT ]   Exit main process!
+2019-12-03 00:56:51.166706:   [EXIT ]   Exit All!
+2019-12-03 00:56:58.863572:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 00:56:58.863718:   [INFO ]   Hello world!
+2019-12-03 00:56:58.864401:   [INFO ]   Start main processing!
+2019-12-03 00:56:58.864550:   [START]   Start Prepare Traning data
+2019-12-03 00:56:58.864828:   [START]   Initialize parameters Start
+2019-12-03 00:56:58.864960:   [DONE ]   Initialize parameters Done
+2019-12-03 00:56:58.865106:   [START]   Start setup FOLD
+2019-12-03 00:56:58.865253:   [START]   Setup FOLD Done
+2019-12-03 00:56:58.865342:   [START]   Start Training data
+2019-12-03 00:56:58.865492:   [START]   Start Reading KET
+2019-12-03 00:56:58.865680:   [START]   Preprocess ./dataset/cambridge/KET/1.txt Start
+2019-12-03 00:57:00.301071:   [DONE ]   Preprocess ./dataset/cambridge/KET/1.txt Done
+2019-12-03 00:57:00.301788:   [START]   Preprocess ./dataset/cambridge/KET/3.txt Start
+2019-12-03 00:57:00.317513:   [DONE ]   Preprocess ./dataset/cambridge/KET/3.txt Done
+2019-12-03 00:57:00.317658:   [DONE ]   Read KET Done
+2019-12-03 00:57:00.317796:   [START]   Scoring KET Start
+2019-12-03 00:57:00.318110:   [DONE ]   Scoring KET Done
+2019-12-03 00:57:00.318221:   [START]   Start Reading PET
+2019-12-03 00:57:00.318438:   [START]   Preprocess ./dataset/cambridge/PET/4.txt Start
+2019-12-03 00:57:00.373141:   [DONE ]   Preprocess ./dataset/cambridge/PET/4.txt Done
+2019-12-03 00:57:00.373613:   [START]   Preprocess ./dataset/cambridge/PET/5.txt Start
+2019-12-03 00:57:00.402799:   [DONE ]   Preprocess ./dataset/cambridge/PET/5.txt Done
+2019-12-03 00:57:00.402933:   [DONE ]   Read PET Done
+2019-12-03 00:57:00.403092:   [START]   Scoring PET Start
+2019-12-03 00:57:00.403359:   [DONE ]   Scoring PET Done
+2019-12-03 00:57:00.403440:   [START]   Start Reading FCE
+2019-12-03 00:57:00.403585:   [START]   Preprocess ./dataset/cambridge/FCE/4.txt Start
+2019-12-03 00:57:00.492216:   [DONE ]   Preprocess ./dataset/cambridge/FCE/4.txt Done
+2019-12-03 00:57:00.493102:   [START]   Preprocess ./dataset/cambridge/FCE/5.txt Start
+2019-12-03 00:57:00.576899:   [DONE ]   Preprocess ./dataset/cambridge/FCE/5.txt Done
+2019-12-03 00:57:00.577051:   [DONE ]   Read FCE Done
+2019-12-03 00:57:00.577443:   [START]   Scoring FCE Start
+2019-12-03 00:57:00.577913:   [DONE ]   Scoring FCE Done
+2019-12-03 00:57:00.578057:   [START]   Start Reading CAE
+2019-12-03 00:57:00.578236:   [START]   Preprocess ./dataset/cambridge/CAE/2.txt Start
+2019-12-03 00:57:00.642046:   [DONE ]   Preprocess ./dataset/cambridge/CAE/2.txt Done
+2019-12-03 00:57:00.642618:   [START]   Preprocess ./dataset/cambridge/CAE/4.txt Start
+2019-12-03 00:57:00.793881:   [DONE ]   Preprocess ./dataset/cambridge/CAE/4.txt Done
+2019-12-03 00:57:00.794020:   [DONE ]   Read CAE Done
+2019-12-03 00:57:00.794632:   [START]   Scoring CAE Start
+2019-12-03 00:57:00.795526:   [DONE ]   Scoring CAE Done
+2019-12-03 00:57:00.795676:   [START]   Start Reading CPE
+2019-12-03 00:57:00.796166:   [START]   Preprocess ./dataset/cambridge/CPE/1.txt Start
+2019-12-03 00:57:00.859956:   [DONE ]   Preprocess ./dataset/cambridge/CPE/1.txt Done
+2019-12-03 00:57:00.860517:   [START]   Preprocess ./dataset/cambridge/CPE/4.txt Start
+2019-12-03 00:57:00.934722:   [DONE ]   Preprocess ./dataset/cambridge/CPE/4.txt Done
+2019-12-03 00:57:00.934903:   [DONE ]   Read CPE Done
+2019-12-03 00:57:00.935421:   [START]   Scoring CPE Start
+2019-12-03 00:57:00.935839:   [DONE ]   Scoring CPE Done
+2019-12-03 00:57:00.935979:   [DONE ]   Traning data Done
+2019-12-03 00:57:00.936111:   [EXIT ]   Exit main process!
+2019-12-03 00:57:00.936242:   [EXIT ]   Exit All!
+2019-12-03 01:00:41.121082:   [INFO]   -----------------------------------------------------------------------------
+2019-12-03 01:00:41.121797:   [INFO ]   Hello world!
+2019-12-03 01:00:41.121972:   [INFO ]   Start main processing!
+2019-12-03 01:00:41.122146:   [START]   Start Prepare Traning data
+2019-12-03 01:00:41.122488:   [START]   Initialize parameters Start
+2019-12-03 01:00:41.122622:   [DONE ]   Initialize parameters Done
+2019-12-03 01:00:41.122795:   [START]   Start setup FOLD
+2019-12-03 01:00:41.122917:   [START]   Setup FOLD Done
+2019-12-03 01:00:41.122990:   [START]   Start Training data
+2019-12-03 01:00:41.123062:   [START]   Start Reading KET
+2019-12-03 01:00:41.123575:   [START]   Preprocess ./dataset/cambridge/KET/4.txt Start
+2019-12-03 01:00:42.507517:   [DONE ]   Preprocess ./dataset/cambridge/KET/4.txt Done
+2019-12-03 01:00:42.508263:   [START]   Preprocess ./dataset/cambridge/KET/5.txt Start
+2019-12-03 01:00:42.525642:   [DONE ]   Preprocess ./dataset/cambridge/KET/5.txt Done
+2019-12-03 01:00:42.525759:   [DONE ]   Read KET Done
+2019-12-03 01:00:42.525952:   [START]   Scoring KET Start
+2019-12-03 01:00:42.526169:   [DONE ]   Scoring KET Done
+2019-12-03 01:00:42.526255:   [START]   Start Reading PET
+2019-12-03 01:00:42.526521:   [START]   Preprocess ./dataset/cambridge/PET/4.txt Start
+2019-12-03 01:00:42.574437:   [DONE ]   Preprocess ./dataset/cambridge/PET/4.txt Done
+2019-12-03 01:00:42.575139:   [START]   Preprocess ./dataset/cambridge/PET/5.txt Start
+2019-12-03 01:00:42.600761:   [DONE ]   Preprocess ./dataset/cambridge/PET/5.txt Done
+2019-12-03 01:00:42.600860:   [DONE ]   Read PET Done
+2019-12-03 01:00:42.601098:   [START]   Scoring PET Start
+2019-12-03 01:00:42.601410:   [DONE ]   Scoring PET Done
+2019-12-03 01:00:42.601511:   [START]   Start Reading FCE
+2019-12-03 01:00:42.602226:   [START]   Preprocess ./dataset/cambridge/FCE/2.txt Start
+2019-12-03 01:00:42.669424:   [DONE ]   Preprocess ./dataset/cambridge/FCE/2.txt Done
+2019-12-03 01:00:42.669941:   [START]   Preprocess ./dataset/cambridge/FCE/3.txt Start
+2019-12-03 01:00:42.739863:   [DONE ]   Preprocess ./dataset/cambridge/FCE/3.txt Done
+2019-12-03 01:00:42.739981:   [DONE ]   Read FCE Done
+2019-12-03 01:00:42.740578:   [START]   Scoring FCE Start
+2019-12-03 01:00:42.741004:   [DONE ]   Scoring FCE Done
+2019-12-03 01:00:42.741283:   [START]   Start Reading CAE
+2019-12-03 01:00:42.742214:   [START]   Preprocess ./dataset/cambridge/CAE/2.txt Start
+2019-12-03 01:00:42.802913:   [DONE ]   Preprocess ./dataset/cambridge/CAE/2.txt Done
+2019-12-03 01:00:42.803624:   [START]   Preprocess ./dataset/cambridge/CAE/3.txt Start
+2019-12-03 01:00:42.911620:   [DONE ]   Preprocess ./dataset/cambridge/CAE/3.txt Done
+2019-12-03 01:00:42.911743:   [DONE ]   Read CAE Done
+2019-12-03 01:00:42.912213:   [START]   Scoring CAE Start
+2019-12-03 01:00:42.912825:   [DONE ]   Scoring CAE Done
+2019-12-03 01:00:42.912977:   [START]   Start Reading CPE
+2019-12-03 01:00:42.913307:   [START]   Preprocess ./dataset/cambridge/CPE/3.txt Start
+2019-12-03 01:00:43.032905:   [DONE ]   Preprocess ./dataset/cambridge/CPE/3.txt Done
+2019-12-03 01:00:43.033643:   [START]   Preprocess ./dataset/cambridge/CPE/5.txt Start
+2019-12-03 01:00:43.090825:   [DONE ]   Preprocess ./dataset/cambridge/CPE/5.txt Done
+2019-12-03 01:00:43.090936:   [DONE ]   Read CPE Done
+2019-12-03 01:00:43.091739:   [START]   Scoring CPE Start
+2019-12-03 01:00:43.092473:   [DONE ]   Scoring CPE Done
+2019-12-03 01:00:43.092629:   [DONE ]   Traning data Done
+2019-12-03 01:00:43.092799:   [EXIT ]   Exit main process!
+2019-12-03 01:00:43.092945:   [EXIT ]   Exit All!

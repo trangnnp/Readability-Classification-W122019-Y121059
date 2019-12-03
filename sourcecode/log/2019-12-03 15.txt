@@ -1,0 +1,792 @@
+2019-12-03 15:04:52.358042:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-03 15:04:52.358239:   [INFO  ]   Hello world!
+2019-12-03 15:04:52.358991:   [INFO  ]   Start main processing!
+2019-12-03 15:04:52.359253:   [START ]   Start Prepare Traning data
+2019-12-03 15:04:52.359544:   [START ]   Initialize parameters Start
+2019-12-03 15:04:52.359892:   [DONE  ]   Initialize parameters Done
+2019-12-03 15:04:52.360018:   [START ]   Start setup FOLD
+2019-12-03 15:04:52.360376:   [START ]   Setup FOLD Done
+2019-12-03 15:04:52.360473:   [START ]   Start Training data
+2019-12-03 15:04:52.360692:   [START ]   Start Reading KET
+2019-12-03 15:04:52.360922:   [START ]   Preprocess ./dataset/cambridge/KET/1.txt Start
+2019-12-03 15:04:53.772912:   [DONE  ]   Preprocess ./dataset/cambridge/KET/1.txt Done
+2019-12-03 15:04:53.773264:   [START ]   Preprocess ./dataset/cambridge/KET/2.txt Start
+2019-12-03 15:04:53.793711:   [DONE  ]   Preprocess ./dataset/cambridge/KET/2.txt Done
+2019-12-03 15:04:53.794014:   [START ]   Preprocess ./dataset/cambridge/KET/4.txt Start
+2019-12-03 15:04:53.818256:   [DONE  ]   Preprocess ./dataset/cambridge/KET/4.txt Done
+2019-12-03 15:04:53.818466:   [START ]   Preprocess ./dataset/cambridge/KET/5.txt Start
+2019-12-03 15:04:53.833347:   [DONE  ]   Preprocess ./dataset/cambridge/KET/5.txt Done
+2019-12-03 15:04:53.833553:   [START ]   Preprocess ./dataset/cambridge/KET/7.txt Start
+2019-12-03 15:04:53.857170:   [DONE  ]   Preprocess ./dataset/cambridge/KET/7.txt Done
+2019-12-03 15:04:53.857464:   [START ]   Preprocess ./dataset/cambridge/KET/8.txt Start
+2019-12-03 15:04:53.873826:   [DONE  ]   Preprocess ./dataset/cambridge/KET/8.txt Done
+2019-12-03 15:04:53.874039:   [START ]   Preprocess ./dataset/cambridge/KET/9.txt Start
+2019-12-03 15:04:53.887741:   [DONE  ]   Preprocess ./dataset/cambridge/KET/9.txt Done
+2019-12-03 15:04:53.888089:   [START ]   Preprocess ./dataset/cambridge/KET/10.txt Start
+2019-12-03 15:04:53.913269:   [DONE  ]   Preprocess ./dataset/cambridge/KET/10.txt Done
+2019-12-03 15:04:53.913511:   [START ]   Preprocess ./dataset/cambridge/KET/11.txt Start
+2019-12-03 15:04:53.927868:   [DONE  ]   Preprocess ./dataset/cambridge/KET/11.txt Done
+2019-12-03 15:04:53.928188:   [START ]   Preprocess ./dataset/cambridge/KET/12.txt Start
+2019-12-03 15:04:53.940799:   [DONE  ]   Preprocess ./dataset/cambridge/KET/12.txt Done
+2019-12-03 15:04:53.940986:   [START ]   Preprocess ./dataset/cambridge/KET/14.txt Start
+2019-12-03 15:04:53.955430:   [DONE  ]   Preprocess ./dataset/cambridge/KET/14.txt Done
+2019-12-03 15:04:53.955694:   [START ]   Preprocess ./dataset/cambridge/KET/15.txt Start
+2019-12-03 15:04:53.968190:   [DONE  ]   Preprocess ./dataset/cambridge/KET/15.txt Done
+2019-12-03 15:04:53.968324:   [DONE  ]   Read KET Done
+2019-12-03 15:04:53.968609:   [START ]   Limiting KET Start
+2019-12-03 15:04:53.969227:   [RESULT]   ----------Score on KET Limiting: 6.155263157894738----------
+2019-12-03 15:04:53.969447:   [RESULT]   ----------Score on KET Limiting: 5.586834733893557----------
+2019-12-03 15:04:53.970046:   [RESULT]   ----------Score on KET Limiting: 5.901038537464595----------
+2019-12-03 15:04:53.971161:   [RESULT]   ----------Score on KET Limiting: 6.020336134453782----------
+2019-12-03 15:04:53.971573:   [RESULT]   ----------Score on KET Limiting: 6.337202072538859----------
+2019-12-03 15:04:53.971834:   [RESULT]   ----------Score on KET Limiting: 5.633505598621878----------
+2019-12-03 15:04:53.972120:   [RESULT]   ----------Score on KET Limiting: 6.087542087542087----------
+2019-12-03 15:04:53.972885:   [RESULT]   ----------Score on KET Limiting: 5.97494615936827----------
+2019-12-03 15:04:53.973046:   [RESULT]   ----------Score on KET Limiting: 6.1649712516585575----------
+2019-12-03 15:04:53.973302:   [RESULT]   ----------Score on KET Limiting: 5.310714285714286----------
+2019-12-03 15:04:53.973485:   [RESULT]   ----------Score on KET Limiting: 5.78200821201941----------
+2019-12-03 15:04:53.973648:   [RESULT]   ----------Score on KET Limiting: 5.846251993620414----------
+2019-12-03 15:04:53.973812:   [DONE  ]   Limiting KET Done
+2019-12-03 15:04:53.973895:   [START ]   Start Reading PET
+2019-12-03 15:04:53.974204:   [START ]   Preprocess ./dataset/cambridge/PET/1.txt Start
+2019-12-03 15:04:54.021723:   [DONE  ]   Preprocess ./dataset/cambridge/PET/1.txt Done
+2019-12-03 15:04:54.021922:   [START ]   Preprocess ./dataset/cambridge/PET/2.txt Start
+2019-12-03 15:04:54.047884:   [DONE  ]   Preprocess ./dataset/cambridge/PET/2.txt Done
+2019-12-03 15:04:54.048118:   [START ]   Preprocess ./dataset/cambridge/PET/3.txt Start
+2019-12-03 15:04:54.066926:   [DONE  ]   Preprocess ./dataset/cambridge/PET/3.txt Done
+2019-12-03 15:04:54.067245:   [START ]   Preprocess ./dataset/cambridge/PET/5.txt Start
+2019-12-03 15:04:54.095020:   [DONE  ]   Preprocess ./dataset/cambridge/PET/5.txt Done
+2019-12-03 15:04:54.095329:   [START ]   Preprocess ./dataset/cambridge/PET/7.txt Start
+2019-12-03 15:04:54.144868:   [DONE  ]   Preprocess ./dataset/cambridge/PET/7.txt Done
+2019-12-03 15:04:54.145134:   [START ]   Preprocess ./dataset/cambridge/PET/8.txt Start
+2019-12-03 15:04:54.171566:   [DONE  ]   Preprocess ./dataset/cambridge/PET/8.txt Done
+2019-12-03 15:04:54.171784:   [START ]   Preprocess ./dataset/cambridge/PET/9.txt Start
+2019-12-03 15:04:54.190801:   [DONE  ]   Preprocess ./dataset/cambridge/PET/9.txt Done
+2019-12-03 15:04:54.191091:   [START ]   Preprocess ./dataset/cambridge/PET/10.txt Start
+2019-12-03 15:04:54.252774:   [DONE  ]   Preprocess ./dataset/cambridge/PET/10.txt Done
+2019-12-03 15:04:54.252980:   [START ]   Preprocess ./dataset/cambridge/PET/11.txt Start
+2019-12-03 15:04:54.276533:   [DONE  ]   Preprocess ./dataset/cambridge/PET/11.txt Done
+2019-12-03 15:04:54.277080:   [START ]   Preprocess ./dataset/cambridge/PET/12.txt Start
+2019-12-03 15:04:54.292537:   [DONE  ]   Preprocess ./dataset/cambridge/PET/12.txt Done
+2019-12-03 15:04:54.292722:   [START ]   Preprocess ./dataset/cambridge/PET/13.txt Start
+2019-12-03 15:04:54.335455:   [DONE  ]   Preprocess ./dataset/cambridge/PET/13.txt Done
+2019-12-03 15:04:54.335662:   [START ]   Preprocess ./dataset/cambridge/PET/15.txt Start
+2019-12-03 15:04:54.356986:   [DONE  ]   Preprocess ./dataset/cambridge/PET/15.txt Done
+2019-12-03 15:04:54.357105:   [DONE  ]   Read PET Done
+2019-12-03 15:04:54.357613:   [START ]   Limiting PET Start
+2019-12-03 15:04:54.358684:   [RESULT]   ----------Score on PET Limiting: 7.0489725262452545----------
+2019-12-03 15:04:54.359325:   [RESULT]   ----------Score on PET Limiting: 6.476631162330482----------
+2019-12-03 15:04:54.360284:   [RESULT]   ----------Score on PET Limiting: 7.222682119205299----------
+2019-12-03 15:04:54.360971:   [RESULT]   ----------Score on PET Limiting: 6.101253918495298----------
+2019-12-03 15:04:54.362245:   [RESULT]   ----------Score on PET Limiting: 6.844219863087788----------
+2019-12-03 15:04:54.362718:   [RESULT]   ----------Score on PET Limiting: 6.209043430456295----------
+2019-12-03 15:04:54.374308:   [RESULT]   ----------Score on PET Limiting: 6.278499278499279----------
+2019-12-03 15:04:54.389949:   [RESULT]   ----------Score on PET Limiting: 6.929098858392033----------
+2019-12-03 15:04:54.392083:   [RESULT]   ----------Score on PET Limiting: 7.070158102766799----------
+2019-12-03 15:04:54.405079:   [RESULT]   ----------Score on PET Limiting: 6.696705153477893----------
+2019-12-03 15:04:54.407520:   [RESULT]   ----------Score on PET Limiting: 6.699645559919532----------
+2019-12-03 15:04:54.407898:   [RESULT]   ----------Score on PET Limiting: 6.684791448820727----------
+2019-12-03 15:04:54.408067:   [DONE  ]   Limiting PET Done
+2019-12-03 15:04:54.408211:   [START ]   Start Reading FCE
+2019-12-03 15:04:54.408354:   [START ]   Preprocess ./dataset/cambridge/FCE/2.txt Start
+2019-12-03 15:04:54.479803:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/2.txt Done
+2019-12-03 15:04:54.480003:   [START ]   Preprocess ./dataset/cambridge/FCE/3.txt Start
+2019-12-03 15:04:54.550195:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/3.txt Done
+2019-12-03 15:04:54.550391:   [START ]   Preprocess ./dataset/cambridge/FCE/4.txt Start
+2019-12-03 15:04:54.633767:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/4.txt Done
+2019-12-03 15:04:54.633980:   [START ]   Preprocess ./dataset/cambridge/FCE/6.txt Start
+2019-12-03 15:04:54.727065:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/6.txt Done
+2019-12-03 15:04:54.727277:   [START ]   Preprocess ./dataset/cambridge/FCE/7.txt Start
+2019-12-03 15:04:54.808941:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/7.txt Done
+2019-12-03 15:04:54.809159:   [START ]   Preprocess ./dataset/cambridge/FCE/8.txt Start
+2019-12-03 15:04:54.884514:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/8.txt Done
+2019-12-03 15:04:54.885609:   [START ]   Preprocess ./dataset/cambridge/FCE/10.txt Start
+2019-12-03 15:04:54.963767:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/10.txt Done
+2019-12-03 15:04:54.964661:   [START ]   Preprocess ./dataset/cambridge/FCE/11.txt Start
+2019-12-03 15:04:55.044679:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/11.txt Done
+2019-12-03 15:04:55.045503:   [START ]   Preprocess ./dataset/cambridge/FCE/12.txt Start
+2019-12-03 15:04:55.123245:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/12.txt Done
+2019-12-03 15:04:55.123454:   [START ]   Preprocess ./dataset/cambridge/FCE/13.txt Start
+2019-12-03 15:04:55.190911:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/13.txt Done
+2019-12-03 15:04:55.191121:   [START ]   Preprocess ./dataset/cambridge/FCE/14.txt Start
+2019-12-03 15:04:55.257215:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/14.txt Done
+2019-12-03 15:04:55.257423:   [START ]   Preprocess ./dataset/cambridge/FCE/15.txt Start
+2019-12-03 15:04:55.345946:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/15.txt Done
+2019-12-03 15:04:55.346091:   [DONE  ]   Read FCE Done
+2019-12-03 15:04:55.346758:   [START ]   Limiting FCE Start
+2019-12-03 15:04:55.348126:   [RESULT]   ----------Score on FCE Limiting: 6.716423615438947----------
+2019-12-03 15:04:55.363683:   [RESULT]   ----------Score on FCE Limiting: 7.13142740809679----------
+2019-12-03 15:04:55.365600:   [RESULT]   ----------Score on FCE Limiting: 6.5914815501813315----------
+2019-12-03 15:04:55.367283:   [RESULT]   ----------Score on FCE Limiting: 6.40232834402471----------
+2019-12-03 15:04:55.368608:   [RESULT]   ----------Score on FCE Limiting: 6.187041573472502----------
+2019-12-03 15:04:55.369974:   [RESULT]   ----------Score on FCE Limiting: 6.671414883423827----------
+2019-12-03 15:04:55.370561:   [RESULT]   ----------Score on FCE Limiting: 6.551621428571428----------
+2019-12-03 15:04:55.371885:   [RESULT]   ----------Score on FCE Limiting: 6.592881616670162----------
+2019-12-03 15:04:55.372545:   [RESULT]   ----------Score on FCE Limiting: 6.959517967960745----------
+2019-12-03 15:04:55.375252:   [RESULT]   ----------Score on FCE Limiting: 7.039130115587604----------
+2019-12-03 15:04:55.390256:   [RESULT]   ----------Score on FCE Limiting: 6.659115652755228----------
+2019-12-03 15:04:55.392886:   [RESULT]   ----------Score on FCE Limiting: 7.087861118473363----------
+2019-12-03 15:04:55.393096:   [DONE  ]   Limiting FCE Done
+2019-12-03 15:04:55.393180:   [START ]   Start Reading CAE
+2019-12-03 15:04:55.393306:   [START ]   Preprocess ./dataset/cambridge/CAE/1.txt Start
+2019-12-03 15:04:55.468722:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/1.txt Done
+2019-12-03 15:04:55.468910:   [START ]   Preprocess ./dataset/cambridge/CAE/3.txt Start
+2019-12-03 15:04:55.575522:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/3.txt Done
+2019-12-03 15:04:55.575798:   [START ]   Preprocess ./dataset/cambridge/CAE/4.txt Start
+2019-12-03 15:04:55.707965:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/4.txt Done
+2019-12-03 15:04:55.708186:   [START ]   Preprocess ./dataset/cambridge/CAE/5.txt Start
+2019-12-03 15:04:55.796122:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/5.txt Done
+2019-12-03 15:04:55.796347:   [START ]   Preprocess ./dataset/cambridge/CAE/6.txt Start
+2019-12-03 15:04:55.894920:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/6.txt Done
+2019-12-03 15:04:55.895133:   [START ]   Preprocess ./dataset/cambridge/CAE/7.txt Start
+2019-12-03 15:04:56.005243:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/7.txt Done
+2019-12-03 15:04:56.006129:   [START ]   Preprocess ./dataset/cambridge/CAE/8.txt Start
+2019-12-03 15:04:56.137221:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/8.txt Done
+2019-12-03 15:04:56.137444:   [START ]   Preprocess ./dataset/cambridge/CAE/9.txt Start
+2019-12-03 15:04:56.259797:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/9.txt Done
+2019-12-03 15:04:56.260019:   [START ]   Preprocess ./dataset/cambridge/CAE/10.txt Start
+2019-12-03 15:04:56.419013:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/10.txt Done
+2019-12-03 15:04:56.419338:   [START ]   Preprocess ./dataset/cambridge/CAE/11.txt Start
+2019-12-03 15:04:56.507945:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/11.txt Done
+2019-12-03 15:04:56.508147:   [START ]   Preprocess ./dataset/cambridge/CAE/12.txt Start
+2019-12-03 15:04:56.626766:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/12.txt Done
+2019-12-03 15:04:56.626984:   [START ]   Preprocess ./dataset/cambridge/CAE/13.txt Start
+2019-12-03 15:04:56.732309:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/13.txt Done
+2019-12-03 15:04:56.732442:   [DONE  ]   Read CAE Done
+2019-12-03 15:04:56.733420:   [START ]   Limiting CAE Start
+2019-12-03 15:04:56.734817:   [RESULT]   ----------Score on CAE Limiting: 7.179042615294805----------
+2019-12-03 15:04:56.736652:   [RESULT]   ----------Score on CAE Limiting: 6.520322494669509----------
+2019-12-03 15:04:56.739473:   [RESULT]   ----------Score on CAE Limiting: 7.459148136162607----------
+2019-12-03 15:04:56.740338:   [RESULT]   ----------Score on CAE Limiting: 7.840980984538831----------
+2019-12-03 15:04:56.741598:   [RESULT]   ----------Score on CAE Limiting: 7.328628876343671----------
+2019-12-03 15:04:56.757636:   [RESULT]   ----------Score on CAE Limiting: 7.105298421220665----------
+2019-12-03 15:04:56.759499:   [RESULT]   ----------Score on CAE Limiting: 7.294607039401315----------
+2019-12-03 15:04:56.775634:   [RESULT]   ----------Score on CAE Limiting: 6.72316350495043----------
+2019-12-03 15:04:56.791599:   [RESULT]   ----------Score on CAE Limiting: 6.692496056797179----------
+2019-12-03 15:04:56.804233:   [RESULT]   ----------Score on CAE Limiting: 7.2482885331722535----------
+2019-12-03 15:04:56.806635:   [RESULT]   ----------Score on CAE Limiting: 7.042264987293264----------
+2019-12-03 15:04:56.808201:   [RESULT]   ----------Score on CAE Limiting: 6.680563841817972----------
+2019-12-03 15:04:56.808400:   [DONE  ]   Limiting CAE Done
+2019-12-03 15:04:56.808588:   [START ]   Start Reading CPE
+2019-12-03 15:04:56.808815:   [START ]   Preprocess ./dataset/cambridge/CPE/1.txt Start
+2019-12-03 15:04:56.873446:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/1.txt Done
+2019-12-03 15:04:56.873662:   [START ]   Preprocess ./dataset/cambridge/CPE/2.txt Start
+2019-12-03 15:04:56.984537:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/2.txt Done
+2019-12-03 15:04:56.984739:   [START ]   Preprocess ./dataset/cambridge/CPE/3.txt Start
+2019-12-03 15:04:57.116367:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/3.txt Done
+2019-12-03 15:04:57.117245:   [START ]   Preprocess ./dataset/cambridge/CPE/4.txt Start
+2019-12-03 15:04:57.189113:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/4.txt Done
+2019-12-03 15:04:57.189334:   [START ]   Preprocess ./dataset/cambridge/CPE/6.txt Start
+2019-12-03 15:04:57.310490:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/6.txt Done
+2019-12-03 15:04:57.310800:   [START ]   Preprocess ./dataset/cambridge/CPE/9.txt Start
+2019-12-03 15:04:57.370780:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/9.txt Done
+2019-12-03 15:04:57.371006:   [START ]   Preprocess ./dataset/cambridge/CPE/10.txt Start
+2019-12-03 15:04:57.477192:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/10.txt Done
+2019-12-03 15:04:57.478244:   [START ]   Preprocess ./dataset/cambridge/CPE/11.txt Start
+2019-12-03 15:04:57.591886:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/11.txt Done
+2019-12-03 15:04:57.592100:   [START ]   Preprocess ./dataset/cambridge/CPE/12.txt Start
+2019-12-03 15:04:57.697422:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/12.txt Done
+2019-12-03 15:04:57.697651:   [START ]   Preprocess ./dataset/cambridge/CPE/13.txt Start
+2019-12-03 15:04:57.757679:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/13.txt Done
+2019-12-03 15:04:57.758252:   [START ]   Preprocess ./dataset/cambridge/CPE/14.txt Start
+2019-12-03 15:04:57.888466:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/14.txt Done
+2019-12-03 15:04:57.888684:   [START ]   Preprocess ./dataset/cambridge/CPE/15.txt Start
+2019-12-03 15:04:58.009796:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/15.txt Done
+2019-12-03 15:04:58.010018:   [DONE  ]   Read CPE Done
+2019-12-03 15:04:58.010664:   [START ]   Limiting CPE Start
+2019-12-03 15:04:58.016493:   [RESULT]   ----------Score on CPE Limiting: 7.031055900621118----------
+2019-12-03 15:04:58.018256:   [RESULT]   ----------Score on CPE Limiting: 7.444030674169701----------
+2019-12-03 15:04:58.021060:   [RESULT]   ----------Score on CPE Limiting: 7.2439431913116135----------
+2019-12-03 15:04:58.021761:   [RESULT]   ----------Score on CPE Limiting: 7.8384373553771765----------
+2019-12-03 15:04:58.023343:   [RESULT]   ----------Score on CPE Limiting: 7.576747311827957----------
+2019-12-03 15:04:58.024548:   [RESULT]   ----------Score on CPE Limiting: 6.909526978953892----------
+2019-12-03 15:04:58.038787:   [RESULT]   ----------Score on CPE Limiting: 7.340762963508308----------
+2019-12-03 15:04:58.042240:   [RESULT]   ----------Score on CPE Limiting: 7.421001221001222----------
+2019-12-03 15:04:58.057955:   [RESULT]   ----------Score on CPE Limiting: 7.867105706918873----------
+2019-12-03 15:04:58.070071:   [RESULT]   ----------Score on CPE Limiting: 7.905455690083526----------
+2019-12-03 15:04:58.072464:   [RESULT]   ----------Score on CPE Limiting: 6.8023088023088025----------
+2019-12-03 15:04:58.074003:   [RESULT]   ----------Score on CPE Limiting: 7.228033762280338----------
+2019-12-03 15:04:58.074111:   [DONE  ]   Limiting CPE Done
+2019-12-03 15:04:58.074251:   [DONE  ]   Traning data Done
+2019-12-03 15:04:58.074413:   [START ]   Test Start
+2019-12-03 15:04:58.074496:   [START ]   Reading Test ./dataset/cambridge/KET/3.txt Start
+2019-12-03 15:04:58.074645:   [START ]   Preprocess ./dataset/cambridge/KET/3.txt Start
+2019-12-03 15:04:58.089130:   [DONE  ]   Preprocess ./dataset/cambridge/KET/3.txt Done
+2019-12-03 15:04:58.089270:   [DONE  ]   Reading Test ./dataset/cambridge/KET/3.txt Done
+2019-12-03 15:04:58.089469:   [START ]   Scoring KET Start
+2019-12-03 15:46:00.446556:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-03 15:46:00.447180:   [INFO  ]   Hello world!
+2019-12-03 15:46:00.447341:   [INFO  ]   Start main processing!
+2019-12-03 15:46:00.447464:   [START ]   Start Prepare Traning data
+2019-12-03 15:46:00.447621:   [START ]   Initialize parameters Start
+2019-12-03 15:46:00.447813:   [DONE  ]   Initialize parameters Done
+2019-12-03 15:46:00.447924:   [START ]   Start setup FOLD
+2019-12-03 15:46:00.448077:   [START ]   Setup FOLD Done
+2019-12-03 15:46:00.448185:   [START ]   Start Training data
+2019-12-03 15:46:00.448317:   [START ]   Start Reading KET
+2019-12-03 15:46:00.448983:   [START ]   Preprocess ./dataset/cambridge/KET/1.txt Start
+2019-12-03 15:46:01.972420:   [DONE  ]   Preprocess ./dataset/cambridge/KET/1.txt Done
+2019-12-03 15:46:01.973390:   [START ]   Preprocess ./dataset/cambridge/KET/2.txt Start
+2019-12-03 15:46:01.991093:   [DONE  ]   Preprocess ./dataset/cambridge/KET/2.txt Done
+2019-12-03 15:46:01.992246:   [START ]   Preprocess ./dataset/cambridge/KET/4.txt Start
+2019-12-03 15:46:02.015474:   [DONE  ]   Preprocess ./dataset/cambridge/KET/4.txt Done
+2019-12-03 15:46:02.016504:   [START ]   Preprocess ./dataset/cambridge/KET/5.txt Start
+2019-12-03 15:46:02.032437:   [DONE  ]   Preprocess ./dataset/cambridge/KET/5.txt Done
+2019-12-03 15:46:02.033270:   [START ]   Preprocess ./dataset/cambridge/KET/6.txt Start
+2019-12-03 15:46:02.047071:   [DONE  ]   Preprocess ./dataset/cambridge/KET/6.txt Done
+2019-12-03 15:46:02.048177:   [START ]   Preprocess ./dataset/cambridge/KET/7.txt Start
+2019-12-03 15:46:02.072800:   [DONE  ]   Preprocess ./dataset/cambridge/KET/7.txt Done
+2019-12-03 15:46:02.073302:   [START ]   Preprocess ./dataset/cambridge/KET/8.txt Start
+2019-12-03 15:46:02.089282:   [DONE  ]   Preprocess ./dataset/cambridge/KET/8.txt Done
+2019-12-03 15:46:02.090063:   [START ]   Preprocess ./dataset/cambridge/KET/9.txt Start
+2019-12-03 15:46:02.103726:   [DONE  ]   Preprocess ./dataset/cambridge/KET/9.txt Done
+2019-12-03 15:46:02.104309:   [START ]   Preprocess ./dataset/cambridge/KET/11.txt Start
+2019-12-03 15:46:02.120427:   [DONE  ]   Preprocess ./dataset/cambridge/KET/11.txt Done
+2019-12-03 15:46:02.121131:   [START ]   Preprocess ./dataset/cambridge/KET/12.txt Start
+2019-12-03 15:46:02.135866:   [DONE  ]   Preprocess ./dataset/cambridge/KET/12.txt Done
+2019-12-03 15:46:02.136423:   [START ]   Preprocess ./dataset/cambridge/KET/14.txt Start
+2019-12-03 15:46:02.150837:   [DONE  ]   Preprocess ./dataset/cambridge/KET/14.txt Done
+2019-12-03 15:46:02.151280:   [START ]   Preprocess ./dataset/cambridge/KET/15.txt Start
+2019-12-03 15:46:02.163231:   [DONE  ]   Preprocess ./dataset/cambridge/KET/15.txt Done
+2019-12-03 15:46:02.163341:   [DONE  ]   Read KET Done
+2019-12-03 15:46:02.163553:   [START ]   Limiting KET Start
+2019-12-03 15:46:02.163690:   [RESULT]   ----------Score on KET Limiting: 6.155263157894738----------
+2019-12-03 15:46:02.163796:   [RESULT]   ----------Score on KET Limiting: 5.586834733893557----------
+2019-12-03 15:46:02.163919:   [RESULT]   ----------Score on KET Limiting: 5.901038537464595----------
+2019-12-03 15:46:02.164021:   [RESULT]   ----------Score on KET Limiting: 6.020336134453782----------
+2019-12-03 15:46:02.164135:   [RESULT]   ----------Score on KET Limiting: 5.703748006379586----------
+2019-12-03 15:46:02.164312:   [RESULT]   ----------Score on KET Limiting: 6.337202072538859----------
+2019-12-03 15:46:02.164422:   [RESULT]   ----------Score on KET Limiting: 5.633505598621878----------
+2019-12-03 15:46:02.164584:   [RESULT]   ----------Score on KET Limiting: 6.087542087542087----------
+2019-12-03 15:46:02.164695:   [RESULT]   ----------Score on KET Limiting: 6.1649712516585575----------
+2019-12-03 15:46:02.164791:   [RESULT]   ----------Score on KET Limiting: 5.310714285714286----------
+2019-12-03 15:46:02.164902:   [RESULT]   ----------Score on KET Limiting: 5.78200821201941----------
+2019-12-03 15:46:02.164994:   [RESULT]   ----------Score on KET Limiting: 5.846251993620414----------
+2019-12-03 15:46:02.165159:   [DONE  ]   Limiting KET Done
+2019-12-03 15:46:02.165236:   [START ]   Start Reading PET
+2019-12-03 15:46:02.165822:   [START ]   Preprocess ./dataset/cambridge/PET/1.txt Start
+2019-12-03 15:46:02.208967:   [DONE  ]   Preprocess ./dataset/cambridge/PET/1.txt Done
+2019-12-03 15:46:02.209854:   [START ]   Preprocess ./dataset/cambridge/PET/2.txt Start
+2019-12-03 15:46:02.245828:   [DONE  ]   Preprocess ./dataset/cambridge/PET/2.txt Done
+2019-12-03 15:46:02.247015:   [START ]   Preprocess ./dataset/cambridge/PET/3.txt Start
+2019-12-03 15:46:02.265793:   [DONE  ]   Preprocess ./dataset/cambridge/PET/3.txt Done
+2019-12-03 15:46:02.267237:   [START ]   Preprocess ./dataset/cambridge/PET/4.txt Start
+2019-12-03 15:46:02.313053:   [DONE  ]   Preprocess ./dataset/cambridge/PET/4.txt Done
+2019-12-03 15:46:02.314028:   [START ]   Preprocess ./dataset/cambridge/PET/6.txt Start
+2019-12-03 15:46:02.339831:   [DONE  ]   Preprocess ./dataset/cambridge/PET/6.txt Done
+2019-12-03 15:46:02.340695:   [START ]   Preprocess ./dataset/cambridge/PET/7.txt Start
+2019-12-03 15:46:02.388463:   [DONE  ]   Preprocess ./dataset/cambridge/PET/7.txt Done
+2019-12-03 15:46:02.388917:   [START ]   Preprocess ./dataset/cambridge/PET/10.txt Start
+2019-12-03 15:46:02.444961:   [DONE  ]   Preprocess ./dataset/cambridge/PET/10.txt Done
+2019-12-03 15:46:02.445950:   [START ]   Preprocess ./dataset/cambridge/PET/11.txt Start
+2019-12-03 15:46:02.466987:   [DONE  ]   Preprocess ./dataset/cambridge/PET/11.txt Done
+2019-12-03 15:46:02.467528:   [START ]   Preprocess ./dataset/cambridge/PET/12.txt Start
+2019-12-03 15:46:02.491116:   [DONE  ]   Preprocess ./dataset/cambridge/PET/12.txt Done
+2019-12-03 15:46:02.491547:   [START ]   Preprocess ./dataset/cambridge/PET/13.txt Start
+2019-12-03 15:46:02.539957:   [DONE  ]   Preprocess ./dataset/cambridge/PET/13.txt Done
+2019-12-03 15:46:02.540346:   [START ]   Preprocess ./dataset/cambridge/PET/14.txt Start
+2019-12-03 15:46:02.564921:   [DONE  ]   Preprocess ./dataset/cambridge/PET/14.txt Done
+2019-12-03 15:46:02.565301:   [START ]   Preprocess ./dataset/cambridge/PET/15.txt Start
+2019-12-03 15:46:02.584772:   [DONE  ]   Preprocess ./dataset/cambridge/PET/15.txt Done
+2019-12-03 15:46:02.584893:   [DONE  ]   Read PET Done
+2019-12-03 15:46:02.585345:   [START ]   Limiting PET Start
+2019-12-03 15:46:02.585678:   [RESULT]   ----------Score on PET Limiting: 7.0489725262452545----------
+2019-12-03 15:46:02.585892:   [RESULT]   ----------Score on PET Limiting: 6.476631162330482----------
+2019-12-03 15:46:02.586055:   [RESULT]   ----------Score on PET Limiting: 7.222682119205299----------
+2019-12-03 15:46:02.586191:   [RESULT]   ----------Score on PET Limiting: 6.514366258267375----------
+2019-12-03 15:46:02.586380:   [RESULT]   ----------Score on PET Limiting: 6.58460634547591----------
+2019-12-03 15:46:02.586536:   [RESULT]   ----------Score on PET Limiting: 6.844219863087788----------
+2019-12-03 15:46:02.586685:   [RESULT]   ----------Score on PET Limiting: 6.929098858392033----------
+2019-12-03 15:46:02.586798:   [RESULT]   ----------Score on PET Limiting: 7.070158102766799----------
+2019-12-03 15:46:02.587013:   [RESULT]   ----------Score on PET Limiting: 6.696705153477893----------
+2019-12-03 15:46:02.587159:   [RESULT]   ----------Score on PET Limiting: 6.699645559919532----------
+2019-12-03 15:46:02.587285:   [RESULT]   ----------Score on PET Limiting: 6.746813725490197----------
+2019-12-03 15:46:02.587429:   [RESULT]   ----------Score on PET Limiting: 6.684791448820727----------
+2019-12-03 15:46:02.587502:   [DONE  ]   Limiting PET Done
+2019-12-03 15:46:02.587750:   [START ]   Start Reading FCE
+2019-12-03 15:46:02.588609:   [START ]   Preprocess ./dataset/cambridge/FCE/1.txt Start
+2019-12-03 15:46:02.672125:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/1.txt Done
+2019-12-03 15:46:02.673848:   [START ]   Preprocess ./dataset/cambridge/FCE/3.txt Start
+2019-12-03 15:46:02.751469:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/3.txt Done
+2019-12-03 15:46:02.752834:   [START ]   Preprocess ./dataset/cambridge/FCE/4.txt Start
+2019-12-03 15:46:02.830304:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/4.txt Done
+2019-12-03 15:46:02.831975:   [START ]   Preprocess ./dataset/cambridge/FCE/5.txt Start
+2019-12-03 15:46:02.906861:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/5.txt Done
+2019-12-03 15:46:02.908625:   [START ]   Preprocess ./dataset/cambridge/FCE/6.txt Start
+2019-12-03 15:46:03.001166:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/6.txt Done
+2019-12-03 15:46:03.002376:   [START ]   Preprocess ./dataset/cambridge/FCE/7.txt Start
+2019-12-03 15:46:03.082230:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/7.txt Done
+2019-12-03 15:46:03.083306:   [START ]   Preprocess ./dataset/cambridge/FCE/9.txt Start
+2019-12-03 15:46:03.163908:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/9.txt Done
+2019-12-03 15:46:03.164890:   [START ]   Preprocess ./dataset/cambridge/FCE/11.txt Start
+2019-12-03 15:46:03.237155:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/11.txt Done
+2019-12-03 15:46:03.238159:   [START ]   Preprocess ./dataset/cambridge/FCE/12.txt Start
+2019-12-03 15:46:03.316574:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/12.txt Done
+2019-12-03 15:46:03.317632:   [START ]   Preprocess ./dataset/cambridge/FCE/13.txt Start
+2019-12-03 15:46:03.395429:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/13.txt Done
+2019-12-03 15:46:03.396060:   [START ]   Preprocess ./dataset/cambridge/FCE/14.txt Start
+2019-12-03 15:46:03.467909:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/14.txt Done
+2019-12-03 15:46:03.468664:   [START ]   Preprocess ./dataset/cambridge/FCE/15.txt Start
+2019-12-03 15:46:03.548928:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/15.txt Done
+2019-12-03 15:46:03.549055:   [DONE  ]   Read FCE Done
+2019-12-03 15:46:03.549417:   [START ]   Limiting FCE Start
+2019-12-03 15:46:03.549741:   [RESULT]   ----------Score on FCE Limiting: 6.60349276974416----------
+2019-12-03 15:46:03.549959:   [RESULT]   ----------Score on FCE Limiting: 7.13142740809679----------
+2019-12-03 15:46:03.550178:   [RESULT]   ----------Score on FCE Limiting: 6.5914815501813315----------
+2019-12-03 15:46:03.550398:   [RESULT]   ----------Score on FCE Limiting: 6.737364633263687----------
+2019-12-03 15:46:03.550620:   [RESULT]   ----------Score on FCE Limiting: 6.40232834402471----------
+2019-12-03 15:46:03.550834:   [RESULT]   ----------Score on FCE Limiting: 6.187041573472502----------
+2019-12-03 15:46:03.551050:   [RESULT]   ----------Score on FCE Limiting: 6.897909085658175----------
+2019-12-03 15:46:03.551263:   [RESULT]   ----------Score on FCE Limiting: 6.592881616670162----------
+2019-12-03 15:46:03.551553:   [RESULT]   ----------Score on FCE Limiting: 6.959517967960745----------
+2019-12-03 15:46:03.551750:   [RESULT]   ----------Score on FCE Limiting: 7.039130115587604----------
+2019-12-03 15:46:03.551938:   [RESULT]   ----------Score on FCE Limiting: 6.659115652755228----------
+2019-12-03 15:46:03.552158:   [RESULT]   ----------Score on FCE Limiting: 7.087861118473363----------
+2019-12-03 15:46:03.552254:   [DONE  ]   Limiting FCE Done
+2019-12-03 15:46:03.552528:   [START ]   Start Reading CAE
+2019-12-03 15:46:03.553982:   [START ]   Preprocess ./dataset/cambridge/CAE/1.txt Start
+2019-12-03 15:46:03.622707:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/1.txt Done
+2019-12-03 15:46:03.623736:   [START ]   Preprocess ./dataset/cambridge/CAE/2.txt Start
+2019-12-03 15:46:03.685517:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/2.txt Done
+2019-12-03 15:46:03.686808:   [START ]   Preprocess ./dataset/cambridge/CAE/4.txt Start
+2019-12-03 15:46:03.836813:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/4.txt Done
+2019-12-03 15:46:03.838344:   [START ]   Preprocess ./dataset/cambridge/CAE/5.txt Start
+2019-12-03 15:46:03.922887:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/5.txt Done
+2019-12-03 15:46:03.924178:   [START ]   Preprocess ./dataset/cambridge/CAE/7.txt Start
+2019-12-03 15:46:04.032538:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/7.txt Done
+2019-12-03 15:46:04.033874:   [START ]   Preprocess ./dataset/cambridge/CAE/8.txt Start
+2019-12-03 15:46:04.140475:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/8.txt Done
+2019-12-03 15:46:04.141246:   [START ]   Preprocess ./dataset/cambridge/CAE/9.txt Start
+2019-12-03 15:46:04.269916:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/9.txt Done
+2019-12-03 15:46:04.270943:   [START ]   Preprocess ./dataset/cambridge/CAE/10.txt Start
+2019-12-03 15:46:04.424556:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/10.txt Done
+2019-12-03 15:46:04.425692:   [START ]   Preprocess ./dataset/cambridge/CAE/12.txt Start
+2019-12-03 15:46:04.544842:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/12.txt Done
+2019-12-03 15:46:04.545618:   [START ]   Preprocess ./dataset/cambridge/CAE/13.txt Start
+2019-12-03 15:46:04.652969:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/13.txt Done
+2019-12-03 15:46:04.654081:   [START ]   Preprocess ./dataset/cambridge/CAE/14.txt Start
+2019-12-03 15:46:04.724638:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/14.txt Done
+2019-12-03 15:46:04.725396:   [START ]   Preprocess ./dataset/cambridge/CAE/15.txt Start
+2019-12-03 15:46:04.793264:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/15.txt Done
+2019-12-03 15:46:04.793403:   [DONE  ]   Read CAE Done
+2019-12-03 15:46:04.793999:   [START ]   Limiting CAE Start
+2019-12-03 15:46:04.794260:   [RESULT]   ----------Score on CAE Limiting: 7.179042615294805----------
+2019-12-03 15:46:04.794420:   [RESULT]   ----------Score on CAE Limiting: 7.3837194018381656----------
+2019-12-03 15:46:04.794782:   [RESULT]   ----------Score on CAE Limiting: 7.459148136162607----------
+2019-12-03 15:46:04.794964:   [RESULT]   ----------Score on CAE Limiting: 7.840980984538831----------
+2019-12-03 15:46:04.795157:   [RESULT]   ----------Score on CAE Limiting: 7.105298421220665----------
+2019-12-03 15:46:04.795381:   [RESULT]   ----------Score on CAE Limiting: 7.294607039401315----------
+2019-12-03 15:46:04.795622:   [RESULT]   ----------Score on CAE Limiting: 6.72316350495043----------
+2019-12-03 15:46:04.795942:   [RESULT]   ----------Score on CAE Limiting: 6.692496056797179----------
+2019-12-03 15:46:04.796164:   [RESULT]   ----------Score on CAE Limiting: 7.042264987293264----------
+2019-12-03 15:46:04.796389:   [RESULT]   ----------Score on CAE Limiting: 6.680563841817972----------
+2019-12-03 15:46:04.796544:   [RESULT]   ----------Score on CAE Limiting: 7.324127114020731----------
+2019-12-03 15:46:04.796698:   [RESULT]   ----------Score on CAE Limiting: 7.005356655888426----------
+2019-12-03 15:46:04.796776:   [DONE  ]   Limiting CAE Done
+2019-12-03 15:46:04.796854:   [START ]   Start Reading CPE
+2019-12-03 15:46:04.797939:   [START ]   Preprocess ./dataset/cambridge/CPE/2.txt Start
+2019-12-03 15:46:04.897760:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/2.txt Done
+2019-12-03 15:46:04.898844:   [START ]   Preprocess ./dataset/cambridge/CPE/3.txt Start
+2019-12-03 15:46:05.024429:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/3.txt Done
+2019-12-03 15:46:05.025889:   [START ]   Preprocess ./dataset/cambridge/CPE/5.txt Start
+2019-12-03 15:46:05.078347:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/5.txt Done
+2019-12-03 15:46:05.080382:   [START ]   Preprocess ./dataset/cambridge/CPE/6.txt Start
+2019-12-03 15:46:05.194624:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/6.txt Done
+2019-12-03 15:46:05.196126:   [START ]   Preprocess ./dataset/cambridge/CPE/7.txt Start
+2019-12-03 15:46:05.307080:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/7.txt Done
+2019-12-03 15:46:05.308644:   [START ]   Preprocess ./dataset/cambridge/CPE/8.txt Start
+2019-12-03 15:46:05.403654:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/8.txt Done
+2019-12-03 15:46:05.404615:   [START ]   Preprocess ./dataset/cambridge/CPE/9.txt Start
+2019-12-03 15:46:05.459219:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/9.txt Done
+2019-12-03 15:46:05.460314:   [START ]   Preprocess ./dataset/cambridge/CPE/10.txt Start
+2019-12-03 15:46:05.566582:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/10.txt Done
+2019-12-03 15:46:05.567247:   [START ]   Preprocess ./dataset/cambridge/CPE/12.txt Start
+2019-12-03 15:46:05.668466:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/12.txt Done
+2019-12-03 15:46:05.669432:   [START ]   Preprocess ./dataset/cambridge/CPE/13.txt Start
+2019-12-03 15:46:05.727401:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/13.txt Done
+2019-12-03 15:46:05.728299:   [START ]   Preprocess ./dataset/cambridge/CPE/14.txt Start
+2019-12-03 15:46:05.834005:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/14.txt Done
+2019-12-03 15:46:05.835102:   [START ]   Preprocess ./dataset/cambridge/CPE/15.txt Start
+2019-12-03 15:46:05.925969:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/15.txt Done
+2019-12-03 15:46:05.926119:   [DONE  ]   Read CPE Done
+2019-12-03 15:46:05.927479:   [START ]   Limiting CPE Start
+2019-12-03 15:46:05.927846:   [RESULT]   ----------Score on CPE Limiting: 7.444030674169701----------
+2019-12-03 15:46:05.928085:   [RESULT]   ----------Score on CPE Limiting: 7.2439431913116135----------
+2019-12-03 15:46:05.928232:   [RESULT]   ----------Score on CPE Limiting: 7.149576583210604----------
+2019-12-03 15:46:05.928447:   [RESULT]   ----------Score on CPE Limiting: 7.576747311827957----------
+2019-12-03 15:46:05.928732:   [RESULT]   ----------Score on CPE Limiting: 6.7315895112446595----------
+2019-12-03 15:46:05.928903:   [RESULT]   ----------Score on CPE Limiting: 6.792412990534235----------
+2019-12-03 15:46:05.929045:   [RESULT]   ----------Score on CPE Limiting: 6.909526978953892----------
+2019-12-03 15:46:05.929323:   [RESULT]   ----------Score on CPE Limiting: 7.340762963508308----------
+2019-12-03 15:46:05.929528:   [RESULT]   ----------Score on CPE Limiting: 7.867105706918873----------
+2019-12-03 15:46:05.929674:   [RESULT]   ----------Score on CPE Limiting: 7.905455690083526----------
+2019-12-03 15:46:05.929876:   [RESULT]   ----------Score on CPE Limiting: 6.8023088023088025----------
+2019-12-03 15:46:05.930108:   [RESULT]   ----------Score on CPE Limiting: 7.228033762280338----------
+2019-12-03 15:46:05.930181:   [DONE  ]   Limiting CPE Done
+2019-12-03 15:46:05.930457:   [DONE  ]   Traning data Done
+2019-12-03 15:46:05.930554:   [START ]   Test Start
+2019-12-03 15:46:05.930719:   [START ]   Reading Test ./dataset/cambridge/KET/10.txt Start
+2019-12-03 15:46:05.930985:   [START ]   Preprocess ./dataset/cambridge/KET/10.txt Start
+2019-12-03 15:46:05.954178:   [DONE  ]   Preprocess ./dataset/cambridge/KET/10.txt Done
+2019-12-03 15:46:05.954328:   [DONE  ]   Reading Test ./dataset/cambridge/KET/10.txt Done
+2019-12-03 15:46:05.955448:   [START ]   Scoring KET Start
+2019-12-03 15:53:25.854345:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-03 15:53:25.854559:   [INFO  ]   Hello world!
+2019-12-03 15:53:25.855302:   [INFO  ]   Start main processing!
+2019-12-03 15:53:25.855530:   [START ]   Start Prepare Traning data
+2019-12-03 15:53:25.855742:   [START ]   Initialize parameters Start
+2019-12-03 15:53:25.855893:   [DONE  ]   Initialize parameters Done
+2019-12-03 15:53:25.856087:   [START ]   Start setup FOLD
+2019-12-03 15:53:25.856256:   [START ]   Setup FOLD Done
+2019-12-03 15:53:25.856450:   [START ]   Start Training data
+2019-12-03 15:53:25.856576:   [START ]   Start Reading KET
+2019-12-03 15:53:25.856748:   [START ]   Preprocess ./dataset/cambridge/KET/2.txt Start
+2019-12-03 15:53:27.306521:   [DONE  ]   Preprocess ./dataset/cambridge/KET/2.txt Done
+2019-12-03 15:53:27.307564:   [START ]   Preprocess ./dataset/cambridge/KET/3.txt Start
+2019-12-03 15:53:27.323256:   [DONE  ]   Preprocess ./dataset/cambridge/KET/3.txt Done
+2019-12-03 15:53:27.323479:   [START ]   Preprocess ./dataset/cambridge/KET/4.txt Start
+2019-12-03 15:53:27.346637:   [DONE  ]   Preprocess ./dataset/cambridge/KET/4.txt Done
+2019-12-03 15:53:27.346824:   [START ]   Preprocess ./dataset/cambridge/KET/5.txt Start
+2019-12-03 15:53:27.361001:   [DONE  ]   Preprocess ./dataset/cambridge/KET/5.txt Done
+2019-12-03 15:53:27.361175:   [START ]   Preprocess ./dataset/cambridge/KET/6.txt Start
+2019-12-03 15:53:27.374205:   [DONE  ]   Preprocess ./dataset/cambridge/KET/6.txt Done
+2019-12-03 15:53:27.374364:   [START ]   Preprocess ./dataset/cambridge/KET/7.txt Start
+2019-12-03 15:53:27.397191:   [DONE  ]   Preprocess ./dataset/cambridge/KET/7.txt Done
+2019-12-03 15:53:27.397373:   [START ]   Preprocess ./dataset/cambridge/KET/9.txt Start
+2019-12-03 15:53:27.410518:   [DONE  ]   Preprocess ./dataset/cambridge/KET/9.txt Done
+2019-12-03 15:53:27.410714:   [START ]   Preprocess ./dataset/cambridge/KET/10.txt Start
+2019-12-03 15:53:27.433456:   [DONE  ]   Preprocess ./dataset/cambridge/KET/10.txt Done
+2019-12-03 15:53:27.433620:   [START ]   Preprocess ./dataset/cambridge/KET/11.txt Start
+2019-12-03 15:53:27.447158:   [DONE  ]   Preprocess ./dataset/cambridge/KET/11.txt Done
+2019-12-03 15:53:27.447312:   [START ]   Preprocess ./dataset/cambridge/KET/12.txt Start
+2019-12-03 15:53:27.460039:   [DONE  ]   Preprocess ./dataset/cambridge/KET/12.txt Done
+2019-12-03 15:53:27.460358:   [START ]   Preprocess ./dataset/cambridge/KET/13.txt Start
+2019-12-03 15:53:27.485513:   [DONE  ]   Preprocess ./dataset/cambridge/KET/13.txt Done
+2019-12-03 15:53:27.485739:   [START ]   Preprocess ./dataset/cambridge/KET/14.txt Start
+2019-12-03 15:53:27.499722:   [DONE  ]   Preprocess ./dataset/cambridge/KET/14.txt Done
+2019-12-03 15:53:27.499831:   [DONE  ]   Read KET Done
+2019-12-03 15:53:27.500103:   [START ]   Limiting KET Start
+2019-12-03 15:53:27.500263:   [RESULT]   ----------Score on KET Limiting: 5.586834733893557----------
+2019-12-03 15:53:27.500490:   [RESULT]   ----------Score on KET Limiting: 5.923169267707083----------
+2019-12-03 15:53:27.500663:   [RESULT]   ----------Score on KET Limiting: 5.901038537464595----------
+2019-12-03 15:53:27.500789:   [RESULT]   ----------Score on KET Limiting: 6.020336134453782----------
+2019-12-03 15:53:27.500973:   [RESULT]   ----------Score on KET Limiting: 5.703748006379586----------
+2019-12-03 15:53:27.501112:   [RESULT]   ----------Score on KET Limiting: 6.337202072538859----------
+2019-12-03 15:53:27.501314:   [RESULT]   ----------Score on KET Limiting: 6.087542087542087----------
+2019-12-03 15:53:27.501462:   [RESULT]   ----------Score on KET Limiting: 5.97494615936827----------
+2019-12-03 15:53:27.501575:   [RESULT]   ----------Score on KET Limiting: 6.1649712516585575----------
+2019-12-03 15:53:27.501683:   [RESULT]   ----------Score on KET Limiting: 5.310714285714286----------
+2019-12-03 15:53:27.501873:   [RESULT]   ----------Score on KET Limiting: 5.738086986657425----------
+2019-12-03 15:53:27.501978:   [RESULT]   ----------Score on KET Limiting: 5.78200821201941----------
+2019-12-03 15:53:27.502059:   [DONE  ]   Limiting KET Done
+2019-12-03 15:53:27.502138:   [START ]   Start Reading PET
+2019-12-03 15:53:27.502401:   [START ]   Preprocess ./dataset/cambridge/PET/1.txt Start
+2019-12-03 15:53:27.542347:   [DONE  ]   Preprocess ./dataset/cambridge/PET/1.txt Done
+2019-12-03 15:53:27.542546:   [START ]   Preprocess ./dataset/cambridge/PET/2.txt Start
+2019-12-03 15:53:27.566505:   [DONE  ]   Preprocess ./dataset/cambridge/PET/2.txt Done
+2019-12-03 15:53:27.566740:   [START ]   Preprocess ./dataset/cambridge/PET/3.txt Start
+2019-12-03 15:53:27.585190:   [DONE  ]   Preprocess ./dataset/cambridge/PET/3.txt Done
+2019-12-03 15:53:27.585400:   [START ]   Preprocess ./dataset/cambridge/PET/4.txt Start
+2019-12-03 15:53:27.632678:   [DONE  ]   Preprocess ./dataset/cambridge/PET/4.txt Done
+2019-12-03 15:53:27.633454:   [START ]   Preprocess ./dataset/cambridge/PET/5.txt Start
+2019-12-03 15:53:27.660337:   [DONE  ]   Preprocess ./dataset/cambridge/PET/5.txt Done
+2019-12-03 15:53:27.660635:   [START ]   Preprocess ./dataset/cambridge/PET/6.txt Start
+2019-12-03 15:53:27.678443:   [DONE  ]   Preprocess ./dataset/cambridge/PET/6.txt Done
+2019-12-03 15:53:27.678904:   [START ]   Preprocess ./dataset/cambridge/PET/9.txt Start
+2019-12-03 15:53:27.697391:   [DONE  ]   Preprocess ./dataset/cambridge/PET/9.txt Done
+2019-12-03 15:53:27.697575:   [START ]   Preprocess ./dataset/cambridge/PET/10.txt Start
+2019-12-03 15:53:27.749616:   [DONE  ]   Preprocess ./dataset/cambridge/PET/10.txt Done
+2019-12-03 15:53:27.749821:   [START ]   Preprocess ./dataset/cambridge/PET/11.txt Start
+2019-12-03 15:53:27.771687:   [DONE  ]   Preprocess ./dataset/cambridge/PET/11.txt Done
+2019-12-03 15:53:27.772120:   [START ]   Preprocess ./dataset/cambridge/PET/12.txt Start
+2019-12-03 15:53:27.789107:   [DONE  ]   Preprocess ./dataset/cambridge/PET/12.txt Done
+2019-12-03 15:53:27.789326:   [START ]   Preprocess ./dataset/cambridge/PET/13.txt Start
+2019-12-03 15:53:27.836063:   [DONE  ]   Preprocess ./dataset/cambridge/PET/13.txt Done
+2019-12-03 15:53:27.836341:   [START ]   Preprocess ./dataset/cambridge/PET/15.txt Start
+2019-12-03 15:53:27.859154:   [DONE  ]   Preprocess ./dataset/cambridge/PET/15.txt Done
+2019-12-03 15:53:27.859296:   [DONE  ]   Read PET Done
+2019-12-03 15:53:27.859488:   [START ]   Limiting PET Start
+2019-12-03 15:53:27.859635:   [RESULT]   ----------Score on PET Limiting: 7.0489725262452545----------
+2019-12-03 15:53:27.859752:   [RESULT]   ----------Score on PET Limiting: 6.476631162330482----------
+2019-12-03 15:53:27.859858:   [RESULT]   ----------Score on PET Limiting: 7.222682119205299----------
+2019-12-03 15:53:27.860110:   [RESULT]   ----------Score on PET Limiting: 6.514366258267375----------
+2019-12-03 15:53:27.860242:   [RESULT]   ----------Score on PET Limiting: 6.101253918495298----------
+2019-12-03 15:53:27.860370:   [RESULT]   ----------Score on PET Limiting: 6.58460634547591----------
+2019-12-03 15:53:27.860490:   [RESULT]   ----------Score on PET Limiting: 6.278499278499279----------
+2019-12-03 15:53:27.860765:   [RESULT]   ----------Score on PET Limiting: 6.929098858392033----------
+2019-12-03 15:53:27.860981:   [RESULT]   ----------Score on PET Limiting: 7.070158102766799----------
+2019-12-03 15:53:27.861131:   [RESULT]   ----------Score on PET Limiting: 6.696705153477893----------
+2019-12-03 15:53:27.861342:   [RESULT]   ----------Score on PET Limiting: 6.699645559919532----------
+2019-12-03 15:53:27.861458:   [RESULT]   ----------Score on PET Limiting: 6.684791448820727----------
+2019-12-03 15:53:27.861598:   [DONE  ]   Limiting PET Done
+2019-12-03 15:53:27.861686:   [START ]   Start Reading FCE
+2019-12-03 15:53:27.861913:   [START ]   Preprocess ./dataset/cambridge/FCE/1.txt Start
+2019-12-03 15:53:27.960094:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/1.txt Done
+2019-12-03 15:53:27.960651:   [START ]   Preprocess ./dataset/cambridge/FCE/2.txt Start
+2019-12-03 15:53:28.035520:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/2.txt Done
+2019-12-03 15:53:28.035749:   [START ]   Preprocess ./dataset/cambridge/FCE/3.txt Start
+2019-12-03 15:53:28.111428:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/3.txt Done
+2019-12-03 15:53:28.111714:   [START ]   Preprocess ./dataset/cambridge/FCE/6.txt Start
+2019-12-03 15:53:28.197762:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/6.txt Done
+2019-12-03 15:53:28.198065:   [START ]   Preprocess ./dataset/cambridge/FCE/7.txt Start
+2019-12-03 15:53:28.277748:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/7.txt Done
+2019-12-03 15:53:28.278632:   [START ]   Preprocess ./dataset/cambridge/FCE/8.txt Start
+2019-12-03 15:53:28.350632:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/8.txt Done
+2019-12-03 15:53:28.350848:   [START ]   Preprocess ./dataset/cambridge/FCE/9.txt Start
+2019-12-03 15:53:28.428464:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/9.txt Done
+2019-12-03 15:53:28.429469:   [START ]   Preprocess ./dataset/cambridge/FCE/10.txt Start
+2019-12-03 15:53:28.503849:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/10.txt Done
+2019-12-03 15:53:28.504093:   [START ]   Preprocess ./dataset/cambridge/FCE/11.txt Start
+2019-12-03 15:53:28.575550:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/11.txt Done
+2019-12-03 15:53:28.575749:   [START ]   Preprocess ./dataset/cambridge/FCE/12.txt Start
+2019-12-03 15:53:28.656038:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/12.txt Done
+2019-12-03 15:53:28.656256:   [START ]   Preprocess ./dataset/cambridge/FCE/14.txt Start
+2019-12-03 15:53:28.723335:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/14.txt Done
+2019-12-03 15:53:28.723555:   [START ]   Preprocess ./dataset/cambridge/FCE/15.txt Start
+2019-12-03 15:53:28.817697:   [DONE  ]   Preprocess ./dataset/cambridge/FCE/15.txt Done
+2019-12-03 15:53:28.817850:   [DONE  ]   Read FCE Done
+2019-12-03 15:53:28.818451:   [START ]   Limiting FCE Start
+2019-12-03 15:53:28.818668:   [RESULT]   ----------Score on FCE Limiting: 6.60349276974416----------
+2019-12-03 15:53:28.818838:   [RESULT]   ----------Score on FCE Limiting: 6.716423615438947----------
+2019-12-03 15:53:28.819159:   [RESULT]   ----------Score on FCE Limiting: 7.13142740809679----------
+2019-12-03 15:53:28.819413:   [RESULT]   ----------Score on FCE Limiting: 6.40232834402471----------
+2019-12-03 15:53:28.819581:   [RESULT]   ----------Score on FCE Limiting: 6.187041573472502----------
+2019-12-03 15:53:28.819753:   [RESULT]   ----------Score on FCE Limiting: 6.671414883423827----------
+2019-12-03 15:53:28.819914:   [RESULT]   ----------Score on FCE Limiting: 6.897909085658175----------
+2019-12-03 15:53:28.820080:   [RESULT]   ----------Score on FCE Limiting: 6.551621428571428----------
+2019-12-03 15:53:28.820245:   [RESULT]   ----------Score on FCE Limiting: 6.592881616670162----------
+2019-12-03 15:53:28.820415:   [RESULT]   ----------Score on FCE Limiting: 6.959517967960745----------
+2019-12-03 15:53:28.820565:   [RESULT]   ----------Score on FCE Limiting: 6.659115652755228----------
+2019-12-03 15:53:28.820739:   [RESULT]   ----------Score on FCE Limiting: 7.087861118473363----------
+2019-12-03 15:53:28.820880:   [DONE  ]   Limiting FCE Done
+2019-12-03 15:53:28.821015:   [START ]   Start Reading CAE
+2019-12-03 15:53:28.821141:   [START ]   Preprocess ./dataset/cambridge/CAE/1.txt Start
+2019-12-03 15:53:28.889778:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/1.txt Done
+2019-12-03 15:53:28.890007:   [START ]   Preprocess ./dataset/cambridge/CAE/2.txt Start
+2019-12-03 15:53:28.948252:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/2.txt Done
+2019-12-03 15:53:28.949270:   [START ]   Preprocess ./dataset/cambridge/CAE/3.txt Start
+2019-12-03 15:53:29.058803:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/3.txt Done
+2019-12-03 15:53:29.059700:   [START ]   Preprocess ./dataset/cambridge/CAE/6.txt Start
+2019-12-03 15:53:29.150624:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/6.txt Done
+2019-12-03 15:53:29.150836:   [START ]   Preprocess ./dataset/cambridge/CAE/7.txt Start
+2019-12-03 15:53:29.252500:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/7.txt Done
+2019-12-03 15:53:29.252937:   [START ]   Preprocess ./dataset/cambridge/CAE/8.txt Start
+2019-12-03 15:53:29.369048:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/8.txt Done
+2019-12-03 15:53:29.369491:   [START ]   Preprocess ./dataset/cambridge/CAE/9.txt Start
+2019-12-03 15:53:29.487383:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/9.txt Done
+2019-12-03 15:53:29.487627:   [START ]   Preprocess ./dataset/cambridge/CAE/10.txt Start
+2019-12-03 15:53:29.629415:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/10.txt Done
+2019-12-03 15:53:29.630247:   [START ]   Preprocess ./dataset/cambridge/CAE/11.txt Start
+2019-12-03 15:53:29.710688:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/11.txt Done
+2019-12-03 15:53:29.710946:   [START ]   Preprocess ./dataset/cambridge/CAE/13.txt Start
+2019-12-03 15:53:29.813766:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/13.txt Done
+2019-12-03 15:53:29.813995:   [START ]   Preprocess ./dataset/cambridge/CAE/14.txt Start
+2019-12-03 15:53:29.879190:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/14.txt Done
+2019-12-03 15:53:29.879408:   [START ]   Preprocess ./dataset/cambridge/CAE/15.txt Start
+2019-12-03 15:53:29.942705:   [DONE  ]   Preprocess ./dataset/cambridge/CAE/15.txt Done
+2019-12-03 15:53:29.942850:   [DONE  ]   Read CAE Done
+2019-12-03 15:53:29.944142:   [START ]   Limiting CAE Start
+2019-12-03 15:53:29.944578:   [RESULT]   ----------Score on CAE Limiting: 7.179042615294805----------
+2019-12-03 15:53:29.944914:   [RESULT]   ----------Score on CAE Limiting: 7.3837194018381656----------
+2019-12-03 15:53:29.945165:   [RESULT]   ----------Score on CAE Limiting: 6.520322494669509----------
+2019-12-03 15:53:29.945484:   [RESULT]   ----------Score on CAE Limiting: 7.328628876343671----------
+2019-12-03 15:53:29.945703:   [RESULT]   ----------Score on CAE Limiting: 7.105298421220665----------
+2019-12-03 15:53:29.945982:   [RESULT]   ----------Score on CAE Limiting: 7.294607039401315----------
+2019-12-03 15:53:29.946213:   [RESULT]   ----------Score on CAE Limiting: 6.72316350495043----------
+2019-12-03 15:53:29.946480:   [RESULT]   ----------Score on CAE Limiting: 6.692496056797179----------
+2019-12-03 15:53:29.946667:   [RESULT]   ----------Score on CAE Limiting: 7.2482885331722535----------
+2019-12-03 15:53:29.946865:   [RESULT]   ----------Score on CAE Limiting: 6.680563841817972----------
+2019-12-03 15:53:29.947034:   [RESULT]   ----------Score on CAE Limiting: 7.324127114020731----------
+2019-12-03 15:53:29.947201:   [RESULT]   ----------Score on CAE Limiting: 7.005356655888426----------
+2019-12-03 15:53:29.947282:   [DONE  ]   Limiting CAE Done
+2019-12-03 15:53:29.947515:   [START ]   Start Reading CPE
+2019-12-03 15:53:29.947663:   [START ]   Preprocess ./dataset/cambridge/CPE/2.txt Start
+2019-12-03 15:53:30.053640:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/2.txt Done
+2019-12-03 15:53:30.053862:   [START ]   Preprocess ./dataset/cambridge/CPE/3.txt Start
+2019-12-03 15:53:30.175450:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/3.txt Done
+2019-12-03 15:53:30.176448:   [START ]   Preprocess ./dataset/cambridge/CPE/4.txt Start
+2019-12-03 15:53:30.243638:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/4.txt Done
+2019-12-03 15:53:30.243870:   [START ]   Preprocess ./dataset/cambridge/CPE/5.txt Start
+2019-12-03 15:53:30.298068:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/5.txt Done
+2019-12-03 15:53:30.298296:   [START ]   Preprocess ./dataset/cambridge/CPE/6.txt Start
+2019-12-03 15:53:30.408797:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/6.txt Done
+2019-12-03 15:53:30.409034:   [START ]   Preprocess ./dataset/cambridge/CPE/7.txt Start
+2019-12-03 15:53:30.520506:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/7.txt Done
+2019-12-03 15:53:30.520724:   [START ]   Preprocess ./dataset/cambridge/CPE/8.txt Start
+2019-12-03 15:53:30.611585:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/8.txt Done
+2019-12-03 15:53:30.611813:   [START ]   Preprocess ./dataset/cambridge/CPE/9.txt Start
+2019-12-03 15:53:30.666335:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/9.txt Done
+2019-12-03 15:53:30.666552:   [START ]   Preprocess ./dataset/cambridge/CPE/10.txt Start
+2019-12-03 15:53:30.770134:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/10.txt Done
+2019-12-03 15:53:30.770353:   [START ]   Preprocess ./dataset/cambridge/CPE/12.txt Start
+2019-12-03 15:53:30.874922:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/12.txt Done
+2019-12-03 15:53:30.875152:   [START ]   Preprocess ./dataset/cambridge/CPE/13.txt Start
+2019-12-03 15:53:30.948441:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/13.txt Done
+2019-12-03 15:53:30.948783:   [START ]   Preprocess ./dataset/cambridge/CPE/15.txt Start
+2019-12-03 15:53:31.058320:   [DONE  ]   Preprocess ./dataset/cambridge/CPE/15.txt Done
+2019-12-03 15:53:31.058479:   [DONE  ]   Read CPE Done
+2019-12-03 15:53:31.059196:   [START ]   Limiting CPE Start
+2019-12-03 15:53:31.059514:   [RESULT]   ----------Score on CPE Limiting: 7.444030674169701----------
+2019-12-03 15:53:31.059804:   [RESULT]   ----------Score on CPE Limiting: 7.2439431913116135----------
+2019-12-03 15:53:31.059998:   [RESULT]   ----------Score on CPE Limiting: 7.8384373553771765----------
+2019-12-03 15:53:31.060249:   [RESULT]   ----------Score on CPE Limiting: 7.149576583210604----------
+2019-12-03 15:53:31.060498:   [RESULT]   ----------Score on CPE Limiting: 7.576747311827957----------
+2019-12-03 15:53:31.060751:   [RESULT]   ----------Score on CPE Limiting: 6.7315895112446595----------
+2019-12-03 15:53:31.060958:   [RESULT]   ----------Score on CPE Limiting: 6.792412990534235----------
+2019-12-03 15:53:31.061140:   [RESULT]   ----------Score on CPE Limiting: 6.909526978953892----------
+2019-12-03 15:53:31.061382:   [RESULT]   ----------Score on CPE Limiting: 7.340762963508308----------
+2019-12-03 15:53:31.061621:   [RESULT]   ----------Score on CPE Limiting: 7.867105706918873----------
+2019-12-03 15:53:31.061800:   [RESULT]   ----------Score on CPE Limiting: 7.905455690083526----------
+2019-12-03 15:53:31.062091:   [RESULT]   ----------Score on CPE Limiting: 7.228033762280338----------
+2019-12-03 15:53:31.062166:   [DONE  ]   Limiting CPE Done
+2019-12-03 15:53:31.062421:   [DONE  ]   Traning data Done
+2019-12-03 15:53:31.062583:   [START ]   Test Start
+2019-12-03 15:53:31.062997:   [START ]   Reading Test ./dataset/cambridge/KET/8.txt Start
+2019-12-03 15:53:31.063156:   [START ]   Preprocess ./dataset/cambridge/KET/8.txt Start
+2019-12-03 15:53:31.079051:   [DONE  ]   Preprocess ./dataset/cambridge/KET/8.txt Done
+2019-12-03 15:53:31.079189:   [DONE  ]   Reading Test ./dataset/cambridge/KET/8.txt Done
+2019-12-03 15:53:31.099558:   [START ]   Scoring KET Start
+2019-12-03 15:54:33.978545:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-03 15:54:33.978724:   [INFO  ]   Hello world!
+2019-12-03 15:54:33.979676:   [INFO  ]   Start main processing!
+2019-12-03 15:54:33.979993:   [START ]   Start Prepare Traning data
+2019-12-03 15:54:33.980272:   [START ]   Initialize parameters Start
+2019-12-03 15:54:33.980462:   [DONE  ]   Initialize parameters Done
+2019-12-03 15:54:33.980649:   [START ]   Start setup FOLD
+2019-12-03 15:54:33.980878:   [START ]   Setup FOLD Done
+2019-12-03 15:54:33.980974:   [START ]   Start Training data
+2019-12-03 15:54:33.981252:   [START ]   Start Reading KET
+2019-12-03 15:54:33.981386:   [START ]   Preprocess ./dataset/cambridge/KET/1.txt Start
+2019-12-03 15:54:35.463419:   [DONE  ]   Preprocess ./dataset/cambridge/KET/1.txt Done
+2019-12-03 15:54:35.463701:   [START ]   Preprocess ./dataset/cambridge/KET/2.txt Start
+2019-12-03 15:54:35.483135:   [DONE  ]   Preprocess ./dataset/cambridge/KET/2.txt Done
+2019-12-03 15:54:35.483448:   [START ]   Preprocess ./dataset/cambridge/KET/3.txt Start
+2019-12-03 15:54:35.496533:   [DONE  ]   Preprocess ./dataset/cambridge/KET/3.txt Done
+2019-12-03 15:54:35.496729:   [START ]   Preprocess ./dataset/cambridge/KET/4.txt Start
+2019-12-03 15:54:35.518159:   [DONE  ]   Preprocess ./dataset/cambridge/KET/4.txt Done
+2019-12-03 15:54:35.518328:   [START ]   Preprocess ./dataset/cambridge/KET/5.txt Start
+2019-12-03 15:54:35.531880:   [DONE  ]   Preprocess ./dataset/cambridge/KET/5.txt Done
+2019-12-03 15:54:35.532034:   [START ]   Preprocess ./dataset/cambridge/KET/7.txt Start
+2019-12-03 15:54:35.555957:   [DONE  ]   Preprocess ./dataset/cambridge/KET/7.txt Done
+2019-12-03 15:54:35.556283:   [START ]   Preprocess ./dataset/cambridge/KET/8.txt Start
+2019-12-03 15:54:35.571737:   [DONE  ]   Preprocess ./dataset/cambridge/KET/8.txt Done
+2019-12-03 15:54:35.571916:   [START ]   Preprocess ./dataset/cambridge/KET/10.txt Start
+2019-12-03 15:54:35.595235:   [DONE  ]   Preprocess ./dataset/cambridge/KET/10.txt Done
+2019-12-03 15:54:35.595420:   [START ]   Preprocess ./dataset/cambridge/KET/11.txt Start
+2019-12-03 15:54:35.609633:   [DONE  ]   Preprocess ./dataset/cambridge/KET/11.txt Done
+2019-12-03 15:54:35.609891:   [START ]   Preprocess ./dataset/cambridge/KET/12.txt Start
+2019-12-03 15:54:35.622705:   [DONE  ]   Preprocess ./dataset/cambridge/KET/12.txt Done
+2019-12-03 15:54:35.622946:   [START ]   Preprocess ./dataset/cambridge/KET/13.txt Start
+2019-12-03 15:54:35.646919:   [DONE  ]   Preprocess ./dataset/cambridge/KET/13.txt Done
+2019-12-03 15:54:35.647269:   [START ]   Preprocess ./dataset/cambridge/KET/14.txt Start
+2019-12-03 15:54:35.661647:   [DONE  ]   Preprocess ./dataset/cambridge/KET/14.txt Done
+2019-12-03 15:54:35.661780:   [DONE  ]   Read KET Done
+2019-12-03 15:54:35.662112:   [START ]   Limiting KET Start
+2019-12-03 15:55:22.114727:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-03 15:55:22.114901:   [INFO  ]   Hello world!
+2019-12-03 15:55:22.115650:   [INFO  ]   Start main processing!
+2019-12-03 15:55:22.115907:   [START ]   Start Prepare Traning data
+2019-12-03 15:55:22.116104:   [START ]   Initialize parameters Start
+2019-12-03 15:55:22.116348:   [DONE  ]   Initialize parameters Done
+2019-12-03 15:55:22.116466:   [START ]   Start setup FOLD
+2019-12-03 15:55:22.116623:   [START ]   Setup FOLD Done
+2019-12-03 15:55:22.116703:   [START ]   Start Training data
+2019-12-03 15:55:22.116785:   [START ]   Start Reading KET
+2019-12-03 15:55:22.116923:   [START ]   Preprocess ./dataset/cambridge/KET/1.txt Start
+2019-12-03 15:55:23.508996:   [DONE  ]   Preprocess ./dataset/cambridge/KET/1.txt Done
+2019-12-03 15:55:23.509306:   [START ]   Preprocess ./dataset/cambridge/KET/2.txt Start
+2019-12-03 15:55:23.530766:   [DONE  ]   Preprocess ./dataset/cambridge/KET/2.txt Done
+2019-12-03 15:55:23.531014:   [START ]   Preprocess ./dataset/cambridge/KET/3.txt Start
+2019-12-03 15:55:23.549069:   [DONE  ]   Preprocess ./dataset/cambridge/KET/3.txt Done
+2019-12-03 15:55:23.549321:   [START ]   Preprocess ./dataset/cambridge/KET/4.txt Start
+2019-12-03 15:55:23.579707:   [DONE  ]   Preprocess ./dataset/cambridge/KET/4.txt Done
+2019-12-03 15:55:23.579921:   [START ]   Preprocess ./dataset/cambridge/KET/5.txt Start
+2019-12-03 15:55:23.595924:   [DONE  ]   Preprocess ./dataset/cambridge/KET/5.txt Done
+2019-12-03 15:55:23.596287:   [START ]   Preprocess ./dataset/cambridge/KET/6.txt Start
+2019-12-03 15:55:23.611606:   [DONE  ]   Preprocess ./dataset/cambridge/KET/6.txt Done
+2019-12-03 15:55:23.611814:   [START ]   Preprocess ./dataset/cambridge/KET/7.txt Start
+2019-12-03 15:55:23.636808:   [DONE  ]   Preprocess ./dataset/cambridge/KET/7.txt Done
+2019-12-03 15:55:23.637015:   [START ]   Preprocess ./dataset/cambridge/KET/8.txt Start
+2019-12-03 15:55:23.655542:   [DONE  ]   Preprocess ./dataset/cambridge/KET/8.txt Done
+2019-12-03 15:55:23.655746:   [START ]   Preprocess ./dataset/cambridge/KET/9.txt Start
+2019-12-03 15:55:23.670211:   [DONE  ]   Preprocess ./dataset/cambridge/KET/9.txt Done
+2019-12-03 15:55:23.670542:   [START ]   Preprocess ./dataset/cambridge/KET/10.txt Start
+2019-12-03 15:55:23.696301:   [DONE  ]   Preprocess ./dataset/cambridge/KET/10.txt Done
+2019-12-03 15:55:23.696652:   [START ]   Preprocess ./dataset/cambridge/KET/11.txt Start
+2019-12-03 15:55:23.711410:   [DONE  ]   Preprocess ./dataset/cambridge/KET/11.txt Done
+2019-12-03 15:55:23.711636:   [START ]   Preprocess ./dataset/cambridge/KET/13.txt Start
+2019-12-03 15:55:23.737657:   [DONE  ]   Preprocess ./dataset/cambridge/KET/13.txt Done
+2019-12-03 15:55:23.737789:   [DONE  ]   Read KET Done
+2019-12-03 15:55:23.738052:   [START ]   Limiting KET Start
+2019-12-03 15:57:06.366498:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-03 15:57:06.366678:   [INFO  ]   Hello world!
+2019-12-03 15:57:06.367423:   [INFO  ]   Start main processing!
+2019-12-03 15:57:06.367566:   [START ]   Start Prepare Traning data
+2019-12-03 15:57:06.367711:   [START ]   Initialize parameters Start
+2019-12-03 15:57:06.367823:   [DONE  ]   Initialize parameters Done
+2019-12-03 15:57:06.368068:   [START ]   Start setup FOLD
+2019-12-03 15:57:06.368235:   [START ]   Setup FOLD Done
+2019-12-03 15:57:06.368325:   [START ]   Start Training data
+2019-12-03 15:57:06.368409:   [START ]   Start Reading KET
+2019-12-03 15:57:06.368557:   [START ]   Preprocess ./dataset/cambridge/KET/1.txt Start
+2019-12-03 15:57:07.767276:   [DONE  ]   Preprocess ./dataset/cambridge/KET/1.txt Done
+2019-12-03 15:57:07.767557:   [START ]   Preprocess ./dataset/cambridge/KET/2.txt Start
+2019-12-03 15:57:07.790736:   [DONE  ]   Preprocess ./dataset/cambridge/KET/2.txt Done
+2019-12-03 15:57:07.791053:   [START ]   Preprocess ./dataset/cambridge/KET/3.txt Start
+2019-12-03 15:57:07.807409:   [DONE  ]   Preprocess ./dataset/cambridge/KET/3.txt Done
+2019-12-03 15:57:07.807856:   [START ]   Preprocess ./dataset/cambridge/KET/4.txt Start
+2019-12-03 15:57:07.836816:   [DONE  ]   Preprocess ./dataset/cambridge/KET/4.txt Done
+2019-12-03 15:57:07.837149:   [START ]   Preprocess ./dataset/cambridge/KET/7.txt Start
+2019-12-03 15:57:07.863716:   [DONE  ]   Preprocess ./dataset/cambridge/KET/7.txt Done
+2019-12-03 15:57:07.863946:   [START ]   Preprocess ./dataset/cambridge/KET/8.txt Start
+2019-12-03 15:57:07.887851:   [DONE  ]   Preprocess ./dataset/cambridge/KET/8.txt Done
+2019-12-03 15:57:07.888066:   [START ]   Preprocess ./dataset/cambridge/KET/9.txt Start
+2019-12-03 15:57:07.900572:   [DONE  ]   Preprocess ./dataset/cambridge/KET/9.txt Done
+2019-12-03 15:57:07.900906:   [START ]   Preprocess ./dataset/cambridge/KET/11.txt Start
+2019-12-03 15:57:07.914343:   [DONE  ]   Preprocess ./dataset/cambridge/KET/11.txt Done
+2019-12-03 15:57:07.914493:   [START ]   Preprocess ./dataset/cambridge/KET/12.txt Start
+2019-12-03 15:57:07.927023:   [DONE  ]   Preprocess ./dataset/cambridge/KET/12.txt Done
+2019-12-03 15:57:07.927199:   [START ]   Preprocess ./dataset/cambridge/KET/13.txt Start
+2019-12-03 15:57:07.951983:   [DONE  ]   Preprocess ./dataset/cambridge/KET/13.txt Done
+2019-12-03 15:57:07.952206:   [START ]   Preprocess ./dataset/cambridge/KET/14.txt Start
+2019-12-03 15:57:07.965611:   [DONE  ]   Preprocess ./dataset/cambridge/KET/14.txt Done
+2019-12-03 15:57:07.965867:   [START ]   Preprocess ./dataset/cambridge/KET/15.txt Start
+2019-12-03 15:57:07.976523:   [DONE  ]   Preprocess ./dataset/cambridge/KET/15.txt Done
+2019-12-03 15:57:07.976607:   [DONE  ]   Read KET Done
+2019-12-03 15:57:07.977078:   [START ]   Limiting KET Start
+2019-12-03 15:59:40.263309:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-03 15:59:40.263486:   [INFO  ]   Hello world!
+2019-12-03 15:59:40.264295:   [INFO  ]   Start main processing!
+2019-12-03 15:59:40.264553:   [START ]   Start Prepare Traning data
+2019-12-03 15:59:40.264837:   [START ]   Initialize parameters Start
+2019-12-03 15:59:40.265044:   [DONE  ]   Initialize parameters Done
+2019-12-03 15:59:40.265230:   [START ]   Start setup FOLD
+2019-12-03 15:59:40.265449:   [START ]   Setup FOLD Done
+2019-12-03 15:59:40.265604:   [START ]   Start Training data
+2019-12-03 15:59:40.265812:   [START ]   Start Reading KET
+2019-12-03 15:59:40.266078:   [START ]   Preprocess ./dataset/cambridge/KET/2.txt Start
+2019-12-03 15:59:41.676487:   [DONE  ]   Preprocess ./dataset/cambridge/KET/2.txt Done
+2019-12-03 15:59:41.676765:   [START ]   Preprocess ./dataset/cambridge/KET/3.txt Start
+2019-12-03 15:59:41.693637:   [DONE  ]   Preprocess ./dataset/cambridge/KET/3.txt Done
+2019-12-03 15:59:41.693868:   [START ]   Preprocess ./dataset/cambridge/KET/4.txt Start
+2019-12-03 15:59:41.720221:   [DONE  ]   Preprocess ./dataset/cambridge/KET/4.txt Done
+2019-12-03 15:59:41.720441:   [START ]   Preprocess ./dataset/cambridge/KET/5.txt Start
+2019-12-03 15:59:41.734698:   [DONE  ]   Preprocess ./dataset/cambridge/KET/5.txt Done
+2019-12-03 15:59:41.734855:   [START ]   Preprocess ./dataset/cambridge/KET/6.txt Start
+2019-12-03 15:59:41.748089:   [DONE  ]   Preprocess ./dataset/cambridge/KET/6.txt Done
+2019-12-03 15:59:41.748243:   [START ]   Preprocess ./dataset/cambridge/KET/7.txt Start
+2019-12-03 15:59:41.771190:   [DONE  ]   Preprocess ./dataset/cambridge/KET/7.txt Done
+2019-12-03 15:59:41.771396:   [START ]   Preprocess ./dataset/cambridge/KET/8.txt Start
+2019-12-03 15:59:41.786329:   [DONE  ]   Preprocess ./dataset/cambridge/KET/8.txt Done
+2019-12-03 15:59:41.786518:   [START ]   Preprocess ./dataset/cambridge/KET/9.txt Start
+2019-12-03 15:59:41.799635:   [DONE  ]   Preprocess ./dataset/cambridge/KET/9.txt Done
+2019-12-03 15:59:41.799853:   [START ]   Preprocess ./dataset/cambridge/KET/10.txt Start
+2019-12-03 15:59:41.823232:   [DONE  ]   Preprocess ./dataset/cambridge/KET/10.txt Done
+2019-12-03 15:59:41.823420:   [START ]   Preprocess ./dataset/cambridge/KET/11.txt Start
+2019-12-03 15:59:41.837240:   [DONE  ]   Preprocess ./dataset/cambridge/KET/11.txt Done
+2019-12-03 15:59:41.837402:   [START ]   Preprocess ./dataset/cambridge/KET/12.txt Start
+2019-12-03 15:59:41.851327:   [DONE  ]   Preprocess ./dataset/cambridge/KET/12.txt Done
+2019-12-03 15:59:41.851557:   [START ]   Preprocess ./dataset/cambridge/KET/14.txt Start
+2019-12-03 15:59:41.865247:   [DONE  ]   Preprocess ./dataset/cambridge/KET/14.txt Done
+2019-12-03 15:59:41.865341:   [DONE  ]   Read KET Done
+2019-12-03 15:59:41.865598:   [START ]   Limiting KET Start

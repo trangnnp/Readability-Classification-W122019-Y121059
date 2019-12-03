@@ -28,6 +28,7 @@ def main():
     p.main()
 
     l.exitHere('Exit All!')
+    print("Done!")
 
 
 if __name__ == "__main__":
