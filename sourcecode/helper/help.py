@@ -170,3 +170,7 @@ def today():
 
 def getLevelFileName(level, id):
     return './dataset/cambridge/'+level+'/'+str(id)+'.txt'
+
+
+def getLevelFileName1(level, id):
+    return './dataset/corpus/'+level+'/'+str(id)+'.txt'
