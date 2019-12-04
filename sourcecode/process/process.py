@@ -77,16 +77,26 @@ def readLevel(docName, quantyLevel):
 
     levelData = []
     preprocessedLevelData = []
-    scoreDoc = []
+    scoreDoc = {
+        "lexical_density": [],
+        "char_per_word": [],
+        "type_token_ratio": [],
+        "syllable_count": [],
+        "document_length": [],
+        "sentence_length": []
+    }
     for i in range(1, quantyLevel+1):
         fileName = h.getLevelFileName(docName, i)
         fi = open(fileName, 'r')
         levelData.append(fi.read())
+        sentence_length = len(re.split(r'[.!?]+', levelData[-1]))-1
         # l.startHere("Preprocess " + fileName + " Start")
         preprocessedLevelData.append(preprocess(levelData[-1]))
         levelData[-1] = tokenize(levelData[-1])
-        scoreDoc.append(calculateScore(
-            levelData[-1], preprocessedLevelData[-1]))
+        sentence_length = float(len(levelData[-1]))/float(sentence_length)
+        scoreDoc = calculateScore(
+            levelData[-1], preprocessedLevelData[-1], scoreDoc)
+        scoreDoc["sentence_length"].append(sentence_length)
         l.doneHere("Preprocess " + fileName + " Done")
     l.doneHere('Read ' + docName + ' Done')
     return levelData, preprocessedLevelData, scoreDoc
@@ -104,8 +114,6 @@ def readTest(level, test):
     raw = tokenize(raw)
     l.doneHere("Preprocess " + fileName + " Done")
     l.doneHere('Reading Test ' + fileName + ' Done')
-    # print(raw)
-    # print(preprocessed)
     return raw, preprocessed
 
 
@@ -138,20 +146,44 @@ def getScore(level, raw, preprocessed):
     return score
 
 
-def finalScore(score):
-    final = 0.0
-    for key in score:
-        final += score[key]
-    return final
+def analizeScore(scores):
+    for i in range(len(scores)):
+        for key in scores[i]:
+            maxx = max(scores[i][key])
+            for ii in range(len(scores[i][key])):
+                scores[i][key][ii] = float(scores[i][key][ii])/float(maxx)
+    return scores
 
 
-def calculateScore(raw, preprocessed):
-    score = {
-        "lexical_density": 0.0,
-        "char_per_word": 0.0,
-        "type_token_ratio": 0.0,
-        "syllable_count": 0.0
+def finalScore(scores):
+    fScore = {}
+
+    cofi = {
+        "lexical_density":  2.0,
+        "char_per_word":    1.5,
+        "type_token_ratio": 1.0,
+        "syllable_count":   2.0,
+        "document_length":  4.0,
+        "sentence_length":  0
     }
+
+    for i in range(len(scores)):
+        fScore[i] = []
+        for id in range(len(scores[i]["lexical_density"])):
+            fScore[i].append(0)
+            for key in scores[i]:
+                fScore[i][id] += scores[i][key][id]*cofi[key]
+
+    return fScore
+
+
+def calculateScore(raw, preprocessed, score):
+    # score = {
+    #     "lexical_density": 0.0,
+    #     "char_per_word": 0.0,
+    #     "type_token_ratio": 0.0,
+    #     "syllable_count": 0.0
+    # }
 
     voca = set(preprocessed)
     vocaRaw = set(raw)
@@ -159,30 +191,35 @@ def calculateScore(raw, preprocessed):
     lexical_density = "lexical_density"
     char_per_word = "char_per_word"
     syllable_count = "syllable_count"
+    document_length = "document_length"
+    sentence_length = "sentence_length"
 
     # Token related
     # ___type_token_ratio
-    score[type_token_ratio] = float(len(voca))/float(len(raw))
+    score[type_token_ratio].append(float(len(voca))/float(len(raw)))
     # l.resultHere('type_token_ratio: ' + str(score[type_token_ratio]))
 
     # Lexical related
     # ___lexical_density
     s = set()
     s.update(preprocessed)
-    score[lexical_density] = float(len(s)/len(raw))
+    score[lexical_density].append(float(len(s)/len(raw)))
     # l.resultHere('lexical_density: ' + str(score[lexical_density]))
+    # document_length
+    score[document_length].append(len(raw))
 
     # Character related
     # ___char_per_word
+    count = 0
     for char in voca:
-        score[char_per_word] += len(char)
-    score[char_per_word] = float(score[char_per_word]/len(voca))
+        count += len(char)
+    score[char_per_word].append(float(count/len(voca)))
     # l.resultHere('char_per_word: ' + str(score[char_per_word]))
 
     # ___syllable_count
-    score[syllable_count] = avgSyllableCount(preprocessed)
+    score[syllable_count].append(avgSyllableCount(preprocessed))
 
-    return finalScore(score)
+    return score
 
 
 def evaluate(level, testList, result):
@@ -218,6 +255,8 @@ def main():
     for i in range(len(level)):
         levelDocs[i], preprocessLevelDocs[i], scoreDoc[i] = readLevel(
             level[i], quantyLevel[i])
+
+    scoreDoc = finalScore(analizeScore(scoreDoc))
 
     for timee in range(int(cc.FOLD)):
         print('\nTime ' + str(timee) + ' Start')
