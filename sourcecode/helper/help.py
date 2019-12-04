@@ -12,6 +12,7 @@ from os import path
 from log import log as l
 import statistics
 import re
+import random
 
 
 def syllableCount(word):
@@ -174,3 +175,38 @@ def getLevelFileName(level, id):
 
 def getLevelFileName1(level, id):
     return './dataset/corpus/'+level+'/'+str(id)+'.txt'
+
+
+def mix():
+    s = []
+    # level = ['KET', 'PET', 'FCE', 'CAE', 'CPE']
+    level = ['Ele', 'Int', 'Adv']
+    # n = 60
+    n = 189
+    while len(s) < n:
+        tmp = random.randrange(n)+1
+        if tmp not in s:
+            s.append(tmp)
+
+    print(s)
+    print(len(s))
+
+    for i in range(1, n+1):
+        for le in level:
+            # print('./dataset/corpus/'+le+'/'+str(i)+'.txt',
+            #       './dataset/corpus/'+le+'/'+str(s[i-1])+'.txt')
+            os.rename('./dataset/corpus/'+le+'/'+str(i)+'.txt',
+                      './dataset/corpus/'+le+'/a'+str(s[i-1])+'.txt')
+
+    s = []
+    while len(s) < n:
+        tmp = random.randrange(n)+1
+        if tmp not in s:
+            s.append(tmp)
+
+    for i in range(1, n+1):
+        for le in level:
+            # print('./dataset/corpus/'+le+'/'+str(i)+'.txt',
+            #       './dataset/corpus/'+le+'/'+str(s[i-1])+'.txt')
+            os.rename('./dataset/corpus/'+le+'/a'+str(i)+'.txt',
+                      './dataset/corpus/'+le+'/'+str(s[i-1])+'.txt')

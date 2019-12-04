@@ -30,6 +30,8 @@ def main():
     l.exitHere('Exit All!')
     print("Done!")
 
+    # h.mix()
+
 
 if __name__ == "__main__":
     main()
