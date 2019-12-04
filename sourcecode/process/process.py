@@ -123,6 +123,13 @@ def getLimitLevel(level, score, testList):
     return float((analys["  mid"]+analys["  max"]))/2
 
 
+def avgSyllableCount(words):
+    syllable = []
+    for w in words:
+        syllable.append(h.syllableCount(w))
+    return float(sum(syllable))/float(len(syllable))
+
+
 def getScore(level, raw, preprocessed):
     # l.startHere("Scoring " + level + " Start")
     score = calculateScore(raw, preprocessed)
@@ -142,7 +149,8 @@ def calculateScore(raw, preprocessed):
     score = {
         "lexical_density": 0.0,
         "char_per_word": 0.0,
-        "type_token_ratio": 0.0
+        "type_token_ratio": 0.0,
+        "syllable_count": 0.0
     }
 
     voca = set(preprocessed)
@@ -150,6 +158,7 @@ def calculateScore(raw, preprocessed):
     type_token_ratio = "type_token_ratio"
     lexical_density = "lexical_density"
     char_per_word = "char_per_word"
+    syllable_count = "syllable_count"
 
     # Token related
     # ___type_token_ratio
@@ -169,6 +178,9 @@ def calculateScore(raw, preprocessed):
         score[char_per_word] += len(char)
     score[char_per_word] = float(score[char_per_word]/len(voca))
     # l.resultHere('char_per_word: ' + str(score[char_per_word]))
+
+    # ___syllable_count
+    score[syllable_count] = avgSyllableCount(preprocessed)
 
     return finalScore(score)
 

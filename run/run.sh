@@ -6,4 +6,7 @@
 # * @ Description:
 # */
 
+
+# alias runn="bash run/run.sh"
+
 python3 sourcecode/main.py
