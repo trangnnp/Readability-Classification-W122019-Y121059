@@ -13,6 +13,7 @@ from log import log as l
 import statistics
 import re
 import random
+import numpy
 
 
 def syllableCount(word):
