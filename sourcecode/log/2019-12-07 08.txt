@@ -1,0 +1,680 @@
+2019-12-07 08:03:27.989085:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:03:27.989253:   [INFO  ]   Hello world!
+2019-12-07 08:03:27.989417:   [INFO  ]   Start main processing!
+2019-12-07 08:03:27.989514:   [START ]   Start Prepare Traning data
+2019-12-07 08:03:27.989633:   [START ]   Initialize parameters Start
+2019-12-07 08:03:27.989763:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:03:27.989841:   [START ]   Start setup FOLD
+2019-12-07 08:03:27.990046:   [START ]   Setup FOLD Done
+2019-12-07 08:03:27.990136:   [START ]   Start setup Coefficient
+2019-12-07 08:04:42.985733:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:04:42.985875:   [INFO  ]   Hello world!
+2019-12-07 08:04:42.986712:   [INFO  ]   Start main processing!
+2019-12-07 08:04:42.987010:   [START ]   Start Prepare Traning data
+2019-12-07 08:04:42.987272:   [START ]   Initialize parameters Start
+2019-12-07 08:04:42.987418:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:04:42.987623:   [START ]   Start setup FOLD
+2019-12-07 08:04:42.988005:   [START ]   Setup FOLD Done
+2019-12-07 08:04:42.988243:   [START ]   Start setup Coefficient
+2019-12-07 08:05:22.182927:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:05:22.183075:   [INFO  ]   Hello world!
+2019-12-07 08:05:22.183589:   [INFO  ]   Start main processing!
+2019-12-07 08:05:22.183735:   [START ]   Start Prepare Traning data
+2019-12-07 08:05:22.183823:   [START ]   Initialize parameters Start
+2019-12-07 08:05:22.184062:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:05:22.184178:   [START ]   Start setup FOLD
+2019-12-07 08:05:22.184409:   [START ]   Setup FOLD Done
+2019-12-07 08:05:22.184526:   [START ]   Start setup Coefficient
+2019-12-07 08:06:10.981492:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:06:10.981640:   [INFO  ]   Hello world!
+2019-12-07 08:06:10.982221:   [INFO  ]   Start main processing!
+2019-12-07 08:06:10.982330:   [START ]   Start Prepare Traning data
+2019-12-07 08:06:10.982490:   [START ]   Initialize parameters Start
+2019-12-07 08:06:10.982575:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:06:10.982771:   [START ]   Start setup FOLD
+2019-12-07 08:06:10.982925:   [START ]   Setup FOLD Done
+2019-12-07 08:06:10.982993:   [START ]   Start setup Coefficient
+2019-12-07 08:06:50.717272:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:06:50.717419:   [INFO  ]   Hello world!
+2019-12-07 08:06:50.718039:   [INFO  ]   Start main processing!
+2019-12-07 08:06:50.718199:   [START ]   Start Prepare Traning data
+2019-12-07 08:06:50.718323:   [START ]   Initialize parameters Start
+2019-12-07 08:06:50.718450:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:06:50.718553:   [START ]   Start setup FOLD
+2019-12-07 08:06:50.718752:   [START ]   Setup FOLD Done
+2019-12-07 08:06:50.718891:   [START ]   Start setup Coefficient
+2019-12-07 08:09:07.849273:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:09:07.849419:   [INFO  ]   Hello world!
+2019-12-07 08:09:07.850119:   [INFO  ]   Start main processing!
+2019-12-07 08:09:07.850327:   [START ]   Start Prepare Traning data
+2019-12-07 08:09:07.850466:   [START ]   Initialize parameters Start
+2019-12-07 08:09:07.850587:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:09:07.850703:   [START ]   Start setup FOLD
+2019-12-07 08:09:07.850914:   [START ]   Setup FOLD Done
+2019-12-07 08:09:07.851009:   [START ]   Start setup Coefficient
+2019-12-07 08:09:25.592713:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:09:25.592853:   [INFO  ]   Hello world!
+2019-12-07 08:09:25.593037:   [INFO  ]   Start main processing!
+2019-12-07 08:09:25.593155:   [START ]   Start Prepare Traning data
+2019-12-07 08:09:25.593277:   [START ]   Initialize parameters Start
+2019-12-07 08:09:25.593536:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:09:25.593609:   [START ]   Start setup FOLD
+2019-12-07 08:09:25.593890:   [START ]   Setup FOLD Done
+2019-12-07 08:09:25.593970:   [START ]   Start setup Coefficient
+2019-12-07 08:10:02.775022:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:10:02.775168:   [INFO  ]   Hello world!
+2019-12-07 08:10:02.776159:   [INFO  ]   Start main processing!
+2019-12-07 08:10:02.776459:   [START ]   Start Prepare Traning data
+2019-12-07 08:10:02.776710:   [START ]   Initialize parameters Start
+2019-12-07 08:10:02.776801:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:10:02.776928:   [START ]   Start setup FOLD
+2019-12-07 08:10:02.777129:   [START ]   Setup FOLD Done
+2019-12-07 08:10:02.777198:   [START ]   Start setup Coefficient
+2019-12-07 08:10:22.133059:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:10:22.133275:   [INFO  ]   Hello world!
+2019-12-07 08:10:22.133766:   [INFO  ]   Start main processing!
+2019-12-07 08:10:22.133861:   [START ]   Start Prepare Traning data
+2019-12-07 08:10:22.134105:   [START ]   Initialize parameters Start
+2019-12-07 08:10:22.134189:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:10:22.134305:   [START ]   Start setup FOLD
+2019-12-07 08:10:22.134462:   [START ]   Setup FOLD Done
+2019-12-07 08:10:22.134539:   [START ]   Start setup Coefficient
+2019-12-07 08:19:58.893617:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:19:58.894221:   [INFO  ]   Hello world!
+2019-12-07 08:19:58.894350:   [INFO  ]   Start main processing!
+2019-12-07 08:19:58.894581:   [START ]   Start Prepare Traning data
+2019-12-07 08:19:58.894670:   [START ]   Initialize parameters Start
+2019-12-07 08:19:58.894792:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:19:58.894875:   [START ]   Start setup FOLD
+2019-12-07 08:19:58.895044:   [START ]   Setup FOLD Done
+2019-12-07 08:19:58.895123:   [START ]   Start setup Coefficient
+2019-12-07 08:25:39.986937:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:25:39.987110:   [INFO  ]   Hello world!
+2019-12-07 08:25:39.987990:   [INFO  ]   Start main processing!
+2019-12-07 08:25:39.988244:   [START ]   Start Prepare Traning data
+2019-12-07 08:25:39.988641:   [START ]   Initialize parameters Start
+2019-12-07 08:25:39.988784:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:25:39.988965:   [START ]   Start setup FOLD
+2019-12-07 08:25:39.989138:   [START ]   Setup FOLD Done
+2019-12-07 08:25:39.989261:   [START ]   Start setup Coefficient
+2019-12-07 08:26:07.929770:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:26:07.929944:   [INFO  ]   Hello world!
+2019-12-07 08:26:07.930849:   [INFO  ]   Start main processing!
+2019-12-07 08:26:07.931136:   [START ]   Start Prepare Traning data
+2019-12-07 08:26:07.931338:   [START ]   Initialize parameters Start
+2019-12-07 08:26:07.931476:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:26:07.931730:   [START ]   Start setup FOLD
+2019-12-07 08:26:07.931916:   [START ]   Setup FOLD Done
+2019-12-07 08:26:07.932078:   [START ]   Start setup Coefficient
+2019-12-07 08:27:04.054970:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:27:04.055148:   [INFO  ]   Hello world!
+2019-12-07 08:27:04.056109:   [INFO  ]   Start main processing!
+2019-12-07 08:27:04.056356:   [START ]   Start Prepare Traning data
+2019-12-07 08:27:04.056600:   [START ]   Initialize parameters Start
+2019-12-07 08:27:04.056760:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:27:04.056921:   [START ]   Start setup FOLD
+2019-12-07 08:27:04.057123:   [START ]   Setup FOLD Done
+2019-12-07 08:27:04.057243:   [START ]   Start setup Coefficient
+2019-12-07 08:27:26.763465:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:27:26.763724:   [INFO  ]   Hello world!
+2019-12-07 08:27:26.764413:   [INFO  ]   Start main processing!
+2019-12-07 08:27:26.764752:   [START ]   Start Prepare Traning data
+2019-12-07 08:27:26.764967:   [START ]   Initialize parameters Start
+2019-12-07 08:27:26.765117:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:27:26.765270:   [START ]   Start setup FOLD
+2019-12-07 08:27:26.765441:   [START ]   Setup FOLD Done
+2019-12-07 08:27:26.765521:   [START ]   Start setup Coefficient
+2019-12-07 08:27:48.727982:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:27:48.728555:   [INFO  ]   Hello world!
+2019-12-07 08:27:48.728711:   [INFO  ]   Start main processing!
+2019-12-07 08:27:48.728806:   [START ]   Start Prepare Traning data
+2019-12-07 08:27:48.728998:   [START ]   Initialize parameters Start
+2019-12-07 08:27:48.729076:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:27:48.729210:   [START ]   Start setup FOLD
+2019-12-07 08:27:48.729374:   [START ]   Setup FOLD Done
+2019-12-07 08:27:48.729453:   [START ]   Start setup Coefficient
+2019-12-07 08:29:13.912804:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:29:13.912983:   [INFO  ]   Hello world!
+2019-12-07 08:29:13.913773:   [INFO  ]   Start main processing!
+2019-12-07 08:29:13.914027:   [START ]   Start Prepare Traning data
+2019-12-07 08:29:13.914282:   [START ]   Initialize parameters Start
+2019-12-07 08:29:13.914537:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:29:13.914618:   [START ]   Start setup FOLD
+2019-12-07 08:29:13.914762:   [START ]   Setup FOLD Done
+2019-12-07 08:29:13.914832:   [START ]   Start setup Coefficient
+2019-12-07 08:31:55.267093:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:31:55.267266:   [INFO  ]   Hello world!
+2019-12-07 08:31:55.268022:   [INFO  ]   Start main processing!
+2019-12-07 08:31:55.268254:   [START ]   Start Prepare Traning data
+2019-12-07 08:31:55.268552:   [START ]   Initialize parameters Start
+2019-12-07 08:31:55.268684:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:31:55.268815:   [START ]   Start setup FOLD
+2019-12-07 08:31:55.269005:   [START ]   Setup FOLD Done
+2019-12-07 08:31:55.269094:   [START ]   Start setup Coefficient
+2019-12-07 08:34:08.636201:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:34:08.636379:   [INFO  ]   Hello world!
+2019-12-07 08:34:08.637333:   [INFO  ]   Start main processing!
+2019-12-07 08:34:08.637700:   [START ]   Start Prepare Traning data
+2019-12-07 08:34:08.637981:   [START ]   Initialize parameters Start
+2019-12-07 08:34:08.638187:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:34:08.638283:   [START ]   Start setup FOLD
+2019-12-07 08:34:08.638444:   [START ]   Setup FOLD Done
+2019-12-07 08:34:08.638521:   [START ]   Start setup Coefficient
+2019-12-07 08:35:01.995339:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:35:01.995518:   [INFO  ]   Hello world!
+2019-12-07 08:35:01.996307:   [INFO  ]   Start main processing!
+2019-12-07 08:35:01.996687:   [START ]   Start Prepare Traning data
+2019-12-07 08:35:01.996987:   [START ]   Initialize parameters Start
+2019-12-07 08:35:01.997108:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:35:01.997273:   [START ]   Start setup FOLD
+2019-12-07 08:35:01.997462:   [START ]   Setup FOLD Done
+2019-12-07 08:35:01.997540:   [START ]   Start setup Coefficient
+2019-12-07 08:35:14.913333:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:35:14.913510:   [INFO  ]   Hello world!
+2019-12-07 08:35:14.914379:   [INFO  ]   Start main processing!
+2019-12-07 08:35:14.914614:   [START ]   Start Prepare Traning data
+2019-12-07 08:35:14.914837:   [START ]   Initialize parameters Start
+2019-12-07 08:35:14.915028:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:35:14.915127:   [START ]   Start setup FOLD
+2019-12-07 08:35:14.915400:   [START ]   Setup FOLD Done
+2019-12-07 08:35:14.915480:   [START ]   Start setup Coefficient
+2019-12-07 08:35:25.979727:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:35:25.981599:   [INFO  ]   Hello world!
+2019-12-07 08:35:25.981764:   [INFO  ]   Start main processing!
+2019-12-07 08:35:25.981892:   [START ]   Start Prepare Traning data
+2019-12-07 08:35:25.982008:   [START ]   Initialize parameters Start
+2019-12-07 08:35:25.982126:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:35:25.982278:   [START ]   Start setup FOLD
+2019-12-07 08:35:25.982468:   [START ]   Setup FOLD Done
+2019-12-07 08:35:25.982556:   [START ]   Start setup Coefficient
+2019-12-07 08:35:44.378613:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:35:44.378786:   [INFO  ]   Hello world!
+2019-12-07 08:35:44.379716:   [INFO  ]   Start main processing!
+2019-12-07 08:35:44.379979:   [START ]   Start Prepare Traning data
+2019-12-07 08:35:44.380238:   [START ]   Initialize parameters Start
+2019-12-07 08:35:44.380558:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:35:44.380635:   [START ]   Start setup FOLD
+2019-12-07 08:35:44.380867:   [START ]   Setup FOLD Done
+2019-12-07 08:35:44.380938:   [START ]   Start setup Coefficient
+2019-12-07 08:37:51.184954:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:37:51.185207:   [INFO  ]   Hello world!
+2019-12-07 08:37:51.185964:   [INFO  ]   Start main processing!
+2019-12-07 08:37:51.186238:   [START ]   Start Prepare Traning data
+2019-12-07 08:37:51.186503:   [START ]   Initialize parameters Start
+2019-12-07 08:37:51.186640:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:37:51.186881:   [START ]   Start setup FOLD
+2019-12-07 08:37:51.187089:   [START ]   Setup FOLD Done
+2019-12-07 08:37:51.187166:   [START ]   Start setup Coefficient
+2019-12-07 08:38:20.269231:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:38:20.269413:   [INFO  ]   Hello world!
+2019-12-07 08:38:20.270313:   [INFO  ]   Start main processing!
+2019-12-07 08:38:20.270711:   [START ]   Start Prepare Traning data
+2019-12-07 08:38:20.270938:   [START ]   Initialize parameters Start
+2019-12-07 08:38:20.271100:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:38:20.271177:   [START ]   Start setup FOLD
+2019-12-07 08:38:20.271653:   [START ]   Setup FOLD Done
+2019-12-07 08:38:20.271744:   [START ]   Start setup Coefficient
+2019-12-07 08:38:48.392206:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:38:48.392374:   [INFO  ]   Hello world!
+2019-12-07 08:38:48.393344:   [INFO  ]   Start main processing!
+2019-12-07 08:38:48.393650:   [START ]   Start Prepare Traning data
+2019-12-07 08:38:48.393954:   [START ]   Initialize parameters Start
+2019-12-07 08:38:48.394061:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:38:48.394235:   [START ]   Start setup FOLD
+2019-12-07 08:38:48.394395:   [START ]   Setup FOLD Done
+2019-12-07 08:38:48.394467:   [START ]   Start setup Coefficient
+2019-12-07 08:39:02.499317:   [START ]   Start Reading Ele
+2019-12-07 08:39:04.012909:   [DONE  ]   Preprocess ./dataset/corpus/Ele/1.txt Done
+2019-12-07 08:39:04.093438:   [DONE  ]   Preprocess ./dataset/corpus/Ele/2.txt Done
+2019-12-07 08:39:04.152276:   [DONE  ]   Preprocess ./dataset/corpus/Ele/3.txt Done
+2019-12-07 08:39:04.237103:   [DONE  ]   Preprocess ./dataset/corpus/Ele/4.txt Done
+2019-12-07 08:39:04.305428:   [DONE  ]   Preprocess ./dataset/corpus/Ele/5.txt Done
+2019-12-07 08:39:04.387506:   [DONE  ]   Preprocess ./dataset/corpus/Ele/6.txt Done
+2019-12-07 08:39:04.453383:   [DONE  ]   Preprocess ./dataset/corpus/Ele/7.txt Done
+2019-12-07 08:39:04.536258:   [DONE  ]   Preprocess ./dataset/corpus/Ele/8.txt Done
+2019-12-07 08:39:04.615305:   [DONE  ]   Preprocess ./dataset/corpus/Ele/9.txt Done
+2019-12-07 08:39:04.687798:   [DONE  ]   Preprocess ./dataset/corpus/Ele/10.txt Done
+2019-12-07 08:39:04.763901:   [DONE  ]   Preprocess ./dataset/corpus/Ele/11.txt Done
+2019-12-07 08:39:04.835745:   [DONE  ]   Preprocess ./dataset/corpus/Ele/12.txt Done
+2019-12-07 08:39:04.910828:   [DONE  ]   Preprocess ./dataset/corpus/Ele/13.txt Done
+2019-12-07 08:39:04.973518:   [DONE  ]   Preprocess ./dataset/corpus/Ele/14.txt Done
+2019-12-07 08:39:05.030075:   [DONE  ]   Preprocess ./dataset/corpus/Ele/15.txt Done
+2019-12-07 08:39:05.076468:   [DONE  ]   Preprocess ./dataset/corpus/Ele/16.txt Done
+2019-12-07 08:39:05.146987:   [DONE  ]   Preprocess ./dataset/corpus/Ele/17.txt Done
+2019-12-07 08:39:05.221713:   [DONE  ]   Preprocess ./dataset/corpus/Ele/18.txt Done
+2019-12-07 08:39:05.291537:   [DONE  ]   Preprocess ./dataset/corpus/Ele/19.txt Done
+2019-12-07 08:39:05.364425:   [DONE  ]   Preprocess ./dataset/corpus/Ele/20.txt Done
+2019-12-07 08:39:05.437165:   [DONE  ]   Preprocess ./dataset/corpus/Ele/21.txt Done
+2019-12-07 08:39:05.502201:   [DONE  ]   Preprocess ./dataset/corpus/Ele/22.txt Done
+2019-12-07 08:39:05.577516:   [DONE  ]   Preprocess ./dataset/corpus/Ele/23.txt Done
+2019-12-07 08:39:05.637012:   [DONE  ]   Preprocess ./dataset/corpus/Ele/24.txt Done
+2019-12-07 08:39:05.713142:   [DONE  ]   Preprocess ./dataset/corpus/Ele/25.txt Done
+2019-12-07 08:39:05.794050:   [DONE  ]   Preprocess ./dataset/corpus/Ele/26.txt Done
+2019-12-07 08:39:05.848261:   [DONE  ]   Preprocess ./dataset/corpus/Ele/27.txt Done
+2019-12-07 08:39:05.901136:   [DONE  ]   Preprocess ./dataset/corpus/Ele/28.txt Done
+2019-12-07 08:39:05.984655:   [DONE  ]   Preprocess ./dataset/corpus/Ele/29.txt Done
+2019-12-07 08:39:06.059228:   [DONE  ]   Preprocess ./dataset/corpus/Ele/30.txt Done
+2019-12-07 08:39:06.119578:   [DONE  ]   Preprocess ./dataset/corpus/Ele/31.txt Done
+2019-12-07 08:39:06.180621:   [DONE  ]   Preprocess ./dataset/corpus/Ele/32.txt Done
+2019-12-07 08:39:06.252203:   [DONE  ]   Preprocess ./dataset/corpus/Ele/33.txt Done
+2019-12-07 08:39:06.334039:   [DONE  ]   Preprocess ./dataset/corpus/Ele/34.txt Done
+2019-12-07 08:39:06.418507:   [DONE  ]   Preprocess ./dataset/corpus/Ele/35.txt Done
+2019-12-07 08:39:06.479940:   [DONE  ]   Preprocess ./dataset/corpus/Ele/36.txt Done
+2019-12-07 08:39:06.528845:   [DONE  ]   Preprocess ./dataset/corpus/Ele/37.txt Done
+2019-12-07 08:39:06.602548:   [DONE  ]   Preprocess ./dataset/corpus/Ele/38.txt Done
+2019-12-07 08:39:06.654220:   [DONE  ]   Preprocess ./dataset/corpus/Ele/39.txt Done
+2019-12-07 08:39:06.740056:   [DONE  ]   Preprocess ./dataset/corpus/Ele/40.txt Done
+2019-12-07 08:39:06.791539:   [DONE  ]   Preprocess ./dataset/corpus/Ele/41.txt Done
+2019-12-07 08:39:06.878290:   [DONE  ]   Preprocess ./dataset/corpus/Ele/42.txt Done
+2019-12-07 08:39:06.959227:   [DONE  ]   Preprocess ./dataset/corpus/Ele/43.txt Done
+2019-12-07 08:39:07.021835:   [DONE  ]   Preprocess ./dataset/corpus/Ele/44.txt Done
+2019-12-07 08:39:07.070031:   [DONE  ]   Preprocess ./dataset/corpus/Ele/45.txt Done
+2019-12-07 08:39:07.151445:   [DONE  ]   Preprocess ./dataset/corpus/Ele/46.txt Done
+2019-12-07 08:39:07.221246:   [DONE  ]   Preprocess ./dataset/corpus/Ele/47.txt Done
+2019-12-07 08:39:07.295898:   [DONE  ]   Preprocess ./dataset/corpus/Ele/48.txt Done
+2019-12-07 08:39:07.334813:   [DONE  ]   Preprocess ./dataset/corpus/Ele/49.txt Done
+2019-12-07 08:39:07.418312:   [DONE  ]   Preprocess ./dataset/corpus/Ele/50.txt Done
+2019-12-07 08:39:07.503971:   [DONE  ]   Preprocess ./dataset/corpus/Ele/51.txt Done
+2019-12-07 08:39:07.577340:   [DONE  ]   Preprocess ./dataset/corpus/Ele/52.txt Done
+2019-12-07 08:39:07.651548:   [DONE  ]   Preprocess ./dataset/corpus/Ele/53.txt Done
+2019-12-07 08:39:07.723492:   [DONE  ]   Preprocess ./dataset/corpus/Ele/54.txt Done
+2019-12-07 08:39:07.774402:   [DONE  ]   Preprocess ./dataset/corpus/Ele/55.txt Done
+2019-12-07 08:39:07.865797:   [DONE  ]   Preprocess ./dataset/corpus/Ele/56.txt Done
+2019-12-07 08:39:07.952464:   [DONE  ]   Preprocess ./dataset/corpus/Ele/57.txt Done
+2019-12-07 08:39:08.030781:   [DONE  ]   Preprocess ./dataset/corpus/Ele/58.txt Done
+2019-12-07 08:39:08.118626:   [DONE  ]   Preprocess ./dataset/corpus/Ele/59.txt Done
+2019-12-07 08:39:08.189169:   [DONE  ]   Preprocess ./dataset/corpus/Ele/60.txt Done
+2019-12-07 08:39:08.245044:   [DONE  ]   Preprocess ./dataset/corpus/Ele/61.txt Done
+2019-12-07 08:39:08.313825:   [DONE  ]   Preprocess ./dataset/corpus/Ele/62.txt Done
+2019-12-07 08:39:08.379899:   [DONE  ]   Preprocess ./dataset/corpus/Ele/63.txt Done
+2019-12-07 08:39:08.435303:   [DONE  ]   Preprocess ./dataset/corpus/Ele/64.txt Done
+2019-12-07 08:39:08.486304:   [DONE  ]   Preprocess ./dataset/corpus/Ele/65.txt Done
+2019-12-07 08:39:08.549660:   [DONE  ]   Preprocess ./dataset/corpus/Ele/66.txt Done
+2019-12-07 08:39:08.601179:   [DONE  ]   Preprocess ./dataset/corpus/Ele/67.txt Done
+2019-12-07 08:39:08.664538:   [DONE  ]   Preprocess ./dataset/corpus/Ele/68.txt Done
+2019-12-07 08:39:08.742450:   [DONE  ]   Preprocess ./dataset/corpus/Ele/69.txt Done
+2019-12-07 08:39:08.789592:   [DONE  ]   Preprocess ./dataset/corpus/Ele/70.txt Done
+2019-12-07 08:39:08.835834:   [DONE  ]   Preprocess ./dataset/corpus/Ele/71.txt Done
+2019-12-07 08:39:08.903474:   [DONE  ]   Preprocess ./dataset/corpus/Ele/72.txt Done
+2019-12-07 08:39:08.964992:   [DONE  ]   Preprocess ./dataset/corpus/Ele/73.txt Done
+2019-12-07 08:39:09.041244:   [DONE  ]   Preprocess ./dataset/corpus/Ele/74.txt Done
+2019-12-07 08:39:09.114366:   [DONE  ]   Preprocess ./dataset/corpus/Ele/75.txt Done
+2019-12-07 08:39:09.186263:   [DONE  ]   Preprocess ./dataset/corpus/Ele/76.txt Done
+2019-12-07 08:39:09.243888:   [DONE  ]   Preprocess ./dataset/corpus/Ele/77.txt Done
+2019-12-07 08:39:09.279171:   [DONE  ]   Preprocess ./dataset/corpus/Ele/78.txt Done
+2019-12-07 08:39:09.358802:   [DONE  ]   Preprocess ./dataset/corpus/Ele/79.txt Done
+2019-12-07 08:39:09.436498:   [DONE  ]   Preprocess ./dataset/corpus/Ele/80.txt Done
+2019-12-07 08:39:09.500029:   [DONE  ]   Preprocess ./dataset/corpus/Ele/81.txt Done
+2019-12-07 08:39:09.548157:   [DONE  ]   Preprocess ./dataset/corpus/Ele/82.txt Done
+2019-12-07 08:39:09.626235:   [DONE  ]   Preprocess ./dataset/corpus/Ele/83.txt Done
+2019-12-07 08:39:09.702037:   [DONE  ]   Preprocess ./dataset/corpus/Ele/84.txt Done
+2019-12-07 08:39:09.772731:   [DONE  ]   Preprocess ./dataset/corpus/Ele/85.txt Done
+2019-12-07 08:39:09.829824:   [DONE  ]   Preprocess ./dataset/corpus/Ele/86.txt Done
+2019-12-07 08:39:09.901887:   [DONE  ]   Preprocess ./dataset/corpus/Ele/87.txt Done
+2019-12-07 08:39:09.972998:   [DONE  ]   Preprocess ./dataset/corpus/Ele/88.txt Done
+2019-12-07 08:39:10.051055:   [DONE  ]   Preprocess ./dataset/corpus/Ele/89.txt Done
+2019-12-07 08:39:10.098352:   [DONE  ]   Preprocess ./dataset/corpus/Ele/90.txt Done
+2019-12-07 08:39:10.180026:   [DONE  ]   Preprocess ./dataset/corpus/Ele/91.txt Done
+2019-12-07 08:39:10.241835:   [DONE  ]   Preprocess ./dataset/corpus/Ele/92.txt Done
+2019-12-07 08:39:10.316612:   [DONE  ]   Preprocess ./dataset/corpus/Ele/93.txt Done
+2019-12-07 08:39:10.380685:   [DONE  ]   Preprocess ./dataset/corpus/Ele/94.txt Done
+2019-12-07 08:39:10.449893:   [DONE  ]   Preprocess ./dataset/corpus/Ele/95.txt Done
+2019-12-07 08:39:10.525822:   [DONE  ]   Preprocess ./dataset/corpus/Ele/96.txt Done
+2019-12-07 08:39:10.594874:   [DONE  ]   Preprocess ./dataset/corpus/Ele/97.txt Done
+2019-12-07 08:39:10.660705:   [DONE  ]   Preprocess ./dataset/corpus/Ele/98.txt Done
+2019-12-07 08:39:10.756061:   [DONE  ]   Preprocess ./dataset/corpus/Ele/99.txt Done
+2019-12-07 08:39:10.805376:   [DONE  ]   Preprocess ./dataset/corpus/Ele/100.txt Done
+2019-12-07 08:39:10.877178:   [DONE  ]   Preprocess ./dataset/corpus/Ele/101.txt Done
+2019-12-07 08:39:10.936651:   [DONE  ]   Preprocess ./dataset/corpus/Ele/102.txt Done
+2019-12-07 08:39:10.992689:   [DONE  ]   Preprocess ./dataset/corpus/Ele/103.txt Done
+2019-12-07 08:39:11.054619:   [DONE  ]   Preprocess ./dataset/corpus/Ele/104.txt Done
+2019-12-07 08:39:11.122577:   [DONE  ]   Preprocess ./dataset/corpus/Ele/105.txt Done
+2019-12-07 08:39:11.207551:   [DONE  ]   Preprocess ./dataset/corpus/Ele/106.txt Done
+2019-12-07 08:39:11.286098:   [DONE  ]   Preprocess ./dataset/corpus/Ele/107.txt Done
+2019-12-07 08:39:11.350319:   [DONE  ]   Preprocess ./dataset/corpus/Ele/108.txt Done
+2019-12-07 08:39:11.437518:   [DONE  ]   Preprocess ./dataset/corpus/Ele/109.txt Done
+2019-12-07 08:39:11.502250:   [DONE  ]   Preprocess ./dataset/corpus/Ele/110.txt Done
+2019-12-07 08:39:11.579543:   [DONE  ]   Preprocess ./dataset/corpus/Ele/111.txt Done
+2019-12-07 08:39:11.669843:   [DONE  ]   Preprocess ./dataset/corpus/Ele/112.txt Done
+2019-12-07 08:39:11.755753:   [DONE  ]   Preprocess ./dataset/corpus/Ele/113.txt Done
+2019-12-07 08:39:11.822237:   [DONE  ]   Preprocess ./dataset/corpus/Ele/114.txt Done
+2019-12-07 08:39:11.908904:   [DONE  ]   Preprocess ./dataset/corpus/Ele/115.txt Done
+2019-12-07 08:39:11.973901:   [DONE  ]   Preprocess ./dataset/corpus/Ele/116.txt Done
+2019-12-07 08:39:12.034810:   [DONE  ]   Preprocess ./dataset/corpus/Ele/117.txt Done
+2019-12-07 08:39:12.092321:   [DONE  ]   Preprocess ./dataset/corpus/Ele/118.txt Done
+2019-12-07 08:39:12.149003:   [DONE  ]   Preprocess ./dataset/corpus/Ele/119.txt Done
+2019-12-07 08:39:12.228343:   [DONE  ]   Preprocess ./dataset/corpus/Ele/120.txt Done
+2019-12-07 08:39:12.278016:   [DONE  ]   Preprocess ./dataset/corpus/Ele/121.txt Done
+2019-12-07 08:39:12.350434:   [DONE  ]   Preprocess ./dataset/corpus/Ele/122.txt Done
+2019-12-07 08:39:12.406066:   [DONE  ]   Preprocess ./dataset/corpus/Ele/123.txt Done
+2019-12-07 08:39:12.494991:   [DONE  ]   Preprocess ./dataset/corpus/Ele/124.txt Done
+2019-12-07 08:39:12.551755:   [DONE  ]   Preprocess ./dataset/corpus/Ele/125.txt Done
+2019-12-07 08:39:12.628799:   [DONE  ]   Preprocess ./dataset/corpus/Ele/126.txt Done
+2019-12-07 08:39:12.729147:   [DONE  ]   Preprocess ./dataset/corpus/Ele/127.txt Done
+2019-12-07 08:39:12.808584:   [DONE  ]   Preprocess ./dataset/corpus/Ele/128.txt Done
+2019-12-07 08:39:12.894785:   [DONE  ]   Preprocess ./dataset/corpus/Ele/129.txt Done
+2019-12-07 08:39:12.952197:   [DONE  ]   Preprocess ./dataset/corpus/Ele/130.txt Done
+2019-12-07 08:39:13.025108:   [DONE  ]   Preprocess ./dataset/corpus/Ele/131.txt Done
+2019-12-07 08:39:13.116349:   [DONE  ]   Preprocess ./dataset/corpus/Ele/132.txt Done
+2019-12-07 08:39:13.186505:   [DONE  ]   Preprocess ./dataset/corpus/Ele/133.txt Done
+2019-12-07 08:39:13.264272:   [DONE  ]   Preprocess ./dataset/corpus/Ele/134.txt Done
+2019-12-07 08:39:13.316018:   [DONE  ]   Preprocess ./dataset/corpus/Ele/135.txt Done
+2019-12-07 08:39:13.371887:   [DONE  ]   Preprocess ./dataset/corpus/Ele/136.txt Done
+2019-12-07 08:39:13.426036:   [DONE  ]   Preprocess ./dataset/corpus/Ele/137.txt Done
+2019-12-07 08:39:13.487955:   [DONE  ]   Preprocess ./dataset/corpus/Ele/138.txt Done
+2019-12-07 08:39:13.551155:   [DONE  ]   Preprocess ./dataset/corpus/Ele/139.txt Done
+2019-12-07 08:39:13.626684:   [DONE  ]   Preprocess ./dataset/corpus/Ele/140.txt Done
+2019-12-07 08:39:13.682350:   [DONE  ]   Preprocess ./dataset/corpus/Ele/141.txt Done
+2019-12-07 08:39:13.761288:   [DONE  ]   Preprocess ./dataset/corpus/Ele/142.txt Done
+2019-12-07 08:39:13.828419:   [DONE  ]   Preprocess ./dataset/corpus/Ele/143.txt Done
+2019-12-07 08:39:13.925170:   [DONE  ]   Preprocess ./dataset/corpus/Ele/144.txt Done
+2019-12-07 08:39:14.002473:   [DONE  ]   Preprocess ./dataset/corpus/Ele/145.txt Done
+2019-12-07 08:39:14.070928:   [DONE  ]   Preprocess ./dataset/corpus/Ele/146.txt Done
+2019-12-07 08:39:14.163030:   [DONE  ]   Preprocess ./dataset/corpus/Ele/147.txt Done
+2019-12-07 08:39:14.248949:   [DONE  ]   Preprocess ./dataset/corpus/Ele/148.txt Done
+2019-12-07 08:39:14.315291:   [DONE  ]   Preprocess ./dataset/corpus/Ele/149.txt Done
+2019-12-07 08:39:14.387332:   [DONE  ]   Preprocess ./dataset/corpus/Ele/150.txt Done
+2019-12-07 08:39:14.387475:   [DONE  ]   Read Ele Done
+2019-12-07 08:39:14.388210:   [START ]   Start Reading Int
+2019-12-07 08:39:14.483596:   [DONE  ]   Preprocess ./dataset/corpus/Int/1.txt Done
+2019-12-07 08:39:14.580402:   [DONE  ]   Preprocess ./dataset/corpus/Int/2.txt Done
+2019-12-07 08:39:14.666284:   [DONE  ]   Preprocess ./dataset/corpus/Int/3.txt Done
+2019-12-07 08:39:14.756281:   [DONE  ]   Preprocess ./dataset/corpus/Int/4.txt Done
+2019-12-07 08:39:14.856420:   [DONE  ]   Preprocess ./dataset/corpus/Int/5.txt Done
+2019-12-07 08:39:14.965189:   [DONE  ]   Preprocess ./dataset/corpus/Int/6.txt Done
+2019-12-07 08:39:15.063134:   [DONE  ]   Preprocess ./dataset/corpus/Int/7.txt Done
+2019-12-07 08:39:15.159161:   [DONE  ]   Preprocess ./dataset/corpus/Int/8.txt Done
+2019-12-07 08:39:15.262673:   [DONE  ]   Preprocess ./dataset/corpus/Int/9.txt Done
+2019-12-07 08:39:15.368415:   [DONE  ]   Preprocess ./dataset/corpus/Int/10.txt Done
+2019-12-07 08:39:15.473083:   [DONE  ]   Preprocess ./dataset/corpus/Int/11.txt Done
+2019-12-07 08:39:15.555911:   [DONE  ]   Preprocess ./dataset/corpus/Int/12.txt Done
+2019-12-07 08:39:15.654926:   [DONE  ]   Preprocess ./dataset/corpus/Int/13.txt Done
+2019-12-07 08:39:15.770465:   [DONE  ]   Preprocess ./dataset/corpus/Int/14.txt Done
+2019-12-07 08:39:15.847702:   [DONE  ]   Preprocess ./dataset/corpus/Int/15.txt Done
+2019-12-07 08:39:15.906116:   [DONE  ]   Preprocess ./dataset/corpus/Int/16.txt Done
+2019-12-07 08:39:16.003609:   [DONE  ]   Preprocess ./dataset/corpus/Int/17.txt Done
+2019-12-07 08:39:16.096062:   [DONE  ]   Preprocess ./dataset/corpus/Int/18.txt Done
+2019-12-07 08:39:16.187254:   [DONE  ]   Preprocess ./dataset/corpus/Int/19.txt Done
+2019-12-07 08:39:16.292243:   [DONE  ]   Preprocess ./dataset/corpus/Int/20.txt Done
+2019-12-07 08:39:16.380512:   [DONE  ]   Preprocess ./dataset/corpus/Int/21.txt Done
+2019-12-07 08:39:16.493688:   [DONE  ]   Preprocess ./dataset/corpus/Int/22.txt Done
+2019-12-07 08:39:16.587845:   [DONE  ]   Preprocess ./dataset/corpus/Int/23.txt Done
+2019-12-07 08:39:16.684142:   [DONE  ]   Preprocess ./dataset/corpus/Int/24.txt Done
+2019-12-07 08:39:16.785667:   [DONE  ]   Preprocess ./dataset/corpus/Int/25.txt Done
+2019-12-07 08:39:16.879234:   [DONE  ]   Preprocess ./dataset/corpus/Int/26.txt Done
+2019-12-07 08:39:16.958112:   [DONE  ]   Preprocess ./dataset/corpus/Int/27.txt Done
+2019-12-07 08:39:17.034081:   [DONE  ]   Preprocess ./dataset/corpus/Int/28.txt Done
+2019-12-07 08:39:17.108181:   [DONE  ]   Preprocess ./dataset/corpus/Int/29.txt Done
+2019-12-07 08:39:17.204731:   [DONE  ]   Preprocess ./dataset/corpus/Int/30.txt Done
+2019-12-07 08:39:17.301989:   [DONE  ]   Preprocess ./dataset/corpus/Int/31.txt Done
+2019-12-07 08:39:17.390697:   [DONE  ]   Preprocess ./dataset/corpus/Int/32.txt Done
+2019-12-07 08:39:17.480805:   [DONE  ]   Preprocess ./dataset/corpus/Int/33.txt Done
+2019-12-07 08:39:17.580542:   [DONE  ]   Preprocess ./dataset/corpus/Int/34.txt Done
+2019-12-07 08:39:17.670838:   [DONE  ]   Preprocess ./dataset/corpus/Int/35.txt Done
+2019-12-07 08:39:17.747497:   [DONE  ]   Preprocess ./dataset/corpus/Int/36.txt Done
+2019-12-07 08:39:17.863667:   [DONE  ]   Preprocess ./dataset/corpus/Int/37.txt Done
+2019-12-07 08:39:17.956898:   [DONE  ]   Preprocess ./dataset/corpus/Int/38.txt Done
+2019-12-07 08:39:18.053289:   [DONE  ]   Preprocess ./dataset/corpus/Int/39.txt Done
+2019-12-07 08:39:18.172678:   [DONE  ]   Preprocess ./dataset/corpus/Int/40.txt Done
+2019-12-07 08:39:18.255510:   [DONE  ]   Preprocess ./dataset/corpus/Int/41.txt Done
+2019-12-07 08:39:18.317813:   [DONE  ]   Preprocess ./dataset/corpus/Int/42.txt Done
+2019-12-07 08:39:18.405632:   [DONE  ]   Preprocess ./dataset/corpus/Int/43.txt Done
+2019-12-07 08:39:18.499705:   [DONE  ]   Preprocess ./dataset/corpus/Int/44.txt Done
+2019-12-07 08:39:18.574181:   [DONE  ]   Preprocess ./dataset/corpus/Int/45.txt Done
+2019-12-07 08:39:18.656840:   [DONE  ]   Preprocess ./dataset/corpus/Int/46.txt Done
+2019-12-07 08:39:18.771361:   [DONE  ]   Preprocess ./dataset/corpus/Int/47.txt Done
+2019-12-07 08:39:18.857606:   [DONE  ]   Preprocess ./dataset/corpus/Int/48.txt Done
+2019-12-07 08:39:18.903682:   [DONE  ]   Preprocess ./dataset/corpus/Int/49.txt Done
+2019-12-07 08:39:19.009006:   [DONE  ]   Preprocess ./dataset/corpus/Int/50.txt Done
+2019-12-07 08:39:19.123613:   [DONE  ]   Preprocess ./dataset/corpus/Int/51.txt Done
+2019-12-07 08:39:19.223249:   [DONE  ]   Preprocess ./dataset/corpus/Int/52.txt Done
+2019-12-07 08:39:19.307448:   [DONE  ]   Preprocess ./dataset/corpus/Int/53.txt Done
+2019-12-07 08:39:19.386470:   [DONE  ]   Preprocess ./dataset/corpus/Int/54.txt Done
+2019-12-07 08:39:19.471830:   [DONE  ]   Preprocess ./dataset/corpus/Int/55.txt Done
+2019-12-07 08:39:19.569484:   [DONE  ]   Preprocess ./dataset/corpus/Int/56.txt Done
+2019-12-07 08:39:19.659535:   [DONE  ]   Preprocess ./dataset/corpus/Int/57.txt Done
+2019-12-07 08:39:19.778337:   [DONE  ]   Preprocess ./dataset/corpus/Int/58.txt Done
+2019-12-07 08:39:19.885949:   [DONE  ]   Preprocess ./dataset/corpus/Int/59.txt Done
+2019-12-07 08:39:19.968875:   [DONE  ]   Preprocess ./dataset/corpus/Int/60.txt Done
+2019-12-07 08:39:20.030540:   [DONE  ]   Preprocess ./dataset/corpus/Int/61.txt Done
+2019-12-07 08:39:20.110104:   [DONE  ]   Preprocess ./dataset/corpus/Int/62.txt Done
+2019-12-07 08:39:20.180922:   [DONE  ]   Preprocess ./dataset/corpus/Int/63.txt Done
+2019-12-07 08:39:20.250415:   [DONE  ]   Preprocess ./dataset/corpus/Int/64.txt Done
+2019-12-07 08:39:20.332458:   [DONE  ]   Preprocess ./dataset/corpus/Int/65.txt Done
+2019-12-07 08:39:20.403817:   [DONE  ]   Preprocess ./dataset/corpus/Int/66.txt Done
+2019-12-07 08:39:20.464757:   [DONE  ]   Preprocess ./dataset/corpus/Int/67.txt Done
+2019-12-07 08:39:20.530003:   [DONE  ]   Preprocess ./dataset/corpus/Int/68.txt Done
+2019-12-07 08:39:20.610923:   [DONE  ]   Preprocess ./dataset/corpus/Int/69.txt Done
+2019-12-07 08:39:20.709814:   [DONE  ]   Preprocess ./dataset/corpus/Int/70.txt Done
+2019-12-07 08:39:20.772111:   [DONE  ]   Preprocess ./dataset/corpus/Int/71.txt Done
+2019-12-07 08:39:20.866655:   [DONE  ]   Preprocess ./dataset/corpus/Int/72.txt Done
+2019-12-07 08:39:20.963477:   [DONE  ]   Preprocess ./dataset/corpus/Int/73.txt Done
+2019-12-07 08:39:21.036020:   [DONE  ]   Preprocess ./dataset/corpus/Int/74.txt Done
+2019-12-07 08:39:21.114480:   [DONE  ]   Preprocess ./dataset/corpus/Int/75.txt Done
+2019-12-07 08:39:21.204494:   [DONE  ]   Preprocess ./dataset/corpus/Int/76.txt Done
+2019-12-07 08:39:21.285856:   [DONE  ]   Preprocess ./dataset/corpus/Int/77.txt Done
+2019-12-07 08:39:21.372595:   [DONE  ]   Preprocess ./dataset/corpus/Int/78.txt Done
+2019-12-07 08:39:21.467216:   [DONE  ]   Preprocess ./dataset/corpus/Int/79.txt Done
+2019-12-07 08:39:21.559669:   [DONE  ]   Preprocess ./dataset/corpus/Int/80.txt Done
+2019-12-07 08:39:21.649305:   [DONE  ]   Preprocess ./dataset/corpus/Int/81.txt Done
+2019-12-07 08:39:21.706343:   [DONE  ]   Preprocess ./dataset/corpus/Int/82.txt Done
+2019-12-07 08:39:21.802971:   [DONE  ]   Preprocess ./dataset/corpus/Int/83.txt Done
+2019-12-07 08:39:21.889901:   [DONE  ]   Preprocess ./dataset/corpus/Int/84.txt Done
+2019-12-07 08:39:21.974948:   [DONE  ]   Preprocess ./dataset/corpus/Int/85.txt Done
+2019-12-07 08:39:22.053848:   [DONE  ]   Preprocess ./dataset/corpus/Int/86.txt Done
+2019-12-07 08:39:22.135192:   [DONE  ]   Preprocess ./dataset/corpus/Int/87.txt Done
+2019-12-07 08:39:22.231861:   [DONE  ]   Preprocess ./dataset/corpus/Int/88.txt Done
+2019-12-07 08:39:22.333543:   [DONE  ]   Preprocess ./dataset/corpus/Int/89.txt Done
+2019-12-07 08:39:22.405847:   [DONE  ]   Preprocess ./dataset/corpus/Int/90.txt Done
+2019-12-07 08:39:22.503521:   [DONE  ]   Preprocess ./dataset/corpus/Int/91.txt Done
+2019-12-07 08:39:22.577780:   [DONE  ]   Preprocess ./dataset/corpus/Int/92.txt Done
+2019-12-07 08:39:22.678682:   [DONE  ]   Preprocess ./dataset/corpus/Int/93.txt Done
+2019-12-07 08:39:22.753791:   [DONE  ]   Preprocess ./dataset/corpus/Int/94.txt Done
+2019-12-07 08:39:22.851378:   [DONE  ]   Preprocess ./dataset/corpus/Int/95.txt Done
+2019-12-07 08:39:22.961400:   [DONE  ]   Preprocess ./dataset/corpus/Int/96.txt Done
+2019-12-07 08:39:23.044041:   [DONE  ]   Preprocess ./dataset/corpus/Int/97.txt Done
+2019-12-07 08:39:23.129364:   [DONE  ]   Preprocess ./dataset/corpus/Int/98.txt Done
+2019-12-07 08:39:23.215337:   [DONE  ]   Preprocess ./dataset/corpus/Int/99.txt Done
+2019-12-07 08:39:23.300628:   [DONE  ]   Preprocess ./dataset/corpus/Int/100.txt Done
+2019-12-07 08:39:23.364364:   [DONE  ]   Preprocess ./dataset/corpus/Int/101.txt Done
+2019-12-07 08:39:23.421490:   [DONE  ]   Preprocess ./dataset/corpus/Int/102.txt Done
+2019-12-07 08:39:23.481921:   [DONE  ]   Preprocess ./dataset/corpus/Int/103.txt Done
+2019-12-07 08:39:23.572148:   [DONE  ]   Preprocess ./dataset/corpus/Int/104.txt Done
+2019-12-07 08:39:23.650691:   [DONE  ]   Preprocess ./dataset/corpus/Int/105.txt Done
+2019-12-07 08:39:23.748229:   [DONE  ]   Preprocess ./dataset/corpus/Int/106.txt Done
+2019-12-07 08:39:23.852944:   [DONE  ]   Preprocess ./dataset/corpus/Int/107.txt Done
+2019-12-07 08:39:23.952827:   [DONE  ]   Preprocess ./dataset/corpus/Int/108.txt Done
+2019-12-07 08:39:24.048091:   [DONE  ]   Preprocess ./dataset/corpus/Int/109.txt Done
+2019-12-07 08:39:24.132953:   [DONE  ]   Preprocess ./dataset/corpus/Int/110.txt Done
+2019-12-07 08:39:24.203670:   [DONE  ]   Preprocess ./dataset/corpus/Int/111.txt Done
+2019-12-07 08:39:24.348713:   [DONE  ]   Preprocess ./dataset/corpus/Int/112.txt Done
+2019-12-07 08:39:24.459808:   [DONE  ]   Preprocess ./dataset/corpus/Int/113.txt Done
+2019-12-07 08:39:24.541106:   [DONE  ]   Preprocess ./dataset/corpus/Int/114.txt Done
+2019-12-07 08:39:24.651111:   [DONE  ]   Preprocess ./dataset/corpus/Int/115.txt Done
+2019-12-07 08:39:24.736767:   [DONE  ]   Preprocess ./dataset/corpus/Int/116.txt Done
+2019-12-07 08:39:24.813530:   [DONE  ]   Preprocess ./dataset/corpus/Int/117.txt Done
+2019-12-07 08:39:24.898821:   [DONE  ]   Preprocess ./dataset/corpus/Int/118.txt Done
+2019-12-07 08:39:24.995382:   [DONE  ]   Preprocess ./dataset/corpus/Int/119.txt Done
+2019-12-07 08:39:25.100761:   [DONE  ]   Preprocess ./dataset/corpus/Int/120.txt Done
+2019-12-07 08:39:25.184485:   [DONE  ]   Preprocess ./dataset/corpus/Int/121.txt Done
+2019-12-07 08:39:25.273400:   [DONE  ]   Preprocess ./dataset/corpus/Int/122.txt Done
+2019-12-07 08:39:25.358950:   [DONE  ]   Preprocess ./dataset/corpus/Int/123.txt Done
+2019-12-07 08:39:25.465701:   [DONE  ]   Preprocess ./dataset/corpus/Int/124.txt Done
+2019-12-07 08:39:25.559194:   [DONE  ]   Preprocess ./dataset/corpus/Int/125.txt Done
+2019-12-07 08:39:25.651316:   [DONE  ]   Preprocess ./dataset/corpus/Int/126.txt Done
+2019-12-07 08:39:25.803124:   [DONE  ]   Preprocess ./dataset/corpus/Int/127.txt Done
+2019-12-07 08:39:25.904297:   [DONE  ]   Preprocess ./dataset/corpus/Int/128.txt Done
+2019-12-07 08:39:25.996827:   [DONE  ]   Preprocess ./dataset/corpus/Int/129.txt Done
+2019-12-07 08:39:26.065724:   [DONE  ]   Preprocess ./dataset/corpus/Int/130.txt Done
+2019-12-07 08:39:26.149711:   [DONE  ]   Preprocess ./dataset/corpus/Int/131.txt Done
+2019-12-07 08:39:26.248817:   [DONE  ]   Preprocess ./dataset/corpus/Int/132.txt Done
+2019-12-07 08:39:26.335670:   [DONE  ]   Preprocess ./dataset/corpus/Int/133.txt Done
+2019-12-07 08:39:26.433307:   [DONE  ]   Preprocess ./dataset/corpus/Int/134.txt Done
+2019-12-07 08:39:26.526980:   [DONE  ]   Preprocess ./dataset/corpus/Int/135.txt Done
+2019-12-07 08:39:26.634223:   [DONE  ]   Preprocess ./dataset/corpus/Int/136.txt Done
+2019-12-07 08:39:26.725989:   [DONE  ]   Preprocess ./dataset/corpus/Int/137.txt Done
+2019-12-07 08:39:26.804424:   [DONE  ]   Preprocess ./dataset/corpus/Int/138.txt Done
+2019-12-07 08:39:26.894335:   [DONE  ]   Preprocess ./dataset/corpus/Int/139.txt Done
+2019-12-07 08:39:26.994828:   [DONE  ]   Preprocess ./dataset/corpus/Int/140.txt Done
+2019-12-07 08:39:27.078377:   [DONE  ]   Preprocess ./dataset/corpus/Int/141.txt Done
+2019-12-07 08:39:27.166555:   [DONE  ]   Preprocess ./dataset/corpus/Int/142.txt Done
+2019-12-07 08:39:27.241885:   [DONE  ]   Preprocess ./dataset/corpus/Int/143.txt Done
+2019-12-07 08:39:27.352001:   [DONE  ]   Preprocess ./dataset/corpus/Int/144.txt Done
+2019-12-07 08:39:27.439629:   [DONE  ]   Preprocess ./dataset/corpus/Int/145.txt Done
+2019-12-07 08:39:27.527363:   [DONE  ]   Preprocess ./dataset/corpus/Int/146.txt Done
+2019-12-07 08:39:27.622108:   [DONE  ]   Preprocess ./dataset/corpus/Int/147.txt Done
+2019-12-07 08:39:27.726879:   [DONE  ]   Preprocess ./dataset/corpus/Int/148.txt Done
+2019-12-07 08:39:27.809009:   [DONE  ]   Preprocess ./dataset/corpus/Int/149.txt Done
+2019-12-07 08:39:27.893439:   [DONE  ]   Preprocess ./dataset/corpus/Int/150.txt Done
+2019-12-07 08:39:27.893592:   [DONE  ]   Read Int Done
+2019-12-07 08:39:27.894233:   [START ]   Start Reading Adv
+2019-12-07 08:39:27.995174:   [DONE  ]   Preprocess ./dataset/corpus/Adv/1.txt Done
+2019-12-07 08:39:28.126577:   [DONE  ]   Preprocess ./dataset/corpus/Adv/2.txt Done
+2019-12-07 08:39:28.218244:   [DONE  ]   Preprocess ./dataset/corpus/Adv/3.txt Done
+2019-12-07 08:39:28.351233:   [DONE  ]   Preprocess ./dataset/corpus/Adv/4.txt Done
+2019-12-07 08:39:28.458265:   [DONE  ]   Preprocess ./dataset/corpus/Adv/5.txt Done
+2019-12-07 08:39:28.596193:   [DONE  ]   Preprocess ./dataset/corpus/Adv/6.txt Done
+2019-12-07 08:39:28.715059:   [DONE  ]   Preprocess ./dataset/corpus/Adv/7.txt Done
+2019-12-07 08:39:28.836174:   [DONE  ]   Preprocess ./dataset/corpus/Adv/8.txt Done
+2019-12-07 08:39:28.960834:   [DONE  ]   Preprocess ./dataset/corpus/Adv/9.txt Done
+2019-12-07 08:39:29.110932:   [DONE  ]   Preprocess ./dataset/corpus/Adv/10.txt Done
+2019-12-07 08:39:29.227629:   [DONE  ]   Preprocess ./dataset/corpus/Adv/11.txt Done
+2019-12-07 08:39:29.344750:   [DONE  ]   Preprocess ./dataset/corpus/Adv/12.txt Done
+2019-12-07 08:39:29.466318:   [DONE  ]   Preprocess ./dataset/corpus/Adv/13.txt Done
+2019-12-07 08:39:29.562559:   [DONE  ]   Preprocess ./dataset/corpus/Adv/14.txt Done
+2019-12-07 08:39:29.651166:   [DONE  ]   Preprocess ./dataset/corpus/Adv/15.txt Done
+2019-12-07 08:39:29.737825:   [DONE  ]   Preprocess ./dataset/corpus/Adv/16.txt Done
+2019-12-07 08:39:29.864700:   [DONE  ]   Preprocess ./dataset/corpus/Adv/17.txt Done
+2019-12-07 08:39:29.974958:   [DONE  ]   Preprocess ./dataset/corpus/Adv/18.txt Done
+2019-12-07 08:39:30.088562:   [DONE  ]   Preprocess ./dataset/corpus/Adv/19.txt Done
+2019-12-07 08:39:30.221260:   [DONE  ]   Preprocess ./dataset/corpus/Adv/20.txt Done
+2019-12-07 08:39:30.334181:   [DONE  ]   Preprocess ./dataset/corpus/Adv/21.txt Done
+2019-12-07 08:39:30.460058:   [DONE  ]   Preprocess ./dataset/corpus/Adv/22.txt Done
+2019-12-07 08:39:30.601588:   [DONE  ]   Preprocess ./dataset/corpus/Adv/23.txt Done
+2019-12-07 08:39:30.723221:   [DONE  ]   Preprocess ./dataset/corpus/Adv/24.txt Done
+2019-12-07 08:39:30.824745:   [DONE  ]   Preprocess ./dataset/corpus/Adv/25.txt Done
+2019-12-07 08:39:30.941397:   [DONE  ]   Preprocess ./dataset/corpus/Adv/26.txt Done
+2019-12-07 08:39:31.036952:   [DONE  ]   Preprocess ./dataset/corpus/Adv/27.txt Done
+2019-12-07 08:39:31.127543:   [DONE  ]   Preprocess ./dataset/corpus/Adv/28.txt Done
+2019-12-07 08:39:31.214913:   [DONE  ]   Preprocess ./dataset/corpus/Adv/29.txt Done
+2019-12-07 08:39:31.313167:   [DONE  ]   Preprocess ./dataset/corpus/Adv/30.txt Done
+2019-12-07 08:39:31.458295:   [DONE  ]   Preprocess ./dataset/corpus/Adv/31.txt Done
+2019-12-07 08:39:31.573390:   [DONE  ]   Preprocess ./dataset/corpus/Adv/32.txt Done
+2019-12-07 08:39:31.677893:   [DONE  ]   Preprocess ./dataset/corpus/Adv/33.txt Done
+2019-12-07 08:39:31.798630:   [DONE  ]   Preprocess ./dataset/corpus/Adv/34.txt Done
+2019-12-07 08:39:31.906584:   [DONE  ]   Preprocess ./dataset/corpus/Adv/35.txt Done
+2019-12-07 08:39:32.004693:   [DONE  ]   Preprocess ./dataset/corpus/Adv/36.txt Done
+2019-12-07 08:39:32.109218:   [DONE  ]   Preprocess ./dataset/corpus/Adv/37.txt Done
+2019-12-07 08:39:32.230495:   [DONE  ]   Preprocess ./dataset/corpus/Adv/38.txt Done
+2019-12-07 08:39:32.340732:   [DONE  ]   Preprocess ./dataset/corpus/Adv/39.txt Done
+2019-12-07 08:39:32.434443:   [DONE  ]   Preprocess ./dataset/corpus/Adv/40.txt Done
+2019-12-07 08:39:32.537070:   [DONE  ]   Preprocess ./dataset/corpus/Adv/41.txt Done
+2019-12-07 08:39:32.657287:   [DONE  ]   Preprocess ./dataset/corpus/Adv/42.txt Done
+2019-12-07 08:39:32.734370:   [DONE  ]   Preprocess ./dataset/corpus/Adv/43.txt Done
+2019-12-07 08:39:32.856611:   [DONE  ]   Preprocess ./dataset/corpus/Adv/44.txt Done
+2019-12-07 08:39:32.928116:   [DONE  ]   Preprocess ./dataset/corpus/Adv/45.txt Done
+2019-12-07 08:39:33.020239:   [DONE  ]   Preprocess ./dataset/corpus/Adv/46.txt Done
+2019-12-07 08:39:33.144302:   [DONE  ]   Preprocess ./dataset/corpus/Adv/47.txt Done
+2019-12-07 08:39:33.239278:   [DONE  ]   Preprocess ./dataset/corpus/Adv/48.txt Done
+2019-12-07 08:39:33.327836:   [DONE  ]   Preprocess ./dataset/corpus/Adv/49.txt Done
+2019-12-07 08:39:33.434795:   [DONE  ]   Preprocess ./dataset/corpus/Adv/50.txt Done
+2019-12-07 08:39:33.558334:   [DONE  ]   Preprocess ./dataset/corpus/Adv/51.txt Done
+2019-12-07 08:39:33.682400:   [DONE  ]   Preprocess ./dataset/corpus/Adv/52.txt Done
+2019-12-07 08:39:33.807381:   [DONE  ]   Preprocess ./dataset/corpus/Adv/53.txt Done
+2019-12-07 08:39:33.895622:   [DONE  ]   Preprocess ./dataset/corpus/Adv/54.txt Done
+2019-12-07 08:39:33.998957:   [DONE  ]   Preprocess ./dataset/corpus/Adv/55.txt Done
+2019-12-07 08:39:34.131522:   [DONE  ]   Preprocess ./dataset/corpus/Adv/56.txt Done
+2019-12-07 08:39:34.247234:   [DONE  ]   Preprocess ./dataset/corpus/Adv/57.txt Done
+2019-12-07 08:39:34.404450:   [DONE  ]   Preprocess ./dataset/corpus/Adv/58.txt Done
+2019-12-07 08:39:34.554270:   [DONE  ]   Preprocess ./dataset/corpus/Adv/59.txt Done
+2019-12-07 08:39:34.653147:   [DONE  ]   Preprocess ./dataset/corpus/Adv/60.txt Done
+2019-12-07 08:39:34.738195:   [DONE  ]   Preprocess ./dataset/corpus/Adv/61.txt Done
+2019-12-07 08:39:34.818780:   [DONE  ]   Preprocess ./dataset/corpus/Adv/62.txt Done
+2019-12-07 08:39:34.934600:   [DONE  ]   Preprocess ./dataset/corpus/Adv/63.txt Done
+2019-12-07 08:39:35.026857:   [DONE  ]   Preprocess ./dataset/corpus/Adv/64.txt Done
+2019-12-07 08:39:35.119457:   [DONE  ]   Preprocess ./dataset/corpus/Adv/65.txt Done
+2019-12-07 08:39:35.215519:   [DONE  ]   Preprocess ./dataset/corpus/Adv/66.txt Done
+2019-12-07 08:39:35.303910:   [DONE  ]   Preprocess ./dataset/corpus/Adv/67.txt Done
+2019-12-07 08:39:35.395444:   [DONE  ]   Preprocess ./dataset/corpus/Adv/68.txt Done
+2019-12-07 08:39:35.480485:   [DONE  ]   Preprocess ./dataset/corpus/Adv/69.txt Done
+2019-12-07 08:39:35.547514:   [DONE  ]   Preprocess ./dataset/corpus/Adv/70.txt Done
+2019-12-07 08:39:35.607391:   [DONE  ]   Preprocess ./dataset/corpus/Adv/71.txt Done
+2019-12-07 08:39:35.726525:   [DONE  ]   Preprocess ./dataset/corpus/Adv/72.txt Done
+2019-12-07 08:39:35.826848:   [DONE  ]   Preprocess ./dataset/corpus/Adv/73.txt Done
+2019-12-07 08:39:35.906791:   [DONE  ]   Preprocess ./dataset/corpus/Adv/74.txt Done
+2019-12-07 08:39:36.005461:   [DONE  ]   Preprocess ./dataset/corpus/Adv/75.txt Done
+2019-12-07 08:39:36.099629:   [DONE  ]   Preprocess ./dataset/corpus/Adv/76.txt Done
+2019-12-07 08:39:36.191771:   [DONE  ]   Preprocess ./dataset/corpus/Adv/77.txt Done
+2019-12-07 08:39:36.276955:   [DONE  ]   Preprocess ./dataset/corpus/Adv/78.txt Done
+2019-12-07 08:40:31.387380:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:40:31.387555:   [INFO  ]   Hello world!
+2019-12-07 08:40:31.388480:   [INFO  ]   Start main processing!
+2019-12-07 08:40:31.388857:   [START ]   Start Prepare Traning data
+2019-12-07 08:40:31.389060:   [START ]   Initialize parameters Start
+2019-12-07 08:40:31.389230:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:40:31.389313:   [START ]   Start setup FOLD
+2019-12-07 08:40:31.389472:   [START ]   Setup FOLD Done
+2019-12-07 08:40:31.389553:   [START ]   Start setup Coefficient
+2019-12-07 08:41:02.323792:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:41:02.323976:   [INFO  ]   Hello world!
+2019-12-07 08:41:02.324872:   [INFO  ]   Start main processing!
+2019-12-07 08:41:02.325213:   [START ]   Start Prepare Traning data
+2019-12-07 08:41:02.325563:   [START ]   Initialize parameters Start
+2019-12-07 08:41:02.325695:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:41:02.325826:   [START ]   Start setup FOLD
+2019-12-07 08:41:02.326161:   [START ]   Setup FOLD Done
+2019-12-07 08:41:02.326233:   [START ]   Start setup Coefficient
+2019-12-07 08:45:01.567986:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:45:01.568143:   [INFO  ]   Hello world!
+2019-12-07 08:45:01.568941:   [INFO  ]   Start main processing!
+2019-12-07 08:45:01.569148:   [START ]   Start Prepare Traning data
+2019-12-07 08:45:01.569222:   [START ]   Initialize parameters Start
+2019-12-07 08:45:01.569395:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:45:01.569478:   [START ]   Start setup FOLD
+2019-12-07 08:45:01.569639:   [START ]   Setup FOLD Done
+2019-12-07 08:45:01.569711:   [START ]   Start setup Coefficient
+2019-12-07 08:45:15.399107:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:45:15.399361:   [INFO  ]   Hello world!
+2019-12-07 08:45:15.400046:   [INFO  ]   Start main processing!
+2019-12-07 08:45:15.400230:   [START ]   Start Prepare Traning data
+2019-12-07 08:45:15.400466:   [START ]   Initialize parameters Start
+2019-12-07 08:45:15.400641:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:45:15.400780:   [START ]   Start setup FOLD
+2019-12-07 08:45:15.400971:   [START ]   Setup FOLD Done
+2019-12-07 08:45:15.401041:   [START ]   Start setup Coefficient
+2019-12-07 08:49:20.258084:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:49:20.258345:   [INFO  ]   Hello world!
+2019-12-07 08:49:20.259038:   [INFO  ]   Start main processing!
+2019-12-07 08:49:20.259187:   [START ]   Start Prepare Traning data
+2019-12-07 08:49:20.259385:   [START ]   Initialize parameters Start
+2019-12-07 08:49:20.259504:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:49:20.259589:   [START ]   Start setup FOLD
+2019-12-07 08:49:20.259751:   [START ]   Setup FOLD Done
+2019-12-07 08:49:20.259831:   [START ]   Start setup Coefficient
+2019-12-07 08:49:29.324560:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:49:29.324739:   [INFO  ]   Hello world!
+2019-12-07 08:49:29.325547:   [INFO  ]   Start main processing!
+2019-12-07 08:49:29.325802:   [START ]   Start Prepare Traning data
+2019-12-07 08:49:29.326020:   [START ]   Initialize parameters Start
+2019-12-07 08:49:29.326152:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:49:29.326289:   [START ]   Start setup FOLD
+2019-12-07 08:49:29.326502:   [START ]   Setup FOLD Done
+2019-12-07 08:49:29.326583:   [START ]   Start setup Coefficient
+2019-12-07 08:49:36.879454:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:49:36.879712:   [INFO  ]   Hello world!
+2019-12-07 08:49:36.880490:   [INFO  ]   Start main processing!
+2019-12-07 08:49:36.880599:   [START ]   Start Prepare Traning data
+2019-12-07 08:49:36.880829:   [START ]   Initialize parameters Start
+2019-12-07 08:49:36.881068:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:49:36.881297:   [START ]   Start setup FOLD
+2019-12-07 08:49:36.881472:   [START ]   Setup FOLD Done
+2019-12-07 08:49:36.881541:   [START ]   Start setup Coefficient
+2019-12-07 08:53:54.344191:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 08:53:54.344335:   [INFO  ]   Hello world!
+2019-12-07 08:53:54.344643:   [INFO  ]   Start main processing!
+2019-12-07 08:53:54.344842:   [START ]   Start Prepare Traning data
+2019-12-07 08:53:54.344962:   [START ]   Initialize parameters Start
+2019-12-07 08:53:54.345131:   [DONE  ]   Initialize parameters Done
+2019-12-07 08:53:54.345369:   [START ]   Start setup FOLD
+2019-12-07 08:53:54.345556:   [START ]   Setup FOLD Done
+2019-12-07 08:53:54.345667:   [START ]   Start setup Coefficient

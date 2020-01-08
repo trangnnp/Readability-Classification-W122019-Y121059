@@ -1,0 +1,9 @@
+2019-12-07 07:53:29.260961:   [INFO  ]   -----------------------------------------------------------------------------
+2019-12-07 07:53:29.261113:   [INFO  ]   Hello world!
+2019-12-07 07:53:29.261227:   [INFO  ]   Start main processing!
+2019-12-07 07:53:29.261336:   [START ]   Start Prepare Traning data
+2019-12-07 07:53:29.261470:   [START ]   Initialize parameters Start
+2019-12-07 07:53:29.261601:   [DONE  ]   Initialize parameters Done
+2019-12-07 07:53:29.261677:   [START ]   Start setup FOLD
+2019-12-07 07:53:29.261829:   [START ]   Setup FOLD Done
+2019-12-07 07:53:29.261905:   [START ]   Start setup Coefficient
