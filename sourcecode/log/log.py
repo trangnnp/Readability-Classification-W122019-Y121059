@@ -9,9 +9,25 @@ def wLog(tag, context):
     f.close()
 
 
+def startProj():
+    wLog('INFO  ', '-----------------------------------------------------------------------------')
+
+
 def callHere(context):
-    wLog('INFO', context)
+    wLog('INFO  ', context)
 
 
 def exitHere(context):
-    wLog('EXIT', context)
+    wLog('EXIT  ', context)
+
+
+def startHere(context):
+    wLog('START ', context)
+
+
+def doneHere(context):
+    wLog('DONE  ', context)
+
+
+def resultHere(context):
+    wLog('RESULT', '----------' + context + '----------')
