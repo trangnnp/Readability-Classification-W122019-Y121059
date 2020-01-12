@@ -253,12 +253,14 @@ def main():
     l.startHere('Start Prepare Traning data')
 
     level = ['KET', 'PET', 'FCE', 'CAE', 'CPE']
-    quantyLevel = [50, 50, 50, 50, 44]
-    # quantyLevel = [61, 55, 67, 55, 44]
+    # quantyLevel = [50, 50, 50, 50, 44]
+    quantyLevel = [61, 55, 67, 55, 44]
 
-    # h.calculateRawScore(level, quantyLevel, 8, 'cambridge')
+    h.calculateRawScore(level, quantyLevel, cc.FEATURE, 'cambridge')
     # _ = input()
     # quantyLevel = [151, 151, 151]
+    quantyLevel = [50, 50, 50, 50, 44]
+
     rawScore = h.getRealRawScoreFromFile(level, quantyLevel, 'cambridge')
     # for i in range(len(rawScore)):
     #     summ = 0
@@ -271,6 +273,7 @@ def main():
         for ii in range(len(rawScore[i])):
             rawScore[i][ii][-2] = rawScore[i][ii][-2]**0.7
 
+    # coe = [[2.256, 0.7, 0.0, 0.0, 0.855, 1.0, 2.0, 0.004, 0.002, 0.085]]
     coe = [[2.256, 0.7, 0.855, 1.0, 2.0, 0.004, 0.002, 0.085]]
     # coe = [[2.0, 0.7, 1.0, 1.0, 2.0, 0.004, 0.0, 0.085]] 0.8171296296296297
 
@@ -342,8 +345,9 @@ def main():
     l.exitHere('Exit main process!')
 
     level = ['Ele', 'Int', 'Adv']
+    quantyLevel = [178, 170, 161]
+    h.calculateRawScore(level, quantyLevel, cc.FEATURE, 'corpus')
     quantyLevel = [151, 151, 151]
-    # h.calculateRawScore(level, quantyLevel, 8, 'corpus')
     rawScore = h.getRealRawScoreFromFile(level, quantyLevel, 'corpus')
 
     # for i in range(len(rawScore)):

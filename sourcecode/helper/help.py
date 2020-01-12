@@ -26,6 +26,7 @@ from config import config as c
 import numpy
 import string
 import re
+import math
 import os
 import sys
 sys.setrecursionlimit(1000000)
@@ -393,6 +394,8 @@ def getRawScore(raw, preprocessed):
         "char_per_word":        0.0,
         "type_token_ratio":     0.0,
         "correct_type_token_ratio":     0.0,
+        "bilogarithmic": 0.0,
+        "uber_index": 0.0,
         "syllable_count":       0.0,
         "document_length":      0.0,
         "awl":                  0.0,
@@ -401,13 +404,18 @@ def getRawScore(raw, preprocessed):
 
     voca = set(preprocessed)
     vocaRaw = set(raw)
+
     type_token_ratio = "type_token_ratio"
     correct_type_token_ratio = "correct_type_token_ratio"
+    bilogarithmic = "bilogarithmic"
+    uber_index = "uber_index"
+
     lexical_density = "lexical_density"
     char_per_word = "char_per_word"
     syllable_count = "syllable_count"
-    document_length = "document_length"
     awl = "awl"
+
+    document_length = "document_length"
     mean_sentence_length = "mean_sentence_length"
 
     # Token related
@@ -415,6 +423,10 @@ def getRawScore(raw, preprocessed):
     score[type_token_ratio] = float(len(voca))/float(len(raw))
     score[correct_type_token_ratio] = float(len(voca))/float((2*len(raw))**0.5)
     # l.resultHere('type_token_ratio: ' + str(score[type_token_ratio]))
+
+    # score[bilogarithmic] = float(math.log(len(voca)))/float(math.log(len(raw)))
+    # score[uber_index] = float(math.log(len(voca))**2) / \
+    #     float(math.log(float(len(raw))/float(len(voca))))
 
     # Lexical related
     # ___lexical_density
@@ -442,6 +454,8 @@ def getRawScore(raw, preprocessed):
 
     return [score[type_token_ratio],
             score[correct_type_token_ratio],
+            # score[bilogarithmic],
+            # score[uber_index],
             score[lexical_density],
             score[char_per_word],
             score[syllable_count],
@@ -452,7 +466,7 @@ def getRawScore(raw, preprocessed):
 def avgSyllableCount(words):
     syllable = []
     for w in words:
-        syllable.append(h.syllableCount(w))
+        syllable.append(syllableCount(w))
     return float(sum(syllable))/float(len(syllable))
 
 
