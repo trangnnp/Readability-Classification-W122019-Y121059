@@ -424,9 +424,9 @@ def getRawScore(raw, preprocessed):
     score[correct_type_token_ratio] = float(len(voca))/float((2*len(raw))**0.5)
     # l.resultHere('type_token_ratio: ' + str(score[type_token_ratio]))
 
-    # score[bilogarithmic] = float(math.log(len(voca)))/float(math.log(len(raw)))
-    # score[uber_index] = float(math.log(len(voca))**2) / \
-    #     float(math.log(float(len(raw))/float(len(voca))))
+    score[bilogarithmic] = float(math.log(len(voca)))/float(math.log(len(raw)))
+    score[uber_index] = float(math.log(len(voca))**2) / \
+        float(math.log(float(len(raw))/float(len(voca))))
 
     # Lexical related
     # ___lexical_density
@@ -454,8 +454,8 @@ def getRawScore(raw, preprocessed):
 
     return [score[type_token_ratio],
             score[correct_type_token_ratio],
-            # score[bilogarithmic],
-            # score[uber_index],
+            score[bilogarithmic],
+            score[uber_index],
             score[lexical_density],
             score[char_per_word],
             score[syllable_count],
