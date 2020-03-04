@@ -46,6 +46,32 @@ and contains about 282 documents.
 **Accuracy:** this is the percentage let us know how well the model is. It is calculated by dividing the number of matching label by the total number of reference label. For each of the dataset, our method is calculating the accuracy of each level and then get the average number to get the ﬁnal accuracy. 
 
 ## Our method:
+We apply some feature and build a coefficient set, based on analizing our dataset.
+
+Some examples:
+
+### Lexical Features
+
+**Lexical Density:** Lexical density is a concept that measures
+the complexity of a sentence or a document in linguistic
+by using functional words like nouns, adjectives, verbs, and
+adverbs. It also provides us the meaning and the information
+regarding what the sentence or the document is about.
+
+**Proportion of words in AWL:** Academic Word List (AWL)
+is a list contains 570 words that appear with high frequency
+in academic text. It was developed by Averil Coxhead at the School of Linguistics and Applied Language Studies at
+Victoria University of Wellington, New Zealand. The words
+are divided into 10 groups. Group 1 is the most frequent words
+and group 10 is the least frequent words.
+
+**Type-Token Ratio:** The total number of words in a docu-
+ment are called token, each token may repeated many times.
+
+### Syntactic Features
+
+**Mean Word Length:** the average number of characters per
+word in a sentence.
 
 
 ## Result:
