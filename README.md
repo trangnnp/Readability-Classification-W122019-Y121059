@@ -1,9 +1,11 @@
 
+
 # readability_classification_w122019_y121059
 
 ## Introduction
 Readability is the ease with which a reader can understand a written text, a score to know how it will be accessible to readers. From a linguistic perspective, the readability of a text is determined by much more than a few superﬁcial textual features. For example, does the reader know most of the words? Does the text contain complex grammatical structures? Are there enough connectives to explain the ﬂow of the text? Is the text about a lot of different concepts? Measuring the readability of a text has a long history, mainly in the educational domain. **Second Language Acquisition** (SLA) is applied as a base method of combining Lexical and Syntactic features.
-**Our article:**  
+
+**Our article:** [Readability Classification Article](https://drive.google.com/file/d/1UYDdkFRwR78mA-8V6tAhdzRXPAHsffOb/view)
 
 ## Dataset
 
@@ -21,9 +23,9 @@ It consists of about 509 documents classiﬁed into 3 reading levels for English
 
 The original articles of this dataset is collected from **The Guardian newspaper** and had been rewritten to suit the three levels of English learners on onestopenglish.com, a website run by MacMillan Education.
 
-*More Information:* [https://www.aclweb.org/anthology/W18-0535/](https://www.aclweb.org/anthology/W18-0535/)
+*More Information:* [W18-0535](https://www.aclweb.org/anthology/W18-0535/)
 
-*Download:* [https://github.com/nishkalavallabhi/OneStopEnglishCorpus/tree/master/Texts-SeparatedByReadingLevel](https://github.com/nishkalavallabhi/OneStopEnglishCorpus/tree/master/Texts-SeparatedByReadingLevel)
+*Download:* [OneStopEnglishCorpus - SeparatedByReadingLevel](https://github.com/nishkalavallabhi/OneStopEnglishCorpus/tree/master/Texts-SeparatedByReadingLevel)
 
 **Cambridge Readability Dataset**
 This dataset is created by **Menglin Xia**, **Ekaterina Kochmar**, and **Ted Briscoe** from University of Cambridge.
@@ -37,7 +39,7 @@ It composes of reading passages from the 5 reading levels which target at ESL le
 
 and contains about 282 documents.
 
-*More Information and Download:* [https://ilexir.co.uk/datasets/index.html](https://ilexir.co.uk/datasets/index.html)
+*More Information and Download:* [Cambridge Readability Dataset](https://ilexir.co.uk/datasets/index.html)
 
 ## Evaluation
 
